@@ -29,6 +29,10 @@ buildExpired = false
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   ShowPageNums = true
+
+  [params.footer]
+    hideCopyright = false
+    text = ""
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false
