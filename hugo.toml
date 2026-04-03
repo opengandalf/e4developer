@@ -5,6 +5,7 @@ theme = "PaperMod"
 paginate = 10
 
 enableRobotsTXT = true
+googleAnalytics = "G-CBBXF251QB"
 buildDrafts = false
 buildFuture = false
 buildExpired = false
