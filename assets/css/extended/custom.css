@@ -262,6 +262,15 @@ blockquote {
   display: flex;
   gap: 2.5rem;
   align-items: flex-start;
+  margin-top: 0;
+}
+
+.home-layout .home-posts {
+  padding-top: 0;
+}
+
+.home-layout .sidebar {
+  padding-top: 0;
 }
 
 .home-posts {
@@ -494,6 +503,10 @@ blockquote {
 }
 
 /* Style the first/featured post entry */
+.first-entry {
+  margin-top: 0;
+}
+
 .first-entry .entry-header h1 {
   background: var(--accent-gradient);
   -webkit-background-clip: text;
