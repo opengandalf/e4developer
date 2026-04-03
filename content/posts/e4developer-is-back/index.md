@@ -1,6 +1,6 @@
 ---
 title: "e4developer is back"
-date: 2026-04-03T22:48:00Z
+date: 2026-04-03T12:00:00Z
 draft: false
 description: "After a long break, e4developer is back. New role at Meta, new side projects, and a fresh start for the blog."
 categories: ["Personal", "Career"]
