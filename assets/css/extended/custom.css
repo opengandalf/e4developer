@@ -535,6 +535,11 @@ article.first-entry .entry-cover img {
   border-radius: 8px;
 }
 
+article.first-entry {
+  margin-bottom: 24px !important;
+  min-height: 0 !important;
+}
+
 article.first-entry .entry-header h2 {
   font-size: inherit;
 }
