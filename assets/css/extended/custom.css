@@ -27,9 +27,8 @@
   --accent-gradient: linear-gradient(135deg, #3b82f6, #06b6d4);
 }
 
-/* Dark mode overrides */
-html[data-theme="dark"],
-html.dark {
+/* Dark mode */
+html[data-theme="dark"] {
   --theme: #0a0a0a !important;
   --entry: #111111 !important;
   --primary: #e4e4e7 !important;
@@ -38,11 +37,11 @@ html.dark {
   --content: #d4d4d8 !important;
   --code-bg: #141414 !important;
   --border: #27272a !important;
+  color-scheme: dark;
 }
 
 /* Light mode */
-html[data-theme="light"],
-html:not(.dark) {
+html[data-theme="light"] {
   --theme: #fafafa !important;
   --entry: #ffffff !important;
   --primary: #18181b !important;
@@ -51,6 +50,7 @@ html:not(.dark) {
   --content: #3f3f46 !important;
   --code-bg: #f4f4f5 !important;
   --border: #e4e4e7 !important;
+  color-scheme: light;
 }
 
 body {
