@@ -530,8 +530,18 @@ blockquote {
   box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
 }
 
+.first-entry .entry-cover {
+  margin: 0.75rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.first-entry .entry-cover img {
+  border-radius: 6px;
+}
+
 .first-entry .entry-header {
-  padding: 1rem 1rem 0;
+  padding: 0.5rem 1rem 0;
 }
 
 .first-entry .entry-content {
