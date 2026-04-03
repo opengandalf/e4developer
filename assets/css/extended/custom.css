@@ -436,6 +436,19 @@ blockquote {
   }
 }
 
+/* Sidebar about section */
+.sidebar-about p {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--secondary);
+  margin: 0;
+}
+
+/* Hide the homeInfoParams banner if it somehow renders */
+.first-entry {
+  display: none;
+}
+
 /* ========================================
    About page
    ======================================== */

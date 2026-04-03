@@ -43,9 +43,7 @@ buildExpired = false
     favicon32x32 = "/images/favicon.png"
     apple_touch_icon = "/images/favicon.png"
 
-  [params.homeInfoParams]
-    Title = "e4developer"
-    Content = "Tech Leadership, AI & Distributed Systems"
+  # homeInfoParams removed — sidebar handles branding
 
   [[params.socialIcons]]
     name = "twitter"
