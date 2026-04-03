@@ -33,11 +33,12 @@ buildExpired = false
   ShowRssButtonInSectionTermList = true
   ShowPageNums = true
 
+  disableSpecial1stPost = true
+  UseHugoToc = true
+
   [params.footer]
     hideCopyright = false
     text = ""
-  UseHugoToc = true
-  disableSpecial1stPost = true
   disableScrollToTop = false
   hidemeta = false
   hideSummary = false
