@@ -498,17 +498,35 @@ blockquote {
   margin: 0;
 }
 
-/* Style the first/featured post entry */
+/* Style the first/featured post entry - match regular post-entry cards */
 .first-entry {
   margin-top: 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.first-entry .entry-header h1 {
-  background: var(--accent-gradient);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  font-weight: 800;
+.first-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
+}
+
+.first-entry .entry-header {
+  padding: 1rem 1rem 0;
+}
+
+.first-entry .entry-content {
+  padding: 0 1rem;
+}
+
+.first-entry .entry-footer {
+  padding: 0 1rem 1rem;
+}
+
+.first-entry .entry-header h2 {
+  font-size: 1.2rem;
 }
 
 /* ========================================
