@@ -11,9 +11,7 @@ aliases:
   - "/2019/01/04/alexa-say-a-happy-new-year/"
 ShowToc: true
 TocOpen: false
----![](images/alexa-header.jpg)
-
-Happy New Year to all my readers! I hope you missed these blog posts at least a little bit. I had a good rest during the festive period and feel ready to start writing and *hacking* again. In this article, I want to tell you about my most recent fascination- programming for Alexa (Echo) enabled devices.
+---Happy New Year to all my readers! I hope you missed these blog posts at least a little bit. I had a good rest during the festive period and feel ready to start writing and *hacking* again. In this article, I want to tell you about my most recent fascination- programming for Alexa (Echo) enabled devices.
 
 ## What is Alexa
 

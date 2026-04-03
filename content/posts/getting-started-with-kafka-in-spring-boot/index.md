@@ -11,9 +11,7 @@ aliases:
   - "/2018/05/21/getting-started-with-kafka-in-spring-boot/"
 ShowToc: true
 TocOpen: false
----![](images/spring-kafka-e1526944467487.jpg)
-
-Kafka seems to only be gaining in popularity. A few years ago you could mostly see it in Big Data engineering context. These days, Kafka is starting to power more common message-oriented architectures. In this article, I want to give you a basic introduction to working with Spring Boot and Kafka.
+---Kafka seems to only be gaining in popularity. A few years ago you could mostly see it in Big Data engineering context. These days, Kafka is starting to power more common message-oriented architectures. In this article, I want to give you a basic introduction to working with Spring Boot and Kafka.
 
 ## Installing Kafka on your machine
 

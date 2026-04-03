@@ -11,9 +11,7 @@ aliases:
   - "/2018/07/29/when-to-use-a-java-framework-like-spring/"
 ShowToc: true
 TocOpen: false
----![](images/leaves.jpg)
-
-I have recently been writing a lot about microframeworks and my enthusiasm for them. Even though I think they are amazing, they are not always the answer. In this article, I will explore use cases, where a fully featured framework may be just what you need.
+---I have recently been writing a lot about microframeworks and my enthusiasm for them. Even though I think they are amazing, they are not always the answer. In this article, I will explore use cases, where a fully featured framework may be just what you need.
 
 ## What is the difference between framework and microframework?
 

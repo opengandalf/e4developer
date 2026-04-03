@@ -11,9 +11,7 @@ aliases:
   - "/2018/04/08/productivity-advice-for-developers-and-development-teams/"
 ShowToc: true
 TocOpen: false
----![](images/management-matrix.png)
-
-Getting work done effectively and efficiently is a goal of most software development teams. On a personal level, being able to get a productive day at work can also be immensely satisfying. In this article, I will share with you my advice on how to be much more productive. This advice is inspired by “The 7 Habits of Highly Effective People” – a book that made a big impact on me.
+---Getting work done effectively and efficiently is a goal of most software development teams. On a personal level, being able to get a productive day at work can also be immensely satisfying. In this article, I will share with you my advice on how to be much more productive. This advice is inspired by “The 7 Habits of Highly Effective People” – a book that made a big impact on me.
 
 I believe one of the keys to increased productivity is to concentrate on doing the right things at work. How do you know what are the right things? To answer that question, I will use *The Management Matrix* as described in “The 7 Habits of Highly Effective People”.
 

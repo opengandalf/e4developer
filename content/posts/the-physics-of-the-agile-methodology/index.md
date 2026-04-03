@@ -11,9 +11,7 @@ aliases:
   - "/2018/09/29/the-physics-of-the-agile-methodology/"
 ShowToc: true
 TocOpen: false
----![](images/agile-physics.jpg)
-
-There are numerous articles out there talking about agile teams and how being agile will change your life/project. I agree with what [Agile Manifesto](http://agilemanifesto.org/) proposes, but overall, I think that agile movement lacks scientific approach. In this article, I will apply my understanding of physics to *“prove”* and explain some of the *agile phenomena*.
+---There are numerous articles out there talking about agile teams and how being agile will change your life/project. I agree with what [Agile Manifesto](http://agilemanifesto.org/) proposes, but overall, I think that agile movement lacks scientific approach. In this article, I will apply my understanding of physics to *“prove”* and explain some of the *agile phenomena*.
 
 Before you get angry and start telling me that I am abusing here either physics and agile- take a deep breath and remember:
 

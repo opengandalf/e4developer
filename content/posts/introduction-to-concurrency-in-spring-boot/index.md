@@ -11,9 +11,7 @@ aliases:
   - "/2018/03/30/introduction-to-concurrency-in-spring-boot/"
 ShowToc: true
 TocOpen: false
----![](images/trains.jpg)
-
-When building services with Spring Boot we have to deal with concurrency. There is this misconception that because of using Servlets and getting a new Thread allocated per request there is no need to think about concurrency. In this article, I will give some practical advice on dealing with multi-threading in Spring Boot and how to avoid problems it can create.
+---When building services with Spring Boot we have to deal with concurrency. There is this misconception that because of using Servlets and getting a new Thread allocated per request there is no need to think about concurrency. In this article, I will give some practical advice on dealing with multi-threading in Spring Boot and how to avoid problems it can create.
 
 ## Spring Boot Concurrency Basics
 

@@ -11,9 +11,7 @@ aliases:
   - "/2018/09/09/microservices-and-cross-cutting-concerns/"
 ShowToc: true
 TocOpen: false
----![](images/technical-forum.jpg)
-
-When thinking about microservices, we mostly imagine autonomous teams working on independent services. Despite all that independence, things such as log aggregation and security benefit from a system level thinking. In this article, I will discuss these concerns and give my advice on how to approach them.
+---When thinking about microservices, we mostly imagine autonomous teams working on independent services. Despite all that independence, things such as log aggregation and security benefit from a system level thinking. In this article, I will discuss these concerns and give my advice on how to approach them.
 
 There are different kinds of microservices systems. Some of them are truly independent when every microservice is nearly indistinguishable from a third-party API, other- because of either necessity or practicality, rely on shared infrastructure or concepts.
 

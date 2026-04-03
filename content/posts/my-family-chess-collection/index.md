@@ -11,9 +11,7 @@ aliases:
   - "/2018/07/29/my-family-chess-collection/"
 ShowToc: true
 TocOpen: false
----![](images/chess-collection.jpg)
-
-You may know that playing chess is my passion. The name of this website- *E4developer* comes from the chess move I start my games with – e4.
+---You may know that playing chess is my passion. The name of this website- *E4developer* comes from the chess move I start my games with – e4.
 
 There is another passion that runs in my family – chess collecting. I have spent quite a lot of time in the past few weeks documenting that collection and putting it up online. Check it out yourself – [www.chesscollecting.com](https://www.chesscollecting.com/collection/)
 

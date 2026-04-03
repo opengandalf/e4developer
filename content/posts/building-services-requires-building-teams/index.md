@@ -11,9 +11,7 @@ aliases:
   - "/2018/02/20/building-services-requires-building-teams/"
 ShowToc: true
 TocOpen: false
----![](images/team.jpg)
-
-When talking about microservices (or agile development), the idea of self-managed, independent teams often comes up. What is not emphasized enough is how vital this idea is to the successful adoption of such highly decoupled architecture. In this article, I will share my experiences about working with independent teams and being part of them.
+---When talking about microservices (or agile development), the idea of self-managed, independent teams often comes up. What is not emphasized enough is how vital this idea is to the successful adoption of such highly decoupled architecture. In this article, I will share my experiences about working with independent teams and being part of them.
 
 Most successful projects that I was either part of, or had a pleasure of working with had one thing in common. They were delivered by either one or a multiple of high-performing, self-managed, independent teams. You may say: *every sizable project nowadays is delivered by a team!* I disagree, most medium and large projects are delivered by groups of people, but in many cases, I would not call them *teams*. In my opinion, it takes more than grouping a few people together and slapping a name on them to make a team…
 

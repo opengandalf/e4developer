@@ -11,9 +11,7 @@ aliases:
   - "/2018/11/04/reddit-api-authentication-with-java-spring/"
 ShowToc: true
 TocOpen: false
----![](images/java-reddit-oauth-api.jpg)
-
-I am a [big fan of Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.
+---I am a [big fan of Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.
 
 ## Public read-only API with JSON
 

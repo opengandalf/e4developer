@@ -11,9 +11,7 @@ aliases:
   - "/2018/05/02/quick-setup-for-spring-cloud-data-flow-with-docker-compose/"
 ShowToc: true
 TocOpen: false
----![](images/docker-dataflow.jpg)
-
-Spring Cloud Data Flow requires quite a few dependencies in order to run it. In this blog post, I will show you Docker Compose tool and how it can be used to make that setup easy.
+---Spring Cloud Data Flow requires quite a few dependencies in order to run it. In this blog post, I will show you Docker Compose tool and how it can be used to make that setup easy.
 
 I have written an [introduction to Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}) where in order to run the Data Flow server, you need to have 3 other Docker containers running.
 

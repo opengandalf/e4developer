@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/16/designing-an-object-oriented-chess-engine-in-java/"
 ShowToc: true
 TocOpen: false
----![](images/mechanical-turk.jpg)
-
-I love playing chess. I also love programming. How to marry the two? How about playing chess against a chess engine (chess playing program) that I have designed and wrote? If you are intrigued- read on! This is the first blog post in the series about building my chess engine in Java.
+---I love playing chess. I also love programming. How to marry the two? How about playing chess against a chess engine (chess playing program) that I have designed and wrote? If you are intrigued- read on! This is the first blog post in the series about building my chess engine in Java.
 
 ## The rules of chess
 

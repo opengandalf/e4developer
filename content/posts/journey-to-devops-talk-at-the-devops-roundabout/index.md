@@ -11,9 +11,7 @@ aliases:
   - "/2019/10/03/journey-to-devops-talk-at-the-devops-roundabout/"
 ShowToc: true
 TocOpen: false
----![](images/devopsroundabout.jpg)
-
-On the 24th of September 2019, I had an opportunity to speak at the very first [DevOps Roundabout](https://www.meetup.com/The-DevOps-Roundabout/) meetup in London. You can [watch my talk on YouTube](https://www.youtube.com/watch?v=EGTMkZkPhF8).
+---On the 24th of September 2019, I had an opportunity to speak at the very first [DevOps Roundabout](https://www.meetup.com/The-DevOps-Roundabout/) meetup in London. You can [watch my talk on YouTube](https://www.youtube.com/watch?v=EGTMkZkPhF8).
 
 The idea behind this talk is the same as the one behind [my whitepaper]({{< ref "/posts/the-journey-to-devops-my-first-white-paper" >}}) (with the identical title). First, explaining to the wider audience what the DevOps movement is really all about and then helping people to embark on that journey.
 

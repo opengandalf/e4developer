@@ -11,9 +11,7 @@ aliases:
   - "/2018/12/15/i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next/"
 ShowToc: true
 TocOpen: false
----![](images/100-blog-posts.jpg)
-
-I wanted to write 2 blog posts a week in 2018, which would result in at least 100 blog posts in a year… This is the number 100! I could not be happier! In this centenary blog post, I look back at the journey that took me here. I will also share with you some of the ideas for this blog in 2019.
+---I wanted to write 2 blog posts a week in 2018, which would result in at least 100 blog posts in a year… This is the number 100! I could not be happier! In this centenary blog post, I look back at the journey that took me here. I will also share with you some of the ideas for this blog in 2019.
 
 ## Beginning of the blog
 

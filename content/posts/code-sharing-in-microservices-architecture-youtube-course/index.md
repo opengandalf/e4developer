@@ -11,9 +11,7 @@ aliases:
   - "/2019/06/21/code-sharing-in-microservices-architecture-youtube-course/"
 ShowToc: true
 TocOpen: false
----![](images/code-sharing-video-course.jpg)
-
-I am very excited to share with you my mini video course on “Code Sharing in Microservices Architecture”.
+---I am very excited to share with you my mini video course on “Code Sharing in Microservices Architecture”.
 
 The course consist of 5 videos:
 

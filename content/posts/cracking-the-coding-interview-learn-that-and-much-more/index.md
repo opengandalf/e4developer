@@ -11,9 +11,7 @@ aliases:
   - "/2018/06/24/cracking-the-coding-interview-learn-that-and-much-more/"
 ShowToc: true
 TocOpen: false
----![](images/cracking-the-coding-interview.jpg)
-
-Three years ago I was looking for a new job. I decided that I will pick up a couple of books to help me revised for the interviews. One of those books was*“Cracking the Coding Interview”*by Gayle Laakmann Mcdowell. I expected a book that will help me revise for the interviews, but I got a lot more from the book!
+---Three years ago I was looking for a new job. I decided that I will pick up a couple of books to help me revised for the interviews. One of those books was*“Cracking the Coding Interview”*by Gayle Laakmann Mcdowell. I expected a book that will help me revise for the interviews, but I got a lot more from the book!
 
 ## Programming interview questions and answers
 

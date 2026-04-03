@@ -11,9 +11,7 @@ aliases:
   - "/2018/06/09/should-i-learn-java-in-2018/"
 ShowToc: true
 TocOpen: false
----![](images/learn-java.jpg)
-
-Should I learn Java? This is a question that just keeps coming up. If you are just starting out as a developer, if you already work as a Front End Developer or even if you are from the .NET background, many people wonder if learning Java is the right career/personal development move. Let’s see how useful learning Java is in 2018.
+---Should I learn Java? This is a question that just keeps coming up. If you are just starting out as a developer, if you already work as a Front End Developer or even if you are from the .NET background, many people wonder if learning Java is the right career/personal development move. Let’s see how useful learning Java is in 2018.
 
 When I first started using Java, around 2007, it had a very mixed reputation. On one hand, it was a reasonably new and modern language, but on the other, it was infamous for its bad performance (not fully deserved in my opinion) and verbosity (when contrasted with, back then, very popular Python).
 

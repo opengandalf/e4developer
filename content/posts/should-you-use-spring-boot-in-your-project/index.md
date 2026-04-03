@@ -11,9 +11,7 @@ aliases:
   - "/2018/09/24/should-you-use-spring-boot-in-your-project/"
 ShowToc: true
 TocOpen: false
----![](images/should-you-use-spring-boot.jpg)
-
-Spring Boot is enjoying, a seemingly never-ending growth of popularity. While only released in 2014, it has managed to overtake the Java serverside in less than five years. When starting a new project, a sensible question to ask is- *“should I use a Spring Boot?”*. In this article, I will help you answer this question!
+---Spring Boot is enjoying, a seemingly never-ending growth of popularity. While only released in 2014, it has managed to overtake the Java serverside in less than five years. When starting a new project, a sensible question to ask is- *“should I use a Spring Boot?”*. In this article, I will help you answer this question!
 
 Every project is different, but we can use some characteristics with which we can compare them. Based on these characteristics I will advise you if Spring Boot is generally a good idea.
 

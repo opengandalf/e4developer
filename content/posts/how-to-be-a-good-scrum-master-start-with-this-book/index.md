@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/24/how-to-be-a-good-scrum-master-start-with-this-book/"
 ShowToc: true
 TocOpen: false
----![](images/scrum-mastery.jpg)
-
-*“Scrum Mastery: From Good To Great Servant-Leadership” –*a book that I picked up recently based on it being the number one selling book about Agile Methodologies (from Amazon). I also wanted a fresh view on that role, given that I work in a Scrum team myself. Was it worth my time? Definitely!
+---*“Scrum Mastery: From Good To Great Servant-Leadership” –*a book that I picked up recently based on it being the number one selling book about Agile Methodologies (from Amazon). I also wanted a fresh view on that role, given that I work in a Scrum team myself. Was it worth my time? Definitely!
 
 I did not really know what to expect from this book. There are plenty of *“Scrum manuals”* out there, which more often than not, describe some idealised realities.
 

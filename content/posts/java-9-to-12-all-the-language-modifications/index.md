@@ -11,9 +11,7 @@ aliases:
   - "/2019/03/26/java-9-to-12-all-the-language-modifications/"
 ShowToc: true
 TocOpen: false
----![](images/java-9-12.jpg)
-
-We have all had quite a lot of time to get familiar with Java 8 and all the amazing features that it provided us with. Since then quite a lot have happened, with the release of Java 9, 10, 11 and this month 12 it is hard to stay on top of all the language changes happening! In here I will **focus exclusively on the changes to the language** leaving library changes to other writers.
+---We have all had quite a lot of time to get familiar with Java 8 and all the amazing features that it provided us with. Since then quite a lot have happened, with the release of Java 9, 10, 11 and this month 12 it is hard to stay on top of all the language changes happening! In here I will **focus exclusively on the changes to the language** leaving library changes to other writers.
 
 It is important to know the new APIs and libraries introduced, but knowing how to read the language is vital. This will also make this blog post within a reasonable scope- after all, really a lot changed from Java 8 to Java 12! Without further ado- let’s begin, version by version!
 

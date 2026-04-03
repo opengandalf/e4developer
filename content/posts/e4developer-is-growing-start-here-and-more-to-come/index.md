@@ -11,9 +11,7 @@ aliases:
   - "/2018/06/26/e4developer-is-growing-start-here-and-more-to-come/"
 ShowToc: true
 TocOpen: false
----![](images/chessboard.jpg)
-
-It is hard to believe (mostly for myself) that I have already written 60 articles on this blog.
+---It is hard to believe (mostly for myself) that I have already written 60 articles on this blog.
 
 With hundreds of people reading this blog daily, I would like to provide more varied and valuable content. I started by adding a [Start Here](https://www.e4developer.com/start-here/) page to help visitors navigate. See what other ideas I have on my mind and help me chose.
 

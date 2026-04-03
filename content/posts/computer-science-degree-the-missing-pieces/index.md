@@ -11,9 +11,7 @@ aliases:
   - "/2018/06/18/computer-science-degree-the-missing-pieces/"
 ShowToc: true
 TocOpen: false
----![](images/degrees.jpg)
-
-I have started studying Computer Science at University more than 10 years ago. Now, with Bachelor’s and Master’s degrees and a few years in the industry, I look back reflecting at the value of these degrees.
+---I have started studying Computer Science at University more than 10 years ago. Now, with Bachelor’s and Master’s degrees and a few years in the industry, I look back reflecting at the value of these degrees.
 
 ## Are Computer Science degrees worth the effort?
 

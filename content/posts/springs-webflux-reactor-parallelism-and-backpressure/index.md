@@ -11,9 +11,7 @@ aliases:
   - "/2018/04/28/springs-webflux-reactor-parallelism-and-backpressure/"
 ShowToc: true
 TocOpen: false
----![](images/pressure.jpg)
-
-Spring Boot 2.0 (and Spring 5) introduced WebFlux as a way to build reactive Microservices. WebFlux is built using Reactor, which introduces completely new ideas to Spring Boot parallelism. Backpressure, Schedulers, and Parallel Flux are a few concepts that we will look at closer in order to understand how to make the most of our reactive services.
+---Spring Boot 2.0 (and Spring 5) introduced WebFlux as a way to build reactive Microservices. WebFlux is built using Reactor, which introduces completely new ideas to Spring Boot parallelism. Backpressure, Schedulers, and Parallel Flux are a few concepts that we will look at closer in order to understand how to make the most of our reactive services.
 
 I have recently written articles on [Getting Started with WebFlux]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}}) and [Concurrency in Spring Boot]({{< ref "/posts/introduction-to-concurrency-in-spring-boot" >}}). One thing that I did not explore enough in these articles were the concurrency implications of building a WebFlux based reactive microservice.
 

@@ -11,9 +11,7 @@ aliases:
   - "/2019/03/26/the-journey-to-devops-my-first-white-paper/"
 ShowToc: true
 TocOpen: false
----![](images/journey-to-devops.jpg)
-
-I am quite excited to share with you “The Journey to DevOps” ([announcement and the download link here](https://blog.scottlogic.com/2019/03/25/the-journey-to-devops.html)), the first white paper that I have published with my company [Scott Logic](https://www.scottlogic.com/).
+---I am quite excited to share with you “The Journey to DevOps” ([announcement and the download link here](https://blog.scottlogic.com/2019/03/25/the-journey-to-devops.html)), the first white paper that I have published with my company [Scott Logic](https://www.scottlogic.com/).
 
 This white paper will help you:
 

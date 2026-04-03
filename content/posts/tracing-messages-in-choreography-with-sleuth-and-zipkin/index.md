@@ -11,9 +11,7 @@ aliases:
   - "/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/"
 ShowToc: true
 TocOpen: false
----![](images/zipkin-cloud.png)
-
-One of the challenges in building distributed system is having a good visibility of what is happening inside them. This challenge is only magnified when dealing with choreography- microservices, loosely coupled, communicating via messaging. In this article you will see how Sleuth and Zipkin help to solve that problem.
+---One of the challenges in building distributed system is having a good visibility of what is happening inside them. This challenge is only magnified when dealing with choreography- microservices, loosely coupled, communicating via messaging. In this article you will see how Sleuth and Zipkin help to solve that problem.
 
 One of the most important requirements for production ready microservices is being able to correlate logs. What does that mean? Having some sort of id, that will link logs from different services together. Of course you don’t want to link everything- you want to focus on a single request/process that is happening in the system. This was often done with MDC (Mapped Diagnostic Context) in slf4j. There is nothing wrong in using these technologies directly, but here I want to show you something better…
 

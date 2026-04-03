@@ -11,9 +11,7 @@ aliases:
   - "/2018/03/16/being-a-lead-developer-on-the-road-presentation/"
 ShowToc: true
 TocOpen: false
----![](images/lead_dev.jpg)
-
-On the 14th of March 2018, I had a pleasure of speaking at the [While42 – French Tech Engineers Network](http://while42.org/) event. I want to thank my friend [Cesar Tron-Lozai](https://twitter.com/cesarTronLozai) and the group for the invitation.
+---On the 14th of March 2018, I had a pleasure of speaking at the [While42 – French Tech Engineers Network](http://while42.org/) event. I want to thank my friend [Cesar Tron-Lozai](https://twitter.com/cesarTronLozai) and the group for the invitation.
 
 I am a Lead Developer at [Scott Logic](https://www.scottlogic.com/) – a job that I am passionate about and proud of. During this event, I had a chance to share my passion for that role and share some advice based on my experiences.
 

@@ -11,9 +11,7 @@ aliases:
   - "/2019/05/02/quick-guide-to-all-the-ops/"
 ShowToc: true
 TocOpen: false
----![](images/all-the-ops.png)
-
-You probably heard about Ops, DevOps, maybe even about GitOps! This short article is a *“jargon buster”* explaining what all these different terms mean and which ones you should pay attention to.
+---You probably heard about Ops, DevOps, maybe even about GitOps! This short article is a *“jargon buster”* explaining what all these different terms mean and which ones you should pay attention to.
 
 # Ops
 

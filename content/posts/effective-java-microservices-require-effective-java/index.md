@@ -11,9 +11,7 @@ aliases:
   - "/2018/05/09/effective-java-microservices-require-effective-java/"
 ShowToc: true
 TocOpen: false
----![](images/effective-java.jpg)
-
-Writing good software requires using the right tools. Choosing the right frameworks, libraries and designing smart systems. With all that to learn and worry about, it is easy to forget about another very important thing: using your programming language wisely. In this article, I want to introduce you to *“Effective Java”*by Joshua Bloch. 
+---Writing good software requires using the right tools. Choosing the right frameworks, libraries and designing smart systems. With all that to learn and worry about, it is easy to forget about another very important thing: using your programming language wisely. In this article, I want to introduce you to *“Effective Java”*by Joshua Bloch. 
 
 ## *Effective Java*– back to “basics”
 

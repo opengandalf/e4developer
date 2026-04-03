@@ -11,9 +11,7 @@ aliases:
   - "/2018/07/21/the-key-to-a-successful-software-architecture/"
 ShowToc: true
 TocOpen: false
----![](images/the-key.jpg)
-
-Recently I have read and [reviewed *“Clean Architecture*“]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software architectures exhibit. What is this quality? It is the existence of clear boundaries and well-defined modules. If you don’t agree with me- keep reading and I am sure we will find some common understanding.
+---Recently I have read and [reviewed *“Clean Architecture*“]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software architectures exhibit. What is this quality? It is the existence of clear boundaries and well-defined modules. If you don’t agree with me- keep reading and I am sure we will find some common understanding.
 
 ## Divide and Conquer
 

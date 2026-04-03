@@ -11,9 +11,7 @@ aliases:
   - "/2019/01/26/what-makes-a-good-software-developer-cv/"
 ShowToc: true
 TocOpen: false
----![](images/developer-cv.jpg)
-
-Writing CV is a bit of a game. You are trying to create a short piece of writing, focused on yourself, that will get you to the interview. Ideally, this short text will also help set you up for a successful interview and boost your chances of landing a job. I have screened hundreds of CVs over the past few years, here I want to share with you some advice on how to win the CV game.
+---Writing CV is a bit of a game. You are trying to create a short piece of writing, focused on yourself, that will get you to the interview. Ideally, this short text will also help set you up for a successful interview and boost your chances of landing a job. I have screened hundreds of CVs over the past few years, here I want to share with you some advice on how to win the CV game.
 
 ## What do you want to win with your CV?
 

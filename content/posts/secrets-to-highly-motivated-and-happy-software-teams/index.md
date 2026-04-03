@@ -11,9 +11,7 @@ aliases:
   - "/2018/06/04/secrets-to-highly-motivated-and-happy-software-teams/"
 ShowToc: true
 TocOpen: false
----![](images/happy-teams.jpg)
-
-Who wouldn’t want to work as a part of a happy and motivated software team? Wouldn’t it be great if every team you ever worked with was like that? Based on Leaders Eat Last by Simon Sinek and Drive by Daniel Pink, I will tell you how to make this possible.
+---Who wouldn’t want to work as a part of a happy and motivated software team? Wouldn’t it be great if every team you ever worked with was like that? Based on Leaders Eat Last by Simon Sinek and Drive by Daniel Pink, I will tell you how to make this possible.
 
 ## What motivates developers?
 

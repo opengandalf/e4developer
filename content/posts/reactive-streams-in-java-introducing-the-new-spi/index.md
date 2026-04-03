@@ -11,9 +11,7 @@ aliases:
   - "/2018/04/04/reactive-streams-in-java-introducing-the-new-spi/"
 ShowToc: true
 TocOpen: false
----![](images/reactive-streams.png)
-
-One of the new features of Java 9 is the introduction of the Reactive Streams SPI to the JDK. Reactive programming keeps gaining in popularity, mainly because it works well. If you are not familiar with the principles, I recommend checking out [The Reactive Manifesto](https://www.reactivemanifesto.org/) to which I subscribe. To learn more about Reactive Streams in Java, read on.
+---One of the new features of Java 9 is the introduction of the Reactive Streams SPI to the JDK. Reactive programming keeps gaining in popularity, mainly because it works well. If you are not familiar with the principles, I recommend checking out [The Reactive Manifesto](https://www.reactivemanifesto.org/) to which I subscribe. To learn more about Reactive Streams in Java, read on.
 
 Reactive Streams got introduced to Java as `java.util.concurrent.Flow`. Before looking into that, let’s see what are Reactive Streams and how can we make use of them.
 

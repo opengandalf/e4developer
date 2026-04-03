@@ -11,9 +11,7 @@ aliases:
   - "/2018/01/24/starting-with-microservices-read-building-microservices/"
 ShowToc: true
 TocOpen: false
----![](images/building-microservices.jpg)
-
-A lot of people want to start working with Microservices and don’t quite know where to start. I remember being there- finding that my next project is going to use microservices architecture and I should get familiar with it. Of course, I heard about microservices before and I have read some blog posts, but I felt that my knowledge had major gaps. If you are in this situation- worry no more! Just get yourself a copy of *“Building Microservices”* by Sam Newman and read it! Continue to find out more why I think this book has you covered.
+---A lot of people want to start working with Microservices and don’t quite know where to start. I remember being there- finding that my next project is going to use microservices architecture and I should get familiar with it. Of course, I heard about microservices before and I have read some blog posts, but I felt that my knowledge had major gaps. If you are in this situation- worry no more! Just get yourself a copy of *“Building Microservices”* by Sam Newman and read it! Continue to find out more why I think this book has you covered.
 
 ### Criteria for a good Microservices Introduction book
 

@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/06/spring-boot-best-practices/"
 ShowToc: true
 TocOpen: false
----![](images/spring-boot-best-practices.png)
-
-Spring Boot is the most popular Java framework for developing microservices. In this article, I will share with you the best practices for working with Spring Boot that I have gathered by using it in professional development since 2016. I base these on my personal experience and writings of recognized Spring Boot experts.
+---Spring Boot is the most popular Java framework for developing microservices. In this article, I will share with you the best practices for working with Spring Boot that I have gathered by using it in professional development since 2016. I base these on my personal experience and writings of recognized Spring Boot experts.
 
 In this article, I focus on practices specific to Spring Boot (most of the time, also applicable to Spring projects). If you want to learn about the Java best practices, I recommend *“Effective Java”* which I [review in a separate article]({{< ref "/posts/effective-java-microservices-require-effective-java" >}}).
 

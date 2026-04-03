@@ -11,9 +11,7 @@ aliases:
   - "/2018/09/09/simulating-the-secretary-problem-with-java/"
 ShowToc: true
 TocOpen: false
----![](images/simulating-secreatary-problem.jpg)
-
-You might have noticed that I like reading books. I have recently read *“Algorithms to Live By: The Computer Science of Human Decisions”*which absolutely fascinated me! The book mentions a famous [optimal stopping (Wikipedia)](https://en.wikipedia.org/wiki/Optimal_stopping) problem called Secretary Problem. In this blog post, I will explain it and then we will have some fun simulating it with Java. Let’s see if we can find *a solution* by brute force!
+---You might have noticed that I like reading books. I have recently read *“Algorithms to Live By: The Computer Science of Human Decisions”*which absolutely fascinated me! The book mentions a famous [optimal stopping (Wikipedia)](https://en.wikipedia.org/wiki/Optimal_stopping) problem called Secretary Problem. In this blog post, I will explain it and then we will have some fun simulating it with Java. Let’s see if we can find *a solution* by brute force!
 
 ## Secretary Problem Defined
 

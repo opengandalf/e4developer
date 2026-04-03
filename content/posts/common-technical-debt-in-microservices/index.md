@@ -11,9 +11,7 @@ aliases:
   - "/2018/02/11/common-technical-debt-in-microservices/"
 ShowToc: true
 TocOpen: false
----![](images/old-machine.jpg)
-
-Working for a consultancy I have the opportunity to talk to large number of software developers across multiple different projects. That gives me an opportunity to see what works and what common problems different organizations are facing. In this article I will show the most common mistakes in microservices that cause technical debt. I suggest what you could be doing instead.
+---Working for a consultancy I have the opportunity to talk to large number of software developers across multiple different projects. That gives me an opportunity to see what works and what common problems different organizations are facing. In this article I will show the most common mistakes in microservices that cause technical debt. I suggest what you could be doing instead.
 
 Microservices development can be difficult. Given how new the pattern is, it is no surprise that mistakes are made. The great thing about mistakes is that they are also learning opportunities. It is great when you can learn from your mistakes, but it is even better when you can learn from the mistakes of others!
 

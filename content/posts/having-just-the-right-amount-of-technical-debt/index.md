@@ -11,9 +11,7 @@ aliases:
   - "/2018/11/21/having-just-the-right-amount-of-technical-debt/"
 ShowToc: true
 TocOpen: false
----![](images/tech-debt.jpg)
-
-Today I want to talk to you about technical debt. This is a topic that comes up a lot and often generates some emotions. Developers often want to have a minimal amount of technical debt. Some will go through great efforts to eliminate any technical debt they see. Let me tell you what I think about it all.
+---Today I want to talk to you about technical debt. This is a topic that comes up a lot and often generates some emotions. Developers often want to have a minimal amount of technical debt. Some will go through great efforts to eliminate any technical debt they see. Let me tell you what I think about it all.
 
 ## Different type of technical debt
 

@@ -11,9 +11,7 @@ aliases:
   - "/2018/03/22/lightweight-kotlin-microservices-with-javalin/"
 ShowToc: true
 TocOpen: false
----![](images/javalin-logo.png)
-
-There is a lot happening in the JVM space when it comes to microservices development. You have Spring Cloud thriving, Microprofile entering the stage, Vert.x letting you get reactive and Dropwizard being actively developed. What if you want something really simple though? And maybe with some Kotlin? For that you have [Javalin](https://javalin.io/)!
+---There is a lot happening in the JVM space when it comes to microservices development. You have Spring Cloud thriving, Microprofile entering the stage, Vert.x letting you get reactive and Dropwizard being actively developed. What if you want something really simple though? And maybe with some Kotlin? For that you have [Javalin](https://javalin.io/)!
 
 ### Introducing Javalin
 

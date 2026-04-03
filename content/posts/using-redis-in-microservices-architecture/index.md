@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/03/using-redis-in-microservices-architecture/"
 ShowToc: true
 TocOpen: false
----![](images/redis-microservices.jpg)
-
-In this article, we will look closer at a fascinating open source project. Meet Redis! You may be familiar with Redis already, in that case, you may be interested in the different use cases it has for microservices architecture. Read on to see how this “*in-memory data structure store, database, cache, and message broker”* can make your system better!
+---In this article, we will look closer at a fascinating open source project. Meet Redis! You may be familiar with Redis already, in that case, you may be interested in the different use cases it has for microservices architecture. Read on to see how this “*in-memory data structure store, database, cache, and message broker”* can make your system better!
 
 ## What is Redis?
 

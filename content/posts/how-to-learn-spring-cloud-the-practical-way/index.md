@@ -11,9 +11,7 @@ aliases:
   - "/2018/03/06/how-to-learn-spring-cloud-the-practical-way/"
 ShowToc: true
 TocOpen: false
----![](images/spring-cloud-learning.png)
-
-I have recently spoken at a meetup about [Practical Choreography with Spring Cloud Stream]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}}). It was a great event where I was asked many questions after the talk. One question got me thinking: *“What book about Spring Cloud do you recommend?”*which as it turns out boils down to *“How do you learn Spring Cloud?”.* I heard that question posed a few times before in different ways. Here, I will give you my answer on what I think is the best way of learning Spring Cloud.
+---I have recently spoken at a meetup about [Practical Choreography with Spring Cloud Stream]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}}). It was a great event where I was asked many questions after the talk. One question got me thinking: *“What book about Spring Cloud do you recommend?”*which as it turns out boils down to *“How do you learn Spring Cloud?”.* I heard that question posed a few times before in different ways. Here, I will give you my answer on what I think is the best way of learning Spring Cloud.
 
 With Spring Cloud being probably the hottest framework on JVM for integrating microservices, the interest in it is growing. Most people interested in the microservices are already familiar with Spring Boot. If you haven’t heard of it before, check out my [Spring Boot introduction]({{< ref "/posts/microservices-toolbox-spring-boot" >}}) blog post, and definitely see the [official site](https://projects.spring.io/spring-boot/)– it has some very good *Getting Started Guides*.
 

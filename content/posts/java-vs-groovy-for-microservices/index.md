@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/26/java-vs-groovy-for-microservices/"
 ShowToc: true
 TocOpen: false
----![](images/java-vs-groovy.jpg)
-
-In the past three years, I was involved in developing microservices architectures. In Java, with Spring Boot and in Groovy with Grails. Perhaps risking some outrage, I will compare my experience in Java and Groovy, Spring Boot and Grails and give my opinion on what works best.
+---In the past three years, I was involved in developing microservices architectures. In Java, with Spring Boot and in Groovy with Grails. Perhaps risking some outrage, I will compare my experience in Java and Groovy, Spring Boot and Grails and give my opinion on what works best.
 
 I will start looking purely at languages, as Spring Boot will work happily with Groovy and Java alike.
 

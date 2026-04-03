@@ -11,9 +11,7 @@ aliases:
   - "/2018/04/18/microservices-the-architecture-of-choices/"
 ShowToc: true
 TocOpen: false
----![](images/doors-choices.jpg)
-
-One thing that differentiates microservices architecture from more traditional, monolithic development styles is the number of choices that have to be made. Which frameworks (if any) are you going to use? How to deal with configuration, orchestration or choreography etc. It may feel overwhelming. In this article, I will give you some advice on how to approach this *Architecture of Choices* with confidence and success.
+---One thing that differentiates microservices architecture from more traditional, monolithic development styles is the number of choices that have to be made. Which frameworks (if any) are you going to use? How to deal with configuration, orchestration or choreography etc. It may feel overwhelming. In this article, I will give you some advice on how to approach this *Architecture of Choices* with confidence and success.
 
 I enjoy having multiple choices and making decisions about the architecture. For some people and projects, this is a scary thing. It does not have to be. With the advice presented here, you can take back control and feel positive about the choices that you get to make.
 

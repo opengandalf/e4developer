@@ -11,9 +11,7 @@ aliases:
   - "/2018/05/20/the-state-of-spring-in-2018-devoxx-uk-impressions/"
 ShowToc: true
 TocOpen: false
----![](images/devoxx-spring.jpg)
-
-Thanks to my company – [Scott Logic](https://www.scottlogic.com/) – I recently had a pleasure of attending the Devoxx UK 2018 conference. Among many interesting talks and speakers, there were quite a few Spring celebrities present. [Juergen Holler](https://twitter.com/springjuergen) (Father of Spring), [Josh Long](https://twitter.com/starbuxman) and [Mark Heckler](https://twitter.com/MkHeck) were all there. Here are my impressions from the conference.
+---Thanks to my company – [Scott Logic](https://www.scottlogic.com/) – I recently had a pleasure of attending the Devoxx UK 2018 conference. Among many interesting talks and speakers, there were quite a few Spring celebrities present. [Juergen Holler](https://twitter.com/springjuergen) (Father of Spring), [Josh Long](https://twitter.com/starbuxman) and [Mark Heckler](https://twitter.com/MkHeck) were all there. Here are my impressions from the conference.
 
 ## Spring is hugely popular
 

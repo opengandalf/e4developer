@@ -11,9 +11,7 @@ aliases:
   - "/2018/09/14/audiobooks-a-secret-weapon-of-a-busy-software-developer/"
 ShowToc: true
 TocOpen: false
----![](images/cassette-audiobooks.jpg)
-
-I have blogged about [my road to productivity recently]({{< ref "/posts/my-road-to-productivity-start-finishing-and-producing" >}}). I received a comment there from one of my readers asking me if I have a secret weapon that helped me be so productive. While I don’t have a secret weapon strictly for productivity, I realised that I have a secret weapon (or two) for learning. That weapon is simply… Audiobooks!
+---I have blogged about [my road to productivity recently]({{< ref "/posts/my-road-to-productivity-start-finishing-and-producing" >}}). I received a comment there from one of my readers asking me if I have a secret weapon that helped me be so productive. While I don’t have a secret weapon strictly for productivity, I realised that I have a secret weapon (or two) for learning. That weapon is simply… Audiobooks!
 
 ## Why Audiobooks?
 

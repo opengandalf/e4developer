@@ -11,9 +11,7 @@ aliases:
   - "/2018/08/05/reddit-the-java-goldmine/"
 ShowToc: true
 TocOpen: false
----![](images/java-reddit.jpg)
-
-Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community. I visit Reddit daily- you can learn a lot from people there and have some interesting discussion. In this article, I will tell you how I use Reddit and why I consider it so valuable.
+---Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community. I visit Reddit daily- you can learn a lot from people there and have some interesting discussion. In this article, I will tell you how I use Reddit and why I consider it so valuable.
 
 Reddit is not the only *social media* that I use for learning about technology. I have previously written about [using Twitter for staying up to with the Java world]({{< ref "/posts/how-to-stay-up-to-date-with-java-and-tech-use-twitter" >}}).
 

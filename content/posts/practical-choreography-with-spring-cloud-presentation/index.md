@@ -11,9 +11,7 @@ aliases:
   - "/2018/02/20/practical-choreography-with-spring-cloud-presentation/"
 ShowToc: true
 TocOpen: false
----![](images/jvm-roundabout.jpg)
-
-On the 15th February 2018 I had a pleasure to speak at [The JVM Roundabout](https://www.meetup.com/JVM-Roundabout/) Meetup in London.
+---On the 15th February 2018 I had a pleasure to speak at [The JVM Roundabout](https://www.meetup.com/JVM-Roundabout/) Meetup in London.
 
 My topic was *“Practical Choreography with Spring Cloud”.* The idea behind the talk was to give practical advice on introducing choreography into microservices architecture. The emphasis is on practical. Choreography can be intimidating, especially for those not familiar with the pattern. Since I am a big advocate of Spring Cloud and I think it is a great framework for newcomers and experts alike, I demonstrate how it can be used to make that adoption easier.
 

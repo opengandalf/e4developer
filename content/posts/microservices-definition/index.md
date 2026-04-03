@@ -11,9 +11,7 @@ aliases:
   - "/2018/07/02/microservices-definition/"
 ShowToc: true
 TocOpen: false
----![](images/definition.jpg)
-
-Are you really building microservices? What are microservices? There seems to be a constant disagreement on what constitutes microservices systems and what simply makes a “distributed monolith”. In this article, I will go back to basics and look at what’s at the core of what microservices really are.
+---Are you really building microservices? What are microservices? There seems to be a constant disagreement on what constitutes microservices systems and what simply makes a “distributed monolith”. In this article, I will go back to basics and look at what’s at the core of what microservices really are.
 
 Before giving my own opinion on the microservices definition and helping to answer you the question *“are we really building microservices?”* let’s quickly review what *the greats* have to say on that topic.
 
