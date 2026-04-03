@@ -7,7 +7,7 @@ hidemeta: true
 ---
 
 <div class="about-hero">
-  <img src="https://opengandalf.github.io/e4developer/images/headshot.png" alt="Bartosz Jedrzejewski" class="about-avatar">
+  <img src="/images/headshot.png" alt="Bartosz Jedrzejewski" class="about-avatar">
 </div>
 
 ## Hi, I'm Bartosz Jedrzejewski
