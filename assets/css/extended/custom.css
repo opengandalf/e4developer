@@ -472,8 +472,12 @@ blockquote {
     width: 100%;
     position: static;
     max-height: none;
-    order: -1;
-    margin-bottom: 1.5rem;
+    order: 1;
+    margin-top: 2rem;
+  }
+
+  .home-posts {
+    order: 0;
   }
 
   .sidebar-section {
