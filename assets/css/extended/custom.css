@@ -63,6 +63,16 @@ body {
 /* Header styling */
 .nav {
   border-bottom: 1px solid var(--border);
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (min-width: 960px) {
+  .nav {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
 }
 
 #menu a {
