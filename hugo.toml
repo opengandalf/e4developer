@@ -19,7 +19,7 @@ buildExpired = false
 [params]
   env = "production"
   author = "Bartosz Jedrzejewski"
-  description = "Software engineering, microservices, Java, Spring Boot, AWS, DevOps, and tech leadership"
+  description = "Tech Leadership, AI & Distributed Systems — by Bartosz Jedrzejewski"
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -36,11 +36,16 @@ buildExpired = false
   showtoc = true
   tocopen = false
   comments = false
-  customCSS = ["css/custom.css"]
+
+  [params.assets]
+    favicon = "/images/favicon.png"
+    favicon16x16 = "/images/favicon.png"
+    favicon32x32 = "/images/favicon.png"
+    apple_touch_icon = "/images/favicon.png"
 
   [params.homeInfoParams]
     Title = "e4developer"
-    Content = "Software engineering blog by Bartosz Jedrzejewski — microservices, Java, Spring Boot, AWS, DevOps, and tech leadership."
+    Content = "Tech Leadership, AI & Distributed Systems"
 
   [[params.socialIcons]]
     name = "twitter"
@@ -85,21 +90,27 @@ buildExpired = false
       unsafe = true
 
 [[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-  weight = 10
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 5
 
 [[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
 
 [[menu.main]]
   identifier = "categories"
   name = "Categories"
   url = "/categories/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
   weight = 30
 
 [[menu.main]]
@@ -107,9 +118,3 @@ buildExpired = false
   name = "Search"
   url = "/search/"
   weight = 40
-
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 50

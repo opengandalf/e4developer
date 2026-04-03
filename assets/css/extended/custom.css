@@ -232,3 +232,204 @@ blockquote {
   color: white;
   border-color: var(--accent);
 }
+
+/* ========================================
+   Home page two-column layout with sidebar
+   ======================================== */
+
+.home-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.home-posts {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 300px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 5rem;
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+}
+
+.sidebar-section {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar-section h3 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--secondary);
+  margin: 0 0 0.75rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Author card */
+.sidebar-author {
+  text-align: center;
+}
+
+.sidebar-author h3 {
+  text-align: center;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: var(--primary);
+  font-size: 1rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.sidebar-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+  margin-bottom: 0.75rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sidebar-author p {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--secondary);
+  margin: 0.5rem 0 0 0;
+}
+
+.sidebar-author p a {
+  color: var(--accent-light);
+  text-decoration: none;
+}
+
+.sidebar-author p a:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar links (top posts) */
+.sidebar-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-links li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-links li:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-links a {
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  display: block;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--border);
+  transition: color 0.2s ease;
+}
+
+.sidebar-links li:last-child a {
+  border-bottom: none;
+}
+
+.sidebar-links a:hover {
+  color: var(--accent-light);
+}
+
+/* Sidebar categories (tag cloud) */
+.sidebar-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.sidebar-tags a {
+  display: inline-block;
+  background: var(--tertiary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.78rem;
+  color: var(--primary);
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.sidebar-tags a span {
+  color: var(--secondary);
+  font-size: 0.7rem;
+}
+
+.sidebar-tags a:hover {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.sidebar-tags a:hover span {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* Sidebar scrollbar */
+.sidebar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 2px;
+}
+
+/* Responsive: collapse sidebar below posts on smaller screens */
+@media (max-width: 960px) {
+  .home-layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    position: static;
+    max-height: none;
+    order: -1;
+    margin-bottom: 1.5rem;
+  }
+
+  .sidebar-section {
+    margin-bottom: 0.75rem;
+  }
+}
+
+/* ========================================
+   About page
+   ======================================== */
+
+.about-hero {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.about-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+}
