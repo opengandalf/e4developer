@@ -444,9 +444,13 @@ blockquote {
   margin: 0;
 }
 
-/* Hide the homeInfoParams banner if it somehow renders */
-.first-entry {
-  display: none;
+/* Style the first/featured post entry */
+.first-entry .entry-header h1 {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
 }
 
 /* ========================================
