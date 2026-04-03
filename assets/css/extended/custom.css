@@ -1,0 +1,234 @@
+/* e4developer custom theme — dark, minimal, techy */
+
+:root {
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'SF Mono', Consolas, monospace;
+  --accent: #3b82f6;
+  --accent-light: #60a5fa;
+  --accent-gradient: linear-gradient(135deg, #3b82f6, #06b6d4);
+}
+
+/* Dark mode overrides */
+.dark {
+  --theme: #0a0a0a;
+  --entry: #111111;
+  --primary: #e4e4e7;
+  --secondary: #a1a1aa;
+  --tertiary: #1a1a1a;
+  --content: #d4d4d8;
+  --code-bg: #141414;
+  --border: #27272a;
+}
+
+/* Light mode */
+:root:not(.dark) {
+  --theme: #fafafa;
+  --entry: #ffffff;
+  --primary: #18181b;
+  --secondary: #52525b;
+  --tertiary: #f4f4f5;
+  --content: #3f3f46;
+  --code-bg: #f4f4f5;
+  --border: #e4e4e7;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--theme);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Header styling */
+.nav {
+  border-bottom: 1px solid var(--border);
+}
+
+#menu a {
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+/* Post title gradient accent */
+.post-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.post-header .post-title {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Links */
+.post-content a {
+  color: var(--accent-light);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.post-content a:hover {
+  border-bottom-color: var(--accent-light);
+}
+
+/* Entry cards on list pages */
+.post-entry {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
+}
+
+/* Code blocks */
+.post-content pre {
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.post-content code {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
+.post-content :not(pre) > code {
+  background: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+/* Copy code button */
+.copy-code {
+  border: 1px solid var(--border) !important;
+  border-radius: 4px !important;
+  background: var(--entry) !important;
+}
+
+/* Table of contents */
+.toc {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+  padding: 1rem;
+}
+
+/* Blockquotes */
+.post-content blockquote {
+  border-left: 3px solid var(--accent);
+  background: var(--tertiary);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+/* Images */
+.post-content img {
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  margin: 1rem 0;
+}
+
+/* Home info */
+.first-entry {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--entry);
+}
+
+.first-entry .entry-header h1 {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+/* Social icons */
+.social-icons a {
+  transition: transform 0.2s ease;
+}
+
+.social-icons a:hover {
+  transform: translateY(-2px);
+}
+
+/* Search */
+#searchResults .post-entry {
+  margin-bottom: 0.5rem;
+}
+
+/* Scrollbar (dark mode) */
+.dark ::-webkit-scrollbar {
+  width: 8px;
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: var(--theme);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
+
+/* Post meta */
+.post-meta {
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid var(--border);
+}
+
+/* Smooth transitions for theme toggle */
+body,
+.post-entry,
+.toc,
+.first-entry,
+blockquote {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Reading time and breadcrumbs */
+.breadcrumbs a {
+  color: var(--secondary);
+}
+
+.breadcrumbs a:hover {
+  color: var(--accent);
+}
+
+/* Tags */
+.post-tags a {
+  background: var(--tertiary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.2em 0.6em;
+  font-size: 0.8rem;
+  transition: background 0.2s ease;
+}
+
+.post-tags a:hover {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
