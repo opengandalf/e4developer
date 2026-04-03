@@ -282,10 +282,6 @@ blockquote {
 .sidebar {
   width: 300px;
   flex-shrink: 0;
-  position: sticky;
-  top: 5rem;
-  max-height: calc(100vh - 6rem);
-  overflow-y: auto;
 }
 
 .sidebar-section {
