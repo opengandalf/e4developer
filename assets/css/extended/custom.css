@@ -409,6 +409,49 @@ blockquote {
   color: rgba(255, 255, 255, 0.8);
 }
 
+/* Sidebar projects */
+.sidebar-projects {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-projects li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-projects li:last-child {
+  margin-bottom: 0;
+}
+
+.sidebar-projects a {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  background: var(--tertiary);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.sidebar-projects a:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.sidebar-projects strong {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--accent-light);
+}
+
+.sidebar-projects span {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--secondary);
+  margin-top: 0.15rem;
+}
+
 /* Sidebar scrollbar */
 .sidebar::-webkit-scrollbar {
   width: 4px;
