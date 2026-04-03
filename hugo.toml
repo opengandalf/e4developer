@@ -19,7 +19,7 @@ buildExpired = false
 [params]
   env = "production"
   author = "Bartosz Jedrzejewski"
-  description = "Tech Leadership, AI & Distributed Systems — by Bartosz Jedrzejewski"
+  description = "Tech Leadership, AI & Distributed Systems by Bartosz Jedrzejewski"
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -28,6 +28,7 @@ buildExpired = false
   ShowCodeCopyButtons = true
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
+  ShowPageNums = true
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false

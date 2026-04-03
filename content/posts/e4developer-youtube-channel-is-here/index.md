@@ -46,3 +46,5 @@ If you have a good idea about what sort of videos you would like to watch- let m
 ## Let’s start filming!
 
 With that, I hope that I got you interested. You can [subscribe to my YouTube channel](https://www.youtube.com/channel/UCct_XHqdxXSYLZl7MfiDAAA) and let’s see what comes next. Wish me luck!
+
+{{< youtube JNpc4PBNA0Q >}}

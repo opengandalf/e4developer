@@ -456,6 +456,54 @@ blockquote {
 }
 
 /* ========================================
+   Numbered pagination
+   ======================================== */
+
+.pagination-numbered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  padding: 1.5rem 0;
+}
+
+.page-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.2rem;
+  height: 2.2rem;
+  padding: 0 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--entry);
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.page-link:hover {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.page-current {
+  background: var(--accent) !important;
+  color: white !important;
+  border-color: var(--accent) !important;
+  font-weight: 700;
+}
+
+.page-prev,
+.page-next {
+  padding: 0 0.75rem;
+  font-weight: 600;
+}
+
+/* ========================================
    About page
    ======================================== */
 

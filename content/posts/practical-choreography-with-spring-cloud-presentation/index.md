@@ -23,4 +23,6 @@ My topic was *“Practical Choreography with Spring Cloud”.* The idea behind 
 
 If you are interested in the topic, if you would like to introduce choreography into your architecture, watch my talk that is available on YouTube:
 
+{{< youtube 1rZQ4e2p-Ig >}}
+
 I have made the slides used for this talk also available. You can download the slides here: [Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx](https://www.e4developer.com/wp-content/uploads/2018/02/Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx)

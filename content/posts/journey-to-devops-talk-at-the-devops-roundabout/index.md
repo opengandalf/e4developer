@@ -26,3 +26,5 @@ The difference in the talk is that I do not focus specifically on the public sec
 Another reason to watch the talk (rather than simply read the newspaper) is that I offer a more conversational coverage of these topics and discuss things that I did not touch on in the whitepaper, such as the difference between DEVops and devOPS engineers.
 
 If you are intrigued, check out the talk on YouTube and let me know what you think:
+
+{{< youtube EGTMkZkPhF8 >}}
