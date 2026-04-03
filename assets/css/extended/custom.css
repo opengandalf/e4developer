@@ -28,29 +28,29 @@
 }
 
 /* Dark mode overrides */
-.dark,
-[data-theme="dark"] {
-  --theme: #0a0a0a;
-  --entry: #111111;
-  --primary: #e4e4e7;
-  --secondary: #a1a1aa;
-  --tertiary: #1a1a1a;
-  --content: #d4d4d8;
-  --code-bg: #141414;
-  --border: #27272a;
+html[data-theme="dark"],
+html.dark {
+  --theme: #0a0a0a !important;
+  --entry: #111111 !important;
+  --primary: #e4e4e7 !important;
+  --secondary: #a1a1aa !important;
+  --tertiary: #1a1a1a !important;
+  --content: #d4d4d8 !important;
+  --code-bg: #141414 !important;
+  --border: #27272a !important;
 }
 
 /* Light mode */
-:root:not(.dark),
-[data-theme="light"] {
-  --theme: #fafafa;
-  --entry: #ffffff;
-  --primary: #18181b;
-  --secondary: #52525b;
-  --tertiary: #f4f4f5;
-  --content: #3f3f46;
-  --code-bg: #f4f4f5;
-  --border: #e4e4e7;
+html[data-theme="light"],
+html:not(.dark) {
+  --theme: #fafafa !important;
+  --entry: #ffffff !important;
+  --primary: #18181b !important;
+  --secondary: #52525b !important;
+  --tertiary: #f4f4f5 !important;
+  --content: #3f3f46 !important;
+  --code-bg: #f4f4f5 !important;
+  --border: #e4e4e7 !important;
 }
 
 body {
