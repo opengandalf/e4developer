@@ -516,8 +516,9 @@ blockquote {
 }
 
 /* Style the first/featured post entry - match regular post-entry cards */
-.first-entry {
+article.first-entry {
   margin-top: 0;
+  padding: 24px !important;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--entry);
@@ -525,34 +526,16 @@ blockquote {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.first-entry:hover {
+article.first-entry:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
 }
 
-.first-entry .entry-cover {
-  margin: 0.75rem;
-  border-radius: 6px;
-  overflow: hidden;
+article.first-entry .entry-cover img {
+  border-radius: 8px;
 }
 
-.first-entry .entry-cover img {
-  border-radius: 6px;
-}
-
-.first-entry .entry-header {
-  padding: 0.5rem 1rem 0;
-}
-
-.first-entry .entry-content {
-  padding: 0 1rem;
-}
-
-.first-entry .entry-footer {
-  padding: 0 1rem 1rem;
-}
-
-.first-entry .entry-header h2 {
+article.first-entry .entry-header h2 {
   font-size: 1.2rem;
 }
 
