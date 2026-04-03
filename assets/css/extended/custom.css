@@ -28,7 +28,8 @@
 }
 
 /* Dark mode overrides */
-.dark {
+.dark,
+[data-theme="dark"] {
   --theme: #0a0a0a;
   --entry: #111111;
   --primary: #e4e4e7;
@@ -40,7 +41,8 @@
 }
 
 /* Light mode */
-:root:not(.dark) {
+:root:not(.dark),
+[data-theme="light"] {
   --theme: #fafafa;
   --entry: #ffffff;
   --primary: #18181b;
