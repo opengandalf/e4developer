@@ -1,21 +1,17 @@
 ---
-title: "Microservices Toolbox - Docker | E4developer"
+title: "Microservices Toolbox - Docker"
 date: 2018-01-18T00:00:00Z
 draft: false
 description: "Introduction to Docker for microservices developer. How to use it as a development tool and how it is used for deploying microservices architecture."
 categories: ["Microservices"]
 cover:
   image: "images/docker.png"
-  alt: "Microservices Toolbox - Docker | E4developer"
+  alt: "Microservices Toolbox - Docker"
 aliases:
   - "/2018/01/18/microservices-toolbox-docker/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices Toolbox – Docker
-
-If you want to get into microservices development, you will want to run multiple things on your machine. Having services, databases, message brokers etc. all working on your machine without conflicts may be very difficult. Docker solves this problem beautifully.
+---If you want to get into microservices development, you will want to run multiple things on your machine. Having services, databases, message brokers etc. all working on your machine without conflicts may be very difficult. Docker solves this problem beautifully.
 
 ![](images/docker.png)
 

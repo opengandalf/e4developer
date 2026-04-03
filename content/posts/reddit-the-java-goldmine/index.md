@@ -1,21 +1,17 @@
 ---
-title: "Reddit - the Java goldmine | E4developer"
+title: "Reddit - the Java goldmine"
 date: 2018-08-05T00:00:00Z
 draft: false
 description: "Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community."
 categories: ["Career", "Java", "Personal"]
 cover:
   image: "images/java-reddit.jpg"
-  alt: "Reddit - the Java goldmine | E4developer"
+  alt: "Reddit - the Java goldmine"
 aliases:
   - "/2018/08/05/reddit-the-java-goldmine/"
 ShowToc: true
 TocOpen: false
----
-
-# Reddit – the Java goldmine
-
-![](images/java-reddit.jpg)
+---![](images/java-reddit.jpg)
 
 Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community. I visit Reddit daily- you can learn a lot from people there and have some interesting discussion. In this article, I will tell you how I use Reddit and why I consider it so valuable.
 

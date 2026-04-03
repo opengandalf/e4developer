@@ -1,21 +1,17 @@
 ---
-title: "My favourite Design Pattern - Strategy | E4developer"
+title: "My favourite Design Pattern - Strategy"
 date: 2018-10-14T00:00:00Z
 draft: false
 description: "Among many OOP design patterns described, the one that influenced my development the most is the Strategy Pattern. In this article, I will briefly explain what…"
 categories: ["Architecture", "Java"]
 cover:
   image: "images/strategy-pattern.png"
-  alt: "My favourite Design Pattern - Strategy | E4developer"
+  alt: "My favourite Design Pattern - Strategy"
 aliases:
   - "/2018/10/14/my-favourite-design-pattern-strategy/"
 ShowToc: true
 TocOpen: false
----
-
-# My favourite Design Pattern – Strategy
-
-Among many OOP design patterns described, the one that influenced my development the most is the Strategy Pattern. In this article, I will briefly explain what the Strategy Pattern is and why it is so important.
+---Among many OOP design patterns described, the one that influenced my development the most is the Strategy Pattern. In this article, I will briefly explain what the Strategy Pattern is and why it is so important.
 
 ## Strategy Pattern Defined
 

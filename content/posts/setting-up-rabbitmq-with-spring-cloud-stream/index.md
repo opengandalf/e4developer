@@ -1,21 +1,17 @@
 ---
-title: "Setting up RabbitMQ with Spring Cloud Stream | E4developer"
+title: "Setting up RabbitMQ with Spring Cloud Stream"
 date: 2018-01-28T00:00:00Z
 draft: false
 description: "Setting up RabbitMQ with Spring Cloud Stream step by step. By the end you will see persistent queue together with publisher and consumers subscribed."
 categories: ["Choreography", "Microservices", "Spring Cloud"]
 cover:
   image: "images/rabbit-spring-cloud-1024x254.jpg"
-  alt: "Setting up RabbitMQ with Spring Cloud Stream | E4developer"
+  alt: "Setting up RabbitMQ with Spring Cloud Stream"
 aliases:
   - "/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false
----
-
-# Setting up RabbitMQ with Spring Cloud Stream
-
-Message queues are very important and useful tools that you can utilize for your Microservices oriented architecture. Many developers are hesitant using them with the fear that they may add too much complexity and learning curve to the understanding of their system. I will show you how to make use of RabbitMQ and Spring Cloud Stream to get some basic messaging routes set-up with a very little effort!
+---Message queues are very important and useful tools that you can utilize for your Microservices oriented architecture. Many developers are hesitant using them with the fear that they may add too much complexity and learning curve to the understanding of their system. I will show you how to make use of RabbitMQ and Spring Cloud Stream to get some basic messaging routes set-up with a very little effort!
 
 ![](images/rabbit-spring-cloud-1024x254.jpg)
 

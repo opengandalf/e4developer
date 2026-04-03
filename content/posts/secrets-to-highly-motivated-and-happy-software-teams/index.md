@@ -1,21 +1,17 @@
 ---
-title: "Secrets to Highly Motivated and Happy Software Teams | E4developer"
+title: "Secrets to Highly Motivated and Happy Software Teams"
 date: 2018-06-04T00:00:00Z
 draft: false
 description: "Who wouldn’t want to work as a part of a happy and motivated software team? Wouldn’t it be great if every team you ever worked with was like that?"
 categories: ["Books", "Building teams", "Career"]
 cover:
   image: "images/happy-teams.jpg"
-  alt: "Secrets to Highly Motivated and Happy Software Teams | E4developer"
+  alt: "Secrets to Highly Motivated and Happy Software Teams"
 aliases:
   - "/2018/06/04/secrets-to-highly-motivated-and-happy-software-teams/"
 ShowToc: true
 TocOpen: false
----
-
-# Secrets to Highly Motivated and Happy Software Teams
-
-![](images/happy-teams.jpg)
+---![](images/happy-teams.jpg)
 
 Who wouldn’t want to work as a part of a happy and motivated software team? Wouldn’t it be great if every team you ever worked with was like that? Based on Leaders Eat Last by Simon Sinek and Drive by Daniel Pink, I will tell you how to make this possible.
 

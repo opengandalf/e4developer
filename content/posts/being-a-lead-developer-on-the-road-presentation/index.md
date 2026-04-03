@@ -1,21 +1,17 @@
 ---
-title: "Being a Lead Developer on the Road - Presentation | E4developer"
+title: "Being a Lead Developer on the Road - Presentation"
 date: 2018-03-16T00:00:00Z
 draft: false
 description: "On the 14th of March 2018, I had a pleasure of speaking at the While42 – French Tech Engineers Network event. I want to thank my friend Cesar Tron-Lozai and the…"
 categories: ["Building teams", "Career", "Public speaking"]
 cover:
   image: "images/lead_dev.jpg"
-  alt: "Being a Lead Developer on the Road - Presentation | E4developer"
+  alt: "Being a Lead Developer on the Road - Presentation"
 aliases:
   - "/2018/03/16/being-a-lead-developer-on-the-road-presentation/"
 ShowToc: true
 TocOpen: false
----
-
-# Being a Lead Developer on the Road – Presentation
-
-![](images/lead_dev.jpg)
+---![](images/lead_dev.jpg)
 
 On the 14th of March 2018, I had a pleasure of speaking at the [While42 – French Tech Engineers Network](http://while42.org/) event. I want to thank my friend [Cesar Tron-Lozai](https://twitter.com/cesarTronLozai) and the group for the invitation.
 

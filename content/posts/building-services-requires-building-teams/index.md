@@ -1,21 +1,17 @@
 ---
-title: "Building services requires building teams | E4developer"
+title: "Building services requires building teams"
 date: 2018-02-20T00:00:00Z
 draft: false
 description: "Microservices are linked to the idea of independent teams. See how vital this idea is to the successful adoption of such highly decoupled architecture."
 categories: ["Building teams", "DevOps", "Microservices"]
 cover:
   image: "images/team.jpg"
-  alt: "Building services requires building teams | E4developer"
+  alt: "Building services requires building teams"
 aliases:
   - "/2018/02/20/building-services-requires-building-teams/"
 ShowToc: true
 TocOpen: false
----
-
-# Building services requires building teams
-
-![](images/team.jpg)
+---![](images/team.jpg)
 
 When talking about microservices (or agile development), the idea of self-managed, independent teams often comes up. What is not emphasized enough is how vital this idea is to the successful adoption of such highly decoupled architecture. In this article, I will share my experiences about working with independent teams and being part of them.
 

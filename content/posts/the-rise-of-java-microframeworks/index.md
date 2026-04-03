@@ -1,21 +1,17 @@
 ---
-title: "The rise of Java Microframeworks | E4developer"
+title: "The rise of Java Microframeworks"
 date: 2018-06-02T00:00:00Z
 draft: false
 description: "Together with the growing popularity of microservices and light-weight REST API, we are witnessing another trend in Java: the rise of Java Microframeworks."
 categories: ["Architecture", "Java", "Microservices"]
 cover:
   image: "images/microframeworks.png"
-  alt: "The rise of Java Microframeworks | E4developer"
+  alt: "The rise of Java Microframeworks"
 aliases:
   - "/2018/06/02/the-rise-of-java-microframeworks/"
 ShowToc: true
 TocOpen: false
----
-
-# The rise of Java Microframeworks
-
-![](images/microframeworks.png)
+---![](images/microframeworks.png)
 
 Together with the growing popularity of microservices and light-weight REST API, we are witnessing another trend in Java: the rise of Java Microframeworks. Javalin, Micronaut, Spark and many more make building REST APIs a breeze. In this article, I look at this exciting space and share my opinions on their use.
 

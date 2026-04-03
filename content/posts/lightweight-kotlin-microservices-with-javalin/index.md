@@ -1,21 +1,17 @@
 ---
-title: "Lightweight Kotlin Microservices with Javalin | E4developer"
+title: "Lightweight Kotlin Microservices with Javalin"
 date: 2018-03-22T00:00:00Z
 draft: false
 description: "Introducing Javalin- a micro-framework for building Simple REST APIs for Java / Kotlin. Learn how to write Javalin “Hello World”, what are the “before, after and request” handlers and other core Javalin concepts. Building executable jar with required dependencies explained."
 categories: ["Microservices"]
 cover:
   image: "images/javalin-logo.png"
-  alt: "Lightweight Kotlin Microservices with Javalin | E4developer"
+  alt: "Lightweight Kotlin Microservices with Javalin"
 aliases:
   - "/2018/03/22/lightweight-kotlin-microservices-with-javalin/"
 ShowToc: true
 TocOpen: false
----
-
-# Lightweight Kotlin Microservices with Javalin
-
-![](images/javalin-logo.png)
+---![](images/javalin-logo.png)
 
 There is a lot happening in the JVM space when it comes to microservices development. You have Spring Cloud thriving, Microprofile entering the stage, Vert.x letting you get reactive and Dropwizard being actively developed. What if you want something really simple though? And maybe with some Kotlin? For that you have [Javalin](https://javalin.io/)!
 

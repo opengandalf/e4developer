@@ -1,21 +1,17 @@
 ---
-title: "The Physics of the Agile Methodology | E4developer"
+title: "The Physics of the Agile Methodology"
 date: 2018-09-29T00:00:00Z
 draft: false
 description: "There are numerous articles out there talking about agile teams and how being agile will change your life/project. I agree with what Agile Manifesto proposes…"
 categories: ["Building teams", "Career"]
 cover:
   image: "images/agile-physics.jpg"
-  alt: "The Physics of the Agile Methodology | E4developer"
+  alt: "The Physics of the Agile Methodology"
 aliases:
   - "/2018/09/29/the-physics-of-the-agile-methodology/"
 ShowToc: true
 TocOpen: false
----
-
-# The Physics of the Agile Methodology
-
-![](images/agile-physics.jpg)
+---![](images/agile-physics.jpg)
 
 There are numerous articles out there talking about agile teams and how being agile will change your life/project. I agree with what [Agile Manifesto](http://agilemanifesto.org/) proposes, but overall, I think that agile movement lacks scientific approach. In this article, I will apply my understanding of physics to *“prove”* and explain some of the *agile phenomena*.
 

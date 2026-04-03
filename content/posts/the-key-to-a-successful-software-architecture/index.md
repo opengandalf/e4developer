@@ -1,21 +1,17 @@
 ---
-title: "The Key to a Successful Software Architecture | E4developer"
+title: "The Key to a Successful Software Architecture"
 date: 2018-07-21T00:00:00Z
 draft: false
 description: "Recently I have read and reviewed “Clean Architecture” by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software…"
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/the-key.jpg"
-  alt: "The Key to a Successful Software Architecture | E4developer"
+  alt: "The Key to a Successful Software Architecture"
 aliases:
   - "/2018/07/21/the-key-to-a-successful-software-architecture/"
 ShowToc: true
 TocOpen: false
----
-
-# The Key to a Successful Software Architecture
-
-![](images/the-key.jpg)
+---![](images/the-key.jpg)
 
 Recently I have read and [reviewed *“Clean Architecture*“]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software architectures exhibit. What is this quality? It is the existence of clear boundaries and well-defined modules. If you don’t agree with me- keep reading and I am sure we will find some common understanding.
 

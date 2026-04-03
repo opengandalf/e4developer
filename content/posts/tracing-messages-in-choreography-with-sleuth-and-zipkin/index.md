@@ -1,21 +1,17 @@
 ---
-title: "Tracing messages in Choreography with Sleuth and Zipkin | E4developer"
+title: "Tracing messages in Choreography with Sleuth and Zipkin"
 date: 2018-02-09T00:00:00Z
 draft: false
 description: "Tracing your logs in Choreography with Spring Cloud Sleuth and Zipkin. See how you can map the flow of messages and investigate errors quickly."
 categories: ["Choreography", "Microservices", "Spring Cloud"]
 cover:
   image: "images/zipkin-cloud.png"
-  alt: "Tracing messages in Choreography with Sleuth and Zipkin | E4developer"
+  alt: "Tracing messages in Choreography with Sleuth and Zipkin"
 aliases:
   - "/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/"
 ShowToc: true
 TocOpen: false
----
-
-# Tracing messages in Choreography with Sleuth and Zipkin
-
-![](images/zipkin-cloud.png)
+---![](images/zipkin-cloud.png)
 
 One of the challenges in building distributed system is having a good visibility of what is happening inside them. This challenge is only magnified when dealing with choreography- microservices, loosely coupled, communicating via messaging. In this article you will see how Sleuth and Zipkin help to solve that problem.
 

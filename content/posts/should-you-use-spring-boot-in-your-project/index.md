@@ -1,21 +1,17 @@
 ---
-title: "Should you use Spring Boot in your project? | E4developer"
+title: "Should you use Spring Boot in your project?"
 date: 2018-09-24T00:00:00Z
 draft: false
 description: "Spring Boot is enjoying, a seemingly never-ending growth of popularity. While only released in 2014, it has managed to overtake the Java serverside in less than…"
 categories: ["Architecture", "Microservices", "Spring Boot"]
 cover:
   image: "images/should-you-use-spring-boot.jpg"
-  alt: "Should you use Spring Boot in your project? | E4developer"
+  alt: "Should you use Spring Boot in your project?"
 aliases:
   - "/2018/09/24/should-you-use-spring-boot-in-your-project/"
 ShowToc: true
 TocOpen: false
----
-
-# Should you use Spring Boot in your project?
-
-![](images/should-you-use-spring-boot.jpg)
+---![](images/should-you-use-spring-boot.jpg)
 
 Spring Boot is enjoying, a seemingly never-ending growth of popularity. While only released in 2014, it has managed to overtake the Java serverside in less than five years. When starting a new project, a sensible question to ask is- *“should I use a Spring Boot?”*. In this article, I will help you answer this question!
 

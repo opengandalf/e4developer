@@ -1,21 +1,17 @@
 ---
-title: "Java surprises - Unexpected behaviours and features | E4developer"
+title: "Java surprises - Unexpected behaviours and features"
 date: 2018-10-28T00:00:00Z
 draft: false
 description: "Java is a very mature programming language – in fact, it is over 21 years old, so if it was a person it could drink even in the USA! With age comes wisdom…"
 categories: ["Java"]
 cover:
   image: "images/java-surprises.jpg"
-  alt: "Java surprises - Unexpected behaviours and features | E4developer"
+  alt: "Java surprises - Unexpected behaviours and features"
 aliases:
   - "/2018/10/28/java-surprises-unexpected-behaviours-and-features/"
 ShowToc: true
 TocOpen: false
----
-
-# Java surprises – Unexpected behaviours and features
-
-![](images/java-surprises.jpg)
+---![](images/java-surprises.jpg)
 
 Java is a very mature programming language – in fact, it is over 21 years old, so if it was a person it could drink even in the USA! With age comes wisdom, but also with age comes quirkiness… at least sometimes. In this article, I will look at some of the more surprising and unexpected behavior and features of the language.
 

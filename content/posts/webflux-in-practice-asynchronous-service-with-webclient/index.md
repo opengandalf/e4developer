@@ -1,21 +1,17 @@
 ---
-title: "WebFlux in practice - asynchronous service with WebClient | E4developer"
+title: "WebFlux in practice - asynchronous service with WebClient"
 date: 2018-05-31T00:00:00Z
 draft: false
 description: "Building reactive microservices with WebFlux is fun and easy. In this article, I will show you how to build a reactive “synonyms” service."
 categories: ["Microservices", "Reactive", "Spring Boot"]
 cover:
   image: "images/webflux-service.png"
-  alt: "WebFlux in practice - asynchronous service with WebClient | E4developer"
+  alt: "WebFlux in practice - asynchronous service with WebClient"
 aliases:
   - "/2018/05/31/webflux-in-practice-asynchronous-service-with-webclient/"
 ShowToc: true
 TocOpen: false
----
-
-# WebFlux in practice – asynchronous service with WebClient
-
-![](images/webflux-service.png)
+---![](images/webflux-service.png)
 
 Building reactive microservices with WebFlux is fun and easy. In this article, I will show you how to build a reactive “synonyms” service. Making asynchronous API calls with WebClient is likely the most common scenario for a real-life reactive microservice.
 

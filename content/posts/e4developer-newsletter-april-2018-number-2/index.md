@@ -1,21 +1,17 @@
 ---
-title: "E4developer Newsletter - April 2018 - Number 2 | E4developer"
+title: "E4developer Newsletter - April 2018 - Number 2"
 date: 2018-04-08T00:00:00Z
 draft: false
 description: "Thank you for reading my newsletter. I have sent the previous newsletter on the 1st of March and I decided to send these on a monthly basis. Expect the next one…"
 categories: ["Newsletter"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "E4developer Newsletter - April 2018 - Number 2 | E4developer"
+  alt: "E4developer Newsletter - April 2018 - Number 2"
 aliases:
   - "/2018/04/08/e4developer-newsletter-april-2018-number-2/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer Newsletter – April 2018 – Number 2
-
-Thank you for reading my newsletter. I have sent the [previous newsletter]({{< ref "/posts/e4developer-newsletter-february-2018-number-1" >}}) on the 1st of March and I decided to send these on a monthly basis. Expect the next one in May.
+---Thank you for reading my newsletter. I have sent the [previous newsletter]({{< ref "/posts/e4developer-newsletter-february-2018-number-1" >}}) on the 1st of March and I decided to send these on a monthly basis. Expect the next one in May.
 
 I have been busy looking into different areas of software development, including Spring, Kotlin, and DevOps. I have been particularly interested in the idea of reactive-microservices and Reactive Streams. I think these will impact Java development in a significant way. Check [Reactive Streams in Java – introducing the new SPI]({{< ref "/posts/reactive-streams-in-java-introducing-the-new-spi" >}}) to see how Java 9 is already embracing these ideas.
 

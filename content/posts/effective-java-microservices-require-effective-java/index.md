@@ -1,21 +1,17 @@
 ---
-title: "Effective Java Microservices require Effective Java | E4developer"
+title: "Effective Java Microservices require Effective Java"
 date: 2018-05-09T00:00:00Z
 draft: false
 description: "Writing good software requires using the right tools. Choosing the right frameworks, libraries and designing smart systems. With all that to learn and worry…"
 categories: ["Books", "Career", "Java", "Microservices"]
 cover:
   image: "images/effective-java.jpg"
-  alt: "Effective Java Microservices require Effective Java | E4developer"
+  alt: "Effective Java Microservices require Effective Java"
 aliases:
   - "/2018/05/09/effective-java-microservices-require-effective-java/"
 ShowToc: true
 TocOpen: false
----
-
-# Effective Java Microservices require Effective Java
-
-![](images/effective-java.jpg)
+---![](images/effective-java.jpg)
 
 Writing good software requires using the right tools. Choosing the right frameworks, libraries and designing smart systems. With all that to learn and worry about, it is easy to forget about another very important thing: using your programming language wisely. In this article, I want to introduce you to *“Effective Java”*by Joshua Bloch. 
 

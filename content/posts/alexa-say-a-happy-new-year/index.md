@@ -1,21 +1,17 @@
 ---
-title: "Alexa, say a Happy New Year! | E4developer"
+title: "Alexa, say a Happy New Year!"
 date: 2019-01-04T00:00:00Z
 draft: false
 description: "Happy New Year to all my readers! I hope you missed these blog posts at least a little bit. I had a good rest during the festive period and feel ready to start writing and hacking again. In this article, I want to tell you about my most recent fascination- programming for Alexa (Echo) enabled devices."
 categories: ["Alexa", "AWS", "Personal"]
 cover:
   image: "images/alexa-header.jpg"
-  alt: "Alexa, say a Happy New Year! | E4developer"
+  alt: "Alexa, say a Happy New Year!"
 aliases:
   - "/2019/01/04/alexa-say-a-happy-new-year/"
 ShowToc: true
 TocOpen: false
----
-
-# Alexa, say a Happy New Year!
-
-![](images/alexa-header.jpg)
+---![](images/alexa-header.jpg)
 
 Happy New Year to all my readers! I hope you missed these blog posts at least a little bit. I had a good rest during the festive period and feel ready to start writing and *hacking* again. In this article, I want to tell you about my most recent fascination- programming for Alexa (Echo) enabled devices.
 

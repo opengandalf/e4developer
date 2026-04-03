@@ -1,21 +1,17 @@
 ---
-title: "Quick Guide to all the “Ops” | E4developer"
+title: "Quick Guide to all the “Ops”"
 date: 2019-05-02T00:00:00Z
 draft: false
 description: "You probably heard about Ops, DevOps, maybe even about GitOps! This short article is a “jargon buster” explaining what all these different terms mean and which…"
 categories: ["DevOps"]
 cover:
   image: "images/all-the-ops.png"
-  alt: "Quick Guide to all the “Ops” | E4developer"
+  alt: "Quick Guide to all the “Ops”"
 aliases:
   - "/2019/05/02/quick-guide-to-all-the-ops/"
 ShowToc: true
 TocOpen: false
----
-
-# Quick Guide to all the “Ops”
-
-![](images/all-the-ops.png)
+---![](images/all-the-ops.png)
 
 You probably heard about Ops, DevOps, maybe even about GitOps! This short article is a *“jargon buster”* explaining what all these different terms mean and which ones you should pay attention to.
 

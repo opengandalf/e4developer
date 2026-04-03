@@ -1,21 +1,17 @@
 ---
-title: "The importance of being humble as a software developer | E4developer"
+title: "The importance of being humble as a software developer"
 date: 2018-04-01T00:00:00Z
 draft: false
 description: "I have recently been thinking about the importance of humility for software developers. I feel that the more I learn about building software the humbler I…"
 categories: ["Building teams", "Career", "Personal"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "The importance of being humble as a software developer | E4developer"
+  alt: "The importance of being humble as a software developer"
 aliases:
   - "/2018/04/01/the-importance-of-being-humble-as-a-software-developer/"
 ShowToc: true
 TocOpen: false
----
-
-# The importance of being humble as a software developer
-
-I have recently been thinking about the importance of humility for software developers. I feel that the more I learn about building software the humbler I become, knowing I do not have all the answers. This attitude helped me a lot in my life as a software developer…
+---I have recently been thinking about the importance of humility for software developers. I feel that the more I learn about building software the humbler I become, knowing I do not have all the answers. This attitude helped me a lot in my life as a software developer…
 
 ### I was OOP expert after 3 years of study or so I thought…
 

@@ -1,21 +1,17 @@
 ---
-title: "Audiobooks - a secret weapon of a busy software developer | E4developer"
+title: "Audiobooks - a secret weapon of a busy software developer"
 date: 2018-09-14T00:00:00Z
 draft: false
 description: "I have blogged about my road to productivity recently. I received a comment there from one of my readers asking me if I have a secret weapon that helped me be…"
 categories: ["Books", "Career", "Personal"]
 cover:
   image: "images/cassette-audiobooks.jpg"
-  alt: "Audiobooks - a secret weapon of a busy software developer | E4developer"
+  alt: "Audiobooks - a secret weapon of a busy software developer"
 aliases:
   - "/2018/09/14/audiobooks-a-secret-weapon-of-a-busy-software-developer/"
 ShowToc: true
 TocOpen: false
----
-
-# Audiobooks – a secret weapon of a busy software developer
-
-![](images/cassette-audiobooks.jpg)
+---![](images/cassette-audiobooks.jpg)
 
 I have blogged about [my road to productivity recently]({{< ref "/posts/my-road-to-productivity-start-finishing-and-producing" >}}). I received a comment there from one of my readers asking me if I have a secret weapon that helped me be so productive. While I don’t have a secret weapon strictly for productivity, I realised that I have a secret weapon (or two) for learning. That weapon is simply… Audiobooks!
 

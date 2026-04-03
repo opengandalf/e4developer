@@ -1,21 +1,17 @@
 ---
-title: "Having just the right amount of technical debt | E4developer"
+title: "Having just the right amount of technical debt"
 date: 2018-11-21T00:00:00Z
 draft: false
 description: "Today I want to talk to you about technical debt. This is a topic that comes up a lot and often generates some emotions. Developers often want to have a minimal…"
 categories: ["Architecture", "Building teams", "Microservices"]
 cover:
   image: "images/tech-debt.jpg"
-  alt: "Having just the right amount of technical debt | E4developer"
+  alt: "Having just the right amount of technical debt"
 aliases:
   - "/2018/11/21/having-just-the-right-amount-of-technical-debt/"
 ShowToc: true
 TocOpen: false
----
-
-# Having just the right amount of technical debt
-
-![](images/tech-debt.jpg)
+---![](images/tech-debt.jpg)
 
 Today I want to talk to you about technical debt. This is a topic that comes up a lot and often generates some emotions. Developers often want to have a minimal amount of technical debt. Some will go through great efforts to eliminate any technical debt they see. Let me tell you what I think about it all.
 

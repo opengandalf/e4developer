@@ -1,21 +1,17 @@
 ---
-title: "E4developer is growing - “Start Here” and more to come | E4developer"
+title: "E4developer is growing - “Start Here” and more to come"
 date: 2018-06-26T00:00:00Z
 draft: false
 description: "It is hard to believe (mostly for myself) that I have already written 60 articles on this blog. With hundreds of people reading this blog daily, I would like to…"
 categories: ["Personal"]
 cover:
   image: "images/chessboard.jpg"
-  alt: "E4developer is growing - “Start Here” and more to come | E4developer"
+  alt: "E4developer is growing - “Start Here” and more to come"
 aliases:
   - "/2018/06/26/e4developer-is-growing-start-here-and-more-to-come/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer is growing – “Start Here” and more to come
-
-![](images/chessboard.jpg)
+---![](images/chessboard.jpg)
 
 It is hard to believe (mostly for myself) that I have already written 60 articles on this blog.
 

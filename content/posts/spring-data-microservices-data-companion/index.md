@@ -1,21 +1,17 @@
 ---
-title: "Spring Data - Microservices Data Companion | E4developer"
+title: "Spring Data - Microservices Data Companion"
 date: 2018-05-05T00:00:00Z
 draft: false
 description: "Spring Data is one of the flagship projects of the Spring ecosystem. If you need to work with data- be it SQL, non-SQL, using map-reduce or other…"
 categories: ["Microservices", "Spring Boot"]
 cover:
   image: "images/spring-data.jpg"
-  alt: "Spring Data - Microservices Data Companion | E4developer"
+  alt: "Spring Data - Microservices Data Companion"
 aliases:
   - "/2018/05/05/spring-data-microservices-data-companion/"
 ShowToc: true
 TocOpen: false
----
-
-# Spring Data – Microservices Data Companion
-
-![](images/spring-data.jpg)
+---![](images/spring-data.jpg)
 
 Spring Data is one of the flagship projects of the Spring ecosystem. If you need to work with data- be it SQL, non-SQL, using map-reduce or other, Spring Data most likely has you covered. In this article, I will introduce the Spring Data project and explain how it makes writing microservices easier.
 

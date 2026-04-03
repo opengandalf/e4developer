@@ -1,21 +1,17 @@
 ---
-title: "Spring Cloud Data Flow - Making Custom Apps and Using Shell | E4developer"
+title: "Spring Cloud Data Flow - Making Custom Apps and Using Shell"
 date: 2018-02-23T00:00:00Z
 draft: false
 description: "Learn how to use Spring Cloud Data Flow Shell and how to create custom Apps. Create a Stream Processor, register it and make it part of a new Stream."
 categories: ["Orchestration", "Spring Cloud", "Spring Cloud Data Flow"]
 cover:
   image: "images/Spring-Cloud-Data-Flow-Shell.png"
-  alt: "Spring Cloud Data Flow - Making Custom Apps and Using Shell | E4developer"
+  alt: "Spring Cloud Data Flow - Making Custom Apps and Using Shell"
 aliases:
   - "/2018/02/23/spring-cloud-data-flow-making-custom-apps-and-shell/"
 ShowToc: true
 TocOpen: false
----
-
-# Spring Cloud Data Flow – Making Custom Apps and Using Shell
-
-![](images/Spring-Cloud-Data-Flow-Shell.png)
+---![](images/Spring-Cloud-Data-Flow-Shell.png)
 
 Last week I wrote about getting Started with [Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}). This week I want to show you a few more things that you can do with this amazing platform. In this article I will show you how to make your own Apps that can be part of Data Flow Streams and how to use the Data Flow Shell to control the platform.
 

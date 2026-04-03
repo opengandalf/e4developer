@@ -1,21 +1,17 @@
 ---
-title: "Practical Choreography with Spring Cloud - Presentation | E4developer"
+title: "Practical Choreography with Spring Cloud - Presentation"
 date: 2018-02-20T00:00:00Z
 draft: false
 description: "On the 15th February 2018 I had a pleasure to speak at The JVM Roundabout Meetup in London. My topic was “Practical Choreography with Spring Cloud”."
 categories: ["Architecture", "Choreography", "Microservices", "Public speaking"]
 cover:
   image: "images/jvm-roundabout.jpg"
-  alt: "Practical Choreography with Spring Cloud - Presentation | E4developer"
+  alt: "Practical Choreography with Spring Cloud - Presentation"
 aliases:
   - "/2018/02/20/practical-choreography-with-spring-cloud-presentation/"
 ShowToc: true
 TocOpen: false
----
-
-# Practical Choreography with Spring Cloud – Presentation
-
-![](images/jvm-roundabout.jpg)
+---![](images/jvm-roundabout.jpg)
 
 On the 15th February 2018 I had a pleasure to speak at [The JVM Roundabout](https://www.meetup.com/JVM-Roundabout/) Meetup in London.
 

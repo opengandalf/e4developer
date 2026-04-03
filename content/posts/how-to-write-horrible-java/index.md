@@ -1,21 +1,17 @@
 ---
-title: "How to write horrible Java | E4developer"
+title: "How to write horrible Java"
 date: 2018-05-13T00:00:00Z
 draft: false
 description: "I feel horrible today. I am sick- my throat hurts, my head is not working as it should. Hence, I decided I will tell you how to write horrible Java code."
 categories: ["Career", "Java", "Personal"]
 cover:
   image: "images/horrible-java.jpg"
-  alt: "How to write horrible Java | E4developer"
+  alt: "How to write horrible Java"
 aliases:
   - "/2018/05/13/how-to-write-horrible-java/"
 ShowToc: true
 TocOpen: false
----
-
-# How to write horrible Java
-
-![](images/horrible-java.jpg)
+---![](images/horrible-java.jpg)
 
 I feel horrible today. I am sick- my throat hurts, my head is not working as it should. Hence, I decided I will tell you how to write horrible Java code. If you are tired of all these beautiful patterns and best practices and you want to write something insane- read on. Maybe you like horror stories but in code- this may appeal to you!
 

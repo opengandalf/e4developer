@@ -1,21 +1,17 @@
 ---
-title: "Reactive Streams in Java - introducing the new SPI | E4developer"
+title: "Reactive Streams in Java - introducing the new SPI"
 date: 2018-04-04T00:00:00Z
 draft: false
 description: "One of the new features of Java 9 is the introduction of the Reactive Streams SPI to the JDK. Reactive programming keeps gaining in popularity…"
 categories: ["Choreography", "Java", "Reactive"]
 cover:
   image: "images/reactive-streams.png"
-  alt: "Reactive Streams in Java - introducing the new SPI | E4developer"
+  alt: "Reactive Streams in Java - introducing the new SPI"
 aliases:
   - "/2018/04/04/reactive-streams-in-java-introducing-the-new-spi/"
 ShowToc: true
 TocOpen: false
----
-
-# Reactive Streams in Java – introducing the new SPI
-
-![](images/reactive-streams.png)
+---![](images/reactive-streams.png)
 
 One of the new features of Java 9 is the introduction of the Reactive Streams SPI to the JDK. Reactive programming keeps gaining in popularity, mainly because it works well. If you are not familiar with the principles, I recommend checking out [The Reactive Manifesto](https://www.reactivemanifesto.org/) to which I subscribe. To learn more about Reactive Streams in Java, read on.
 

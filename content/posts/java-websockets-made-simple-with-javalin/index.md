@@ -1,21 +1,17 @@
 ---
-title: "Java WebSockets made simple with Javalin | E4developer"
+title: "Java WebSockets made simple with Javalin"
 date: 2018-04-26T00:00:00Z
 draft: false
 description: "WebSockets is a technology that enables establishing an interactive connection between the front-end and the service. Being an advanced web technology…"
 categories: ["Microservices"]
 cover:
   image: "images/websockets.jpg"
-  alt: "Java WebSockets made simple with Javalin | E4developer"
+  alt: "Java WebSockets made simple with Javalin"
 aliases:
   - "/2018/04/26/java-websockets-made-simple-with-javalin/"
 ShowToc: true
 TocOpen: false
----
-
-# Java WebSockets made simple with Javalin
-
-![](images/websockets.jpg)
+---![](images/websockets.jpg)
 
 WebSockets is a technology that enables establishing an interactive connection between the front-end and the service. Being an advanced web technology, it may appear intimidating. In this blog post, I will show you how to easily build a WebSockets enabled service with Java and Javalin.
 

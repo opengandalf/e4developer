@@ -1,21 +1,17 @@
 ---
-title: "Should you let your developers work from home? | E4developer"
+title: "Should you let your developers work from home?"
 date: 2018-10-14T00:00:00Z
 draft: false
 description: "It seems that everyone wants to work remotely these days. Why wouldn’t they? There are some obvious benefits, such as reduced commute and working from the…"
 categories: ["Building teams", "Career"]
 cover:
   image: "images/home-working.jpg"
-  alt: "Should you let your developers work from home? | E4developer"
+  alt: "Should you let your developers work from home?"
 aliases:
   - "/2018/10/14/should-you-let-your-developers-work-from-home/"
 ShowToc: true
 TocOpen: false
----
-
-# Should you let your developers work from home?
-
-![](images/home-working.jpg)
+---![](images/home-working.jpg)
 
 It seems that everyone wants to work remotely these days. Why wouldn’t they? There are some obvious benefits, such as reduced commute and working from the comfort of your own home. What is the impact on the team though? In this blog post, I focus on the impact on the team rather than individual benefits.
 

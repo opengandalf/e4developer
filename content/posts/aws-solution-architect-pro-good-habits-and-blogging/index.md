@@ -1,21 +1,17 @@
 ---
-title: "AWS Solution Architect Pro, Good Habits and Blogging | E4developer"
+title: "AWS Solution Architect Pro, Good Habits and Blogging"
 date: 2019-07-21T00:00:00Z
 draft: false
 description: "I have been posting a little bit less recently. In some ways, it is easier to write two blog posts a week than one blog post once in a while."
 categories: ["AWS", "Personal"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "AWS Solution Architect Pro, Good Habits and Blogging | E4developer"
+  alt: "AWS Solution Architect Pro, Good Habits and Blogging"
 aliases:
   - "/2019/07/21/aws-solution-architect-pro-good-habits-and-blogging/"
 ShowToc: true
 TocOpen: false
----
-
-# AWS Solution Architect Pro, Good Habits and Blogging
-
-I have been posting a little bit less recently. In some ways, it is easier to write two blog posts a week than one blog post once in a while. I have recently read the book titled “Atomic Habit” that motivated me to fix this state of affairs!
+---I have been posting a little bit less recently. In some ways, it is easier to write two blog posts a week than one blog post once in a while. I have recently read the book titled “Atomic Habit” that motivated me to fix this state of affairs!
 
 As you might know, I have written over 100 blog posts in 2018 as a sort of personal challenge. It was not easy, but it was immensely satisfying! You can check out my [summary post]({{< ref "/posts/i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next" >}}) about this.
 

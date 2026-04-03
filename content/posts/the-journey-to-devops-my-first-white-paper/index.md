@@ -1,21 +1,17 @@
 ---
-title: "“The Journey to DevOps” - my first white paper | E4developer"
+title: "“The Journey to DevOps” - my first white paper"
 date: 2019-03-26T00:00:00Z
 draft: false
 description: "I am quite excited to share with you “The Journey to DevOps” (announcement and the download link here), the first white paper that I have published with my…"
 categories: ["Building teams", "DevOps", "Personal"]
 cover:
   image: "images/journey-to-devops.jpg"
-  alt: "“The Journey to DevOps” - my first white paper | E4developer"
+  alt: "“The Journey to DevOps” - my first white paper"
 aliases:
   - "/2019/03/26/the-journey-to-devops-my-first-white-paper/"
 ShowToc: true
 TocOpen: false
----
-
-# “The Journey to DevOps” – my first white paper
-
-![](images/journey-to-devops.jpg)
+---![](images/journey-to-devops.jpg)
 
 I am quite excited to share with you “The Journey to DevOps” ([announcement and the download link here](https://blog.scottlogic.com/2019/03/25/the-journey-to-devops.html)), the first white paper that I have published with my company [Scott Logic](https://www.scottlogic.com/).
 

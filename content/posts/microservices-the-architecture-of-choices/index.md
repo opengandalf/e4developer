@@ -1,21 +1,17 @@
 ---
-title: "Microservices - the Architecture of Choices | E4developer"
+title: "Microservices - the Architecture of Choices"
 date: 2018-04-18T00:00:00Z
 draft: false
 description: "One thing that differentiates microservices architecture from more traditional, monolithic development styles is the number of choices that have to be made."
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/doors-choices.jpg"
-  alt: "Microservices - the Architecture of Choices | E4developer"
+  alt: "Microservices - the Architecture of Choices"
 aliases:
   - "/2018/04/18/microservices-the-architecture-of-choices/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices – the Architecture of Choices
-
-![](images/doors-choices.jpg)
+---![](images/doors-choices.jpg)
 
 One thing that differentiates microservices architecture from more traditional, monolithic development styles is the number of choices that have to be made. Which frameworks (if any) are you going to use? How to deal with configuration, orchestration or choreography etc. It may feel overwhelming. In this article, I will give you some advice on how to approach this *Architecture of Choices* with confidence and success.
 

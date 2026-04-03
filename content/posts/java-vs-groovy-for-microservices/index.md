@@ -1,21 +1,17 @@
 ---
-title: "Java vs Groovy for Microservices | E4developer"
+title: "Java vs Groovy for Microservices"
 date: 2018-08-26T00:00:00Z
 draft: false
 description: "In the past three years, I was involved in developing microservices architectures. In Java, with Spring Boot and in Groovy with Grails."
 categories: ["Java", "Microservices", "Spring Boot"]
 cover:
   image: "images/java-vs-groovy.jpg"
-  alt: "Java vs Groovy for Microservices | E4developer"
+  alt: "Java vs Groovy for Microservices"
 aliases:
   - "/2018/08/26/java-vs-groovy-for-microservices/"
 ShowToc: true
 TocOpen: false
----
-
-# Java vs Groovy for Microservices
-
-![](images/java-vs-groovy.jpg)
+---![](images/java-vs-groovy.jpg)
 
 In the past three years, I was involved in developing microservices architectures. In Java, with Spring Boot and in Groovy with Grails. Perhaps risking some outrage, I will compare my experience in Java and Groovy, Spring Boot and Grails and give my opinion on what works best.
 

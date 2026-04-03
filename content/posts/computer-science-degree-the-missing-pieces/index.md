@@ -1,21 +1,17 @@
 ---
-title: "Computer Science Degree - The Missing Pieces | E4developer"
+title: "Computer Science Degree - The Missing Pieces"
 date: 2018-06-18T00:00:00Z
 draft: false
 description: "I have started studying Computer Science at University more than 10 years ago. Now, with Bachelor’s and Master’s degrees and a few years in the industry…"
 categories: ["Career", "Personal"]
 cover:
   image: "images/degrees.jpg"
-  alt: "Computer Science Degree - The Missing Pieces | E4developer"
+  alt: "Computer Science Degree - The Missing Pieces"
 aliases:
   - "/2018/06/18/computer-science-degree-the-missing-pieces/"
 ShowToc: true
 TocOpen: false
----
-
-# Computer Science Degree – The Missing Pieces
-
-![](images/degrees.jpg)
+---![](images/degrees.jpg)
 
 I have started studying Computer Science at University more than 10 years ago. Now, with Bachelor’s and Master’s degrees and a few years in the industry, I look back reflecting at the value of these degrees.
 

@@ -1,21 +1,17 @@
 ---
-title: "How to stay up to date with Java and Tech? Use Twitter! | E4developer"
+title: "How to stay up to date with Java and Tech? Use Twitter!"
 date: 2018-04-22T00:00:00Z
 draft: false
 description: "Java, Microservices, other JVM languages… Programming, best practices, architecture… Libraries, frameworks, methodologies… I could go on for a while here."
 categories: ["Career", "Java", "Personal"]
 cover:
   image: "images/java-twitter-profile.jpg"
-  alt: "How to stay up to date with Java and Tech? Use Twitter! | E4developer"
+  alt: "How to stay up to date with Java and Tech? Use Twitter!"
 aliases:
   - "/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/"
 ShowToc: true
 TocOpen: false
----
-
-# How to stay up to date with Java and Tech? Use Twitter!
-
-![](images/java-twitter-profile.jpg)
+---![](images/java-twitter-profile.jpg)
 
 Java, Microservices, other JVM languages… Programming, best practices, architecture… Libraries, frameworks, methodologies… I could go on for a while here. Being a passionate and up to date Software Developer is a challenge. How do you stay up to date with all this? I will let you on a well-known secret- use Twitter! Read on to find out what can Twitter help you with and how I use it to stay up to date.
 

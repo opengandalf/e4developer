@@ -1,21 +1,17 @@
 ---
-title: "Introducing JSON-B with Spring Boot 2.0 | E4developer"
+title: "Introducing JSON-B with Spring Boot 2.0"
 date: 2018-03-04T00:00:00Z
 draft: false
 description: "JSON Binding (JSON-B) is the new Java EE standard for converting JSON messages to Java Objects and back. See how it can be used in Spring Boot 2.0 and how does it compare to Jackson and GSON that are already available for some time."
 categories: ["Microservices", "Spring Boot"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "Introducing JSON-B with Spring Boot 2.0 | E4developer"
+  alt: "Introducing JSON-B with Spring Boot 2.0"
 aliases:
   - "/2018/03/04/introducing-json-b-with-spring-boot-2-0/"
 ShowToc: true
 TocOpen: false
----
-
-# Introducing JSON-B with Spring Boot 2.0
-
-JSON Binding (JSON-B) is the new Java EE specification for converting JSON messages to Java Objects and back. JSON is used everywhere and so far we had two main ways of dealing with JSON conversion in Java- using either Jackson or GSON. With the introduction of JSON-B, we have a standard way of handling this conversion. In this article, we will see how Spring Boot 2.0 supports JSON-B, how easy it is to use it and how does it compare with the other options.
+---JSON Binding (JSON-B) is the new Java EE specification for converting JSON messages to Java Objects and back. JSON is used everywhere and so far we had two main ways of dealing with JSON conversion in Java- using either Jackson or GSON. With the introduction of JSON-B, we have a standard way of handling this conversion. In this article, we will see how Spring Boot 2.0 supports JSON-B, how easy it is to use it and how does it compare with the other options.
 
 If you want to know more about JSON-B itself, you can visit the [official website](http://json-b.net/index.html) or read the four parts [Getting started with the JSON API](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-1/index.html) by IBM. I found the [fourth part comparing JSON-B, Jackson, and GSON](https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/index.html) very interesting. Now it is time to see JSON-B in action!
 

@@ -1,21 +1,17 @@
 ---
-title: "What makes a good software developer CV? | E4developer"
+title: "What makes a good software developer CV?"
 date: 2019-01-26T00:00:00Z
 draft: false
 description: "Writing CV is a bit of a game. You are trying to create a short piece of writing, focused on yourself, that will get you to the interview. Ideally…"
 categories: ["Career"]
 cover:
   image: "images/developer-cv.jpg"
-  alt: "What makes a good software developer CV? | E4developer"
+  alt: "What makes a good software developer CV?"
 aliases:
   - "/2019/01/26/what-makes-a-good-software-developer-cv/"
 ShowToc: true
 TocOpen: false
----
-
-# What makes a good software developer CV?
-
-![](images/developer-cv.jpg)
+---![](images/developer-cv.jpg)
 
 Writing CV is a bit of a game. You are trying to create a short piece of writing, focused on yourself, that will get you to the interview. Ideally, this short text will also help set you up for a successful interview and boost your chances of landing a job. I have screened hundreds of CVs over the past few years, here I want to share with you some advice on how to win the CV game.
 

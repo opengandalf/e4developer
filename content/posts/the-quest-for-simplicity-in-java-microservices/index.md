@@ -1,21 +1,17 @@
 ---
-title: "The Quest for Simplicity in Java Microservices | E4developer"
+title: "The Quest for Simplicity in Java Microservices"
 date: 2018-07-08T00:00:00Z
 draft: false
 description: "There is great value in simplicity. When things are simple, they are easier to understand, easier to extend and easier to modify. They are better."
 categories: ["Architecture", "Microservices", "Spring Boot"]
 cover:
   image: "images/quest.jpg"
-  alt: "The Quest for Simplicity in Java Microservices | E4developer"
+  alt: "The Quest for Simplicity in Java Microservices"
 aliases:
   - "/2018/07/08/the-quest-for-simplicity-in-java-microservices/"
 ShowToc: true
 TocOpen: false
----
-
-# The Quest for Simplicity in Java Microservices
-
-![](images/quest.jpg)
+---![](images/quest.jpg)
 
 There is great value in simplicity. When things are simple, they are easier to understand, easier to extend and easier to modify. They are better. Simplicity is the ultimate compliment you can give to an architecture or a framework. In this article, I look at how four different frameworks- [Spring Boot](https://spring.io/projects/spring-boot), [Javalin](https://javalin.io/), [Vert.x](https://vertx.io/) and [Micronaut](http://micronaut.io/); approach this quest for simplicity.
 

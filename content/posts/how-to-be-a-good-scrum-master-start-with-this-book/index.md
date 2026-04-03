@@ -1,21 +1,17 @@
 ---
-title: "How to be a good Scrum Master? Start with this book! | E4developer"
+title: "How to be a good Scrum Master? Start with this book!"
 date: 2018-08-24T00:00:00Z
 draft: false
 description: "“Scrum Mastery: From Good To Great Servant-Leadership” – a book that I picked up recently based on it being the number one selling book about Agile…"
 categories: ["Books", "Building teams", "Career"]
 cover:
   image: "images/scrum-mastery.jpg"
-  alt: "How to be a good Scrum Master? Start with this book! | E4developer"
+  alt: "How to be a good Scrum Master? Start with this book!"
 aliases:
   - "/2018/08/24/how-to-be-a-good-scrum-master-start-with-this-book/"
 ShowToc: true
 TocOpen: false
----
-
-# How to be a good Scrum Master? Start with this book!
-
-![](images/scrum-mastery.jpg)
+---![](images/scrum-mastery.jpg)
 
 *“Scrum Mastery: From Good To Great Servant-Leadership” –*a book that I picked up recently based on it being the number one selling book about Agile Methodologies (from Amazon). I also wanted a fresh view on that role, given that I work in a Scrum team myself. Was it worth my time? Definitely!
 

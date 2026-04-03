@@ -1,21 +1,17 @@
 ---
-title: "“Cracking the Coding Interview” - learn that and much more! | E4developer"
+title: "“Cracking the Coding Interview” - learn that and much more!"
 date: 2018-06-24T00:00:00Z
 draft: false
 description: "Three years ago I was looking for a new job. I decided that I will pick up a couple of books to help me revised for the interviews. One of those books was…"
 categories: ["Books", "Career"]
 cover:
   image: "images/cracking-the-coding-interview.jpg"
-  alt: "“Cracking the Coding Interview” - learn that and much more! | E4developer"
+  alt: "“Cracking the Coding Interview” - learn that and much more!"
 aliases:
   - "/2018/06/24/cracking-the-coding-interview-learn-that-and-much-more/"
 ShowToc: true
 TocOpen: false
----
-
-# “Cracking the Coding Interview” – learn that and much more!
-
-![](images/cracking-the-coding-interview.jpg)
+---![](images/cracking-the-coding-interview.jpg)
 
 Three years ago I was looking for a new job. I decided that I will pick up a couple of books to help me revised for the interviews. One of those books was*“Cracking the Coding Interview”*by Gayle Laakmann Mcdowell. I expected a book that will help me revise for the interviews, but I got a lot more from the book!
 

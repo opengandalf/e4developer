@@ -1,21 +1,17 @@
 ---
-title: "“Algorithms to Live By” - My Favourite Developer Audiobook | E4developer"
+title: "“Algorithms to Live By” - My Favourite Developer Audiobook"
 date: 2018-10-03T00:00:00Z
 draft: false
 description: "Today I want to share with you a review of the most exciting book I have listened to so far -“Algorithms to Live By: The Computer Science of Human Decisions” by…"
 categories: ["Algorithms", "Books"]
 cover:
   image: "images/algorithms-book.jpg"
-  alt: "“Algorithms to Live By” - My Favourite Developer Audiobook | E4developer"
+  alt: "“Algorithms to Live By” - My Favourite Developer Audiobook"
 aliases:
   - "/2018/10/03/algorithms-to-live-by-my-favourite-developer-audiobook/"
 ShowToc: true
 TocOpen: false
----
-
-# “Algorithms to Live By” – My Favourite Developer Audiobook
-
-![](images/algorithms-book.jpg)
+---![](images/algorithms-book.jpg)
 
 Today I want to share with you a review of the most exciting book I have listened to so far –*“Algorithms to Live By: The Computer Science of Human Decisions”* by Brian Christian and Tom Griffiths*.* I have already mentioned it on this blog [when simulating the secretary problem]({{< ref "/posts/simulating-the-secretary-problem-with-java" >}}). This is just an example of many fascinating problems this book talks about. Continue reading to find out why it makes such an amazing listening experience.
 

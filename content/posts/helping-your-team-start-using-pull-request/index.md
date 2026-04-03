@@ -1,21 +1,17 @@
 ---
-title: "Helping your team - Start using pull request | E4developer"
+title: "Helping your team - Start using pull request"
 date: 2018-01-15T00:00:00Z
 draft: false
 description: "You should be using pull requests. This blog post contains guidance and advice on helping your team by introducing them to pull requests"
 categories: ["Building teams"]
 cover:
   image: "images/pulling-line.jpg"
-  alt: "Helping your team - Start using pull request | E4developer"
+  alt: "Helping your team - Start using pull request"
 aliases:
   - "/2018/01/15/helping-your-team-start-using-pull-request/"
 ShowToc: true
 TocOpen: false
----
-
-# Helping your team – Start using pull request
-
-For these teams already using pull requests (or merge requests as they are sometimes known), this advice seems trivial. For the teams that do not use them- it may not be so simple. Let me explain why you need and how to get started.
+---For these teams already using pull requests (or merge requests as they are sometimes known), this advice seems trivial. For the teams that do not use them- it may not be so simple. Let me explain why you need and how to get started.
 
 ![](images/pulling-line.jpg)
 

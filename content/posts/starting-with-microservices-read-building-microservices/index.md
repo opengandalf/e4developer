@@ -1,21 +1,17 @@
 ---
-title: "Starting with Microservices: Read “Building Microservices” | E4developer"
+title: "Starting with Microservices: Read “Building Microservices”"
 date: 2018-01-24T00:00:00Z
 draft: false
 description: "Review of Building Microservices by Sam Newman. Explanation what makes a good introductory book to microservices and why you should read this one."
 categories: ["Architecture", "Books", "Microservices"]
 cover:
   image: "images/building-microservices.jpg"
-  alt: "Starting with Microservices: Read “Building Microservices” | E4developer"
+  alt: "Starting with Microservices: Read “Building Microservices”"
 aliases:
   - "/2018/01/24/starting-with-microservices-read-building-microservices/"
 ShowToc: true
 TocOpen: false
----
-
-# Starting with Microservices: Read “Building Microservices”
-
-![](images/building-microservices.jpg)
+---![](images/building-microservices.jpg)
 
 A lot of people want to start working with Microservices and don’t quite know where to start. I remember being there- finding that my next project is going to use microservices architecture and I should get familiar with it. Of course, I heard about microservices before and I have read some blog posts, but I felt that my knowledge had major gaps. If you are in this situation- worry no more! Just get yourself a copy of *“Building Microservices”* by Sam Newman and read it! Continue to find out more why I think this book has you covered.
 

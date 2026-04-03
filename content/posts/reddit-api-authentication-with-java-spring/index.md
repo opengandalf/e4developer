@@ -1,21 +1,17 @@
 ---
-title: "Reddit API Authentication with Java/Spring | E4developer"
+title: "Reddit API Authentication with Java/Spring"
 date: 2018-11-04T00:00:00Z
 draft: false
 description: "I am a big fan of Reddit. The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion…"
 categories: ["Java", "Spring Boot"]
 cover:
   image: "images/java-reddit-oauth-api.jpg"
-  alt: "Reddit API Authentication with Java/Spring | E4developer"
+  alt: "Reddit API Authentication with Java/Spring"
 aliases:
   - "/2018/11/04/reddit-api-authentication-with-java-spring/"
 ShowToc: true
 TocOpen: false
----
-
-# Reddit API Authentication with Java/Spring
-
-![](images/java-reddit-oauth-api.jpg)
+---![](images/java-reddit-oauth-api.jpg)
 
 I am a [big fan of Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.
 

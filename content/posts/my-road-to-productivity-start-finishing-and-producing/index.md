@@ -1,21 +1,17 @@
 ---
-title: "My road to productivity - start finishing and producing | E4developer"
+title: "My road to productivity - start finishing and producing"
 date: 2018-09-02T00:00:00Z
 draft: false
 description: "Being productive and motivated- who wouldn’t want that? I used to think that some people are just born more motivated, that some people simply are this way."
 categories: ["Books", "Career", "Personal"]
 cover:
   image: "images/road-to-productivity.jpg"
-  alt: "My road to productivity - start finishing and producing | E4developer"
+  alt: "My road to productivity - start finishing and producing"
 aliases:
   - "/2018/09/02/my-road-to-productivity-start-finishing-and-producing/"
 ShowToc: true
 TocOpen: false
----
-
-# My road to productivity – start finishing and producing
-
-![](images/road-to-productivity.jpg)
+---![](images/road-to-productivity.jpg)
 
 Being productive and motivated- who wouldn’t want that? I used to think that some people are just *born*more motivated, that some people simply are this way. *“The War of Art”* is an eye-opening book. I think that if I have never read it- it is unlikely that I would manage to write two articles a week for this blog ever since starting in January 2018. Here is a short story on my *road to productivity*.
 

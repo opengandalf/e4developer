@@ -1,21 +1,17 @@
 ---
-title: "Technical Architects - the role, the job and the value | E4developer"
+title: "Technical Architects - the role, the job and the value"
 date: 2018-06-30T00:00:00Z
 draft: false
 description: "Technical Architect is a job that many people understand differently. Some people argue Technical Architects should only design systems, staying hands-off…"
 categories: ["Architecture", "Building teams", "Career"]
 cover:
   image: "images/nice-architecture.jpg"
-  alt: "Technical Architects - the role, the job and the value | E4developer"
+  alt: "Technical Architects - the role, the job and the value"
 aliases:
   - "/2018/06/30/technical-architects-the-role-the-job-and-the-value/"
 ShowToc: true
 TocOpen: false
----
-
-# Technical Architects – the role, the job and the value
-
-![](images/nice-architecture.jpg)
+---![](images/nice-architecture.jpg)
 
 Technical Architect is a job that many people understand differently. Some people argue Technical Architects should only design systems, staying hands-off, while others would see them as being deeply involved in the development of systems. In here I will explore the role of Technical Architects, the job itself and the value they bring.
 

@@ -1,21 +1,17 @@
 ---
-title: "Getting Started with Spring Cloud Data Flow | E4developer"
+title: "Getting Started with Spring Cloud Data Flow"
 date: 2018-02-18T00:00:00Z
 draft: false
 description: "Set up a Spring Cloud Data Flow Server on your local machine. Build an example Stream that takes HTTP traffic, transforms and saves to a file."
 categories: ["Microservices", "Orchestration", "Spring Cloud", "Spring Cloud Data Flow"]
 cover:
   image: "images/data-flow-featured.png"
-  alt: "Getting Started with Spring Cloud Data Flow | E4developer"
+  alt: "Getting Started with Spring Cloud Data Flow"
 aliases:
   - "/2018/02/18/getting-started-with-spring-cloud-data-flow/"
 ShowToc: true
 TocOpen: false
----
-
-# Getting Started with Spring Cloud Data Flow
-
-![](images/data-flow-featured.png)
+---![](images/data-flow-featured.png)
 
 In this article, I will show you how you can get started with Spring Cloud Data Flow. Spring Cloud Data Flow is an amazing platform for building data integration and processing pipelines. It has a very user-friendly graphical dashboard where you can define your streams, making your work with data an absolute pleasure.
 

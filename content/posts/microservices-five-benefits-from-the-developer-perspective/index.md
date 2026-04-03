@@ -1,21 +1,17 @@
 ---
-title: "Microservices - Five benefits from the developer perspective | E4developer"
+title: "Microservices - Five benefits from the developer perspective"
 date: 2018-01-14T00:00:00Z
 draft: false
 description: "Looking at the main benefits of microservices for developers. Technical flexibility and architecture strengths discussed among other benefits."
 categories: ["Microservices"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "Microservices - Five benefits from the developer perspective | E4developer"
+  alt: "Microservices - Five benefits from the developer perspective"
 aliases:
   - "/2018/01/14/microservices-five-benefits-from-the-developer-perspective/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices – Five benefits from the developer perspective
-
-I have started this blog to share my technical insight and passion with the wider development community. I would not be true to myself if I did not start by explaining why I enjoy working with microservices.
+---I have started this blog to share my technical insight and passion with the wider development community. I would not be true to myself if I did not start by explaining why I enjoy working with microservices.
 
 ### You are free to use modern technologies
 

@@ -1,21 +1,17 @@
 ---
-title: "Java 9 to 12 - all the language modifications | E4developer"
+title: "Java 9 to 12 - all the language modifications"
 date: 2019-03-26T00:00:00Z
 draft: false
 description: "We have all had quite a lot of time to get familiar with Java 8 and all the amazing features that it provided us with. Since then quite a lot have happened…"
 categories: ["Java"]
 cover:
   image: "images/java-9-12.jpg"
-  alt: "Java 9 to 12 - all the language modifications | E4developer"
+  alt: "Java 9 to 12 - all the language modifications"
 aliases:
   - "/2019/03/26/java-9-to-12-all-the-language-modifications/"
 ShowToc: true
 TocOpen: false
----
-
-# Java 9 to 12 – all the language modifications
-
-![](images/java-9-12.jpg)
+---![](images/java-9-12.jpg)
 
 We have all had quite a lot of time to get familiar with Java 8 and all the amazing features that it provided us with. Since then quite a lot have happened, with the release of Java 9, 10, 11 and this month 12 it is hard to stay on top of all the language changes happening! In here I will **focus exclusively on the changes to the language** leaving library changes to other writers.
 

@@ -1,21 +1,17 @@
 ---
-title: "WebFlux and servicing client requests - how does it work? | E4developer"
+title: "WebFlux and servicing client requests - how does it work?"
 date: 2018-04-14T00:00:00Z
 draft: false
 description: "I have previously written about Getting Reactive with Spring Boot 2.0 and Reactor, where I have given an introduction to reactive programming in Spring Boot."
 categories: ["Microservices", "Reactive", "Spring Boot"]
 cover:
   image: "images/simple-flux.png"
-  alt: "WebFlux and servicing client requests - how does it work? | E4developer"
+  alt: "WebFlux and servicing client requests - how does it work?"
 aliases:
   - "/2018/04/14/webflux-and-servicing-client-requests-how-does-it-work/"
 ShowToc: true
 TocOpen: false
----
-
-# WebFlux and servicing client requests – how does it work?
-
-I have previously written about [Getting Reactive with Spring Boot 2.0 and Reactor]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}}), where I have given an introduction to reactive programming in Spring Boot. In this article, I will further explore WebFlux and the ways it impacts servicing client requests- what happens when you return a Flux<>?
+---I have previously written about [Getting Reactive with Spring Boot 2.0 and Reactor]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}}), where I have given an introduction to reactive programming in Spring Boot. In this article, I will further explore WebFlux and the ways it impacts servicing client requests- what happens when you return a Flux<>?
 
 ### Simple Flux<Integer>
 

@@ -1,21 +1,17 @@
 ---
-title: "The business case for Microservices | E4developer"
+title: "The business case for Microservices"
 date: 2018-02-03T00:00:00Z
 draft: false
 description: "The business case for microservices. Why companies should be using microservices to save money, get better business outcomes and attract the best people."
 categories: ["Microservices"]
 cover:
   image: "images/growing-money.jpg"
-  alt: "The business case for Microservices | E4developer"
+  alt: "The business case for Microservices"
 aliases:
   - "/2018/02/03/the-business-case-for-microservices/"
 ShowToc: true
 TocOpen: false
----
-
-# The business case for Microservices
-
-Microservices have won major following from technology enthusiasts all over the world. A couple weeks ago I was giving an introduction to Spring Cloud at one of [Scott Logic](http://www.scottlogic.com) breakfast technical talks (techie brekkies). All the developers in the room were interested and could see number of benefits and challenges with this, still rather new, approach. At the end of the session, during the question time I was asked by one of the business people in the room- *“So, what is the business case for this, what business problem does it solve?”*. It is easy to provide a few answers about scalability and maintainability of microservices, but I don’t think that speaks clearly to our business people. In this article I will look deeper into the business benefits provided by investing into microservices architecture.
+---Microservices have won major following from technology enthusiasts all over the world. A couple weeks ago I was giving an introduction to Spring Cloud at one of [Scott Logic](http://www.scottlogic.com) breakfast technical talks (techie brekkies). All the developers in the room were interested and could see number of benefits and challenges with this, still rather new, approach. At the end of the session, during the question time I was asked by one of the business people in the room- *“So, what is the business case for this, what business problem does it solve?”*. It is easy to provide a few answers about scalability and maintainability of microservices, but I don’t think that speaks clearly to our business people. In this article I will look deeper into the business benefits provided by investing into microservices architecture.
 
 ![](images/growing-money.jpg)
 

@@ -1,21 +1,17 @@
 ---
-title: "HATEOAS - a simple explanation | E4developer"
+title: "HATEOAS - a simple explanation"
 date: 2018-02-16T00:00:00Z
 draft: false
 description: "HATEOAS - Hypermedia as the Engine of Application State. Simple explanation what it is, why should you use it and common misconceptions."
 categories: ["Architecture", "Orchestration"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "HATEOAS - a simple explanation | E4developer"
+  alt: "HATEOAS - a simple explanation"
 aliases:
   - "/2018/02/16/hateoas-simple-explanation/"
 ShowToc: true
 TocOpen: false
----
-
-# HATEOAS – a simple explanation
-
-HATEOAS – Hypermedia as the Engine of Application State, a name long enough to intimidate and confuse. Behind this complicated name we have a rather simple and elegant idea. In this blog post, I explain what HATEOAS is and how it can be practically used to build more stable systems.
+---HATEOAS – Hypermedia as the Engine of Application State, a name long enough to intimidate and confuse. Behind this complicated name we have a rather simple and elegant idea. In this blog post, I explain what HATEOAS is and how it can be practically used to build more stable systems.
 
 HATEOAS is a way of designing a REST API. More precisely it is a specific constraint of a REST architecture. It can be summed up with:
 

@@ -1,21 +1,17 @@
 ---
-title: "Handling bad messages with RabbitMQ and Spring Cloud Stream | E4developer"
+title: "Handling bad messages with RabbitMQ and Spring Cloud Stream"
 date: 2018-02-05T00:00:00Z
 draft: false
 description: "Handling Bad Messages using Dead Letter Queues in RabbitMQ. See how Spring Cloud Stream makes it easy and what can you do to repair and replay messages."
 categories: ["Choreography", "Microservices", "Spring Cloud"]
 cover:
   image: "images/message-in-dlq.jpg"
-  alt: "Handling bad messages with RabbitMQ and Spring Cloud Stream | E4developer"
+  alt: "Handling bad messages with RabbitMQ and Spring Cloud Stream"
 aliases:
   - "/2018/02/05/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false
----
-
-# Handling bad messages with RabbitMQ and Spring Cloud Stream
-
-When dealing with messaging in a distributed system, it is crucial to have a good method of handling bad messages. In complicated systems, messages that are either wrong, or general failures when consuming messages are unavoidable. See how you can deal with this problem using Dead Letter Queues, RabbitMQ and Spring Boot Cloud.
+---When dealing with messaging in a distributed system, it is crucial to have a good method of handling bad messages. In complicated systems, messages that are either wrong, or general failures when consuming messages are unavoidable. See how you can deal with this problem using Dead Letter Queues, RabbitMQ and Spring Boot Cloud.
 
 When dealing with messages in distributed systems it is important to know when things go wrong. When your services simply call one another it often is quite trivial- if your call failed, you know that you have a problem! With messaging it is often not so clear- as a service, if you successfully published a message on a queue- your responsibility ends. Whose responsibility is it then to ensure that the message published was correct and if not, that something will be done about it? Here, with the spirit of *“smart pipes”*we assume that it is the brokers responsibility to provide this service…
 

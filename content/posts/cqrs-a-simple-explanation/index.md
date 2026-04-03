@@ -1,21 +1,17 @@
 ---
-title: "CQRS - a simple explanation | E4developer"
+title: "CQRS - a simple explanation"
 date: 2018-03-11T00:00:00Z
 draft: false
 description: "Command Query Responsibility Segregation (CQRS) is a pattern that causes quite a lot of confusion. With the popularity of microservices and the event-based…"
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/cqrs-canyon.jpg"
-  alt: "CQRS - a simple explanation | E4developer"
+  alt: "CQRS - a simple explanation"
 aliases:
   - "/2018/03/11/cqrs-a-simple-explanation/"
 ShowToc: true
 TocOpen: false
----
-
-# CQRS – a simple explanation
-
-![](images/cqrs-canyon.jpg)
+---![](images/cqrs-canyon.jpg)
 
 **Command Query Responsibility Segregation (CQRS)** is a pattern that causes quite a lot of confusion. With the popularity of microservices and the event-based programming model, it is important to know what CQRS is. In this article, I will provide you with a simple explanation.
 

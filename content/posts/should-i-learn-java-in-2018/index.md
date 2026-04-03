@@ -1,21 +1,17 @@
 ---
-title: "Should I Learn Java in 2018 | E4developer"
+title: "Should I Learn Java in 2018"
 date: 2018-06-09T00:00:00Z
 draft: false
 description: "Should I learn Java? This is a question that just keeps coming up. If you are just starting out as a developer, if you already work as a Front End Developer or…"
 categories: ["Career", "Java"]
 cover:
   image: "images/learn-java.jpg"
-  alt: "Should I Learn Java in 2018 | E4developer"
+  alt: "Should I Learn Java in 2018"
 aliases:
   - "/2018/06/09/should-i-learn-java-in-2018/"
 ShowToc: true
 TocOpen: false
----
-
-# Should I Learn Java in 2018
-
-![](images/learn-java.jpg)
+---![](images/learn-java.jpg)
 
 Should I learn Java? This is a question that just keeps coming up. If you are just starting out as a developer, if you already work as a Front End Developer or even if you are from the .NET background, many people wonder if learning Java is the right career/personal development move. Let’s see how useful learning Java is in 2018.
 

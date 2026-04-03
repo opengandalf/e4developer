@@ -1,21 +1,17 @@
 ---
-title: "Keeping your coding skills sharp with HackerRank | E4developer"
+title: "Keeping your coding skills sharp with HackerRank"
 date: 2018-03-17T00:00:00Z
 draft: false
 description: "It is good to stay “in shape” when it comes to algorithmic coding. You never know when it may be important- a difficult problem at work or a short notice interview. Let me introduce you to one of my all-time favourite “tools”. Ladies and Gentlemen- HackerRank!"
 categories: ["Career"]
 cover:
   image: "images/hackerrank.png"
-  alt: "Keeping your coding skills sharp with HackerRank | E4developer"
+  alt: "Keeping your coding skills sharp with HackerRank"
 aliases:
   - "/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/"
 ShowToc: true
 TocOpen: false
----
-
-# Keeping your coding skills sharp with HackerRank
-
-![](images/hackerrank.png)
+---![](images/hackerrank.png)
 
 I have recently gave a talk about being a [lead developer in consultancy]({{< ref "/posts/being-a-lead-developer-on-the-road-presentation" >}}). I have stressed there the importance of learning in the role of a software consultant. Beyond that, it is good to stay “in shape” when it comes to algorithmic coding. You never know when it may be important- a difficult problem at work or a short notice interview. Let me introduce you to one of my all-time favourite “tools”. Ladies and Gentlemen- [HackerRank](https://www.hackerrank.com/)!
 

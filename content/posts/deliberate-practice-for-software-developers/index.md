@@ -1,21 +1,17 @@
 ---
-title: "Deliberate Practice for Software Developers | E4developer"
+title: "Deliberate Practice for Software Developers"
 date: 2019-01-14T00:00:00Z
 draft: false
 description: "You might have heard of the 10,000-hour rule. It supposedly takes 10,000 hours of practice to become a master at something. This number will, of course…"
 categories: ["Career"]
 cover:
   image: "images/deliberate-practice.jpeg"
-  alt: "Deliberate Practice for Software Developers | E4developer"
+  alt: "Deliberate Practice for Software Developers"
 aliases:
   - "/2019/01/14/deliberate-practice-for-software-developers/"
 ShowToc: true
 TocOpen: false
----
-
-# Deliberate Practice for Software Developers
-
-![](images/deliberate-practice.jpeg)
+---![](images/deliberate-practice.jpeg)
 
 You might have heard of the 10,000-hour rule. It supposedly takes 10,000 hours of practice to become a master at something. This number will, of course, vary depending on what you are trying to master- some skills have a much higher bar than that, others may be easier. What is also important is the quality of that practice. In this blog post I will look at different ways you can carry out a deliberate practice as a developer.
 

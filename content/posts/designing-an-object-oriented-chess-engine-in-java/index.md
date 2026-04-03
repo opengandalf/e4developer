@@ -1,21 +1,17 @@
 ---
-title: "Designing an Object Oriented Chess Engine in Java | E4developer"
+title: "Designing an Object Oriented Chess Engine in Java"
 date: 2018-08-16T00:00:00Z
 draft: false
 description: "I love playing chess. I also love programming. How to marry the two? How about playing chess against a chess engine (chess playing program) that I have designed…"
 categories: ["Chess", "Java", "Personal"]
 cover:
   image: "images/mechanical-turk.jpg"
-  alt: "Designing an Object Oriented Chess Engine in Java | E4developer"
+  alt: "Designing an Object Oriented Chess Engine in Java"
 aliases:
   - "/2018/08/16/designing-an-object-oriented-chess-engine-in-java/"
 ShowToc: true
 TocOpen: false
----
-
-# Designing an Object Oriented Chess Engine in Java
-
-![](images/mechanical-turk.jpg)
+---![](images/mechanical-turk.jpg)
 
 I love playing chess. I also love programming. How to marry the two? How about playing chess against a chess engine (chess playing program) that I have designed and wrote? If you are intrigued- read on! This is the first blog post in the series about building my chess engine in Java.
 

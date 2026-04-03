@@ -1,21 +1,17 @@
 ---
-title: "The State of Spring in 2018 - Devoxx UK Impressions | E4developer"
+title: "The State of Spring in 2018 - Devoxx UK Impressions"
 date: 2018-05-20T00:00:00Z
 draft: false
 description: "Thanks to my company – Scott Logic – I recently had a pleasure of attending the Devoxx UK 2018 conference. Among many interesting talks and speakers…"
 categories: ["Microservices", "Reactive", "Spring Boot", "Spring Cloud"]
 cover:
   image: "images/devoxx-spring.jpg"
-  alt: "The State of Spring in 2018 - Devoxx UK Impressions | E4developer"
+  alt: "The State of Spring in 2018 - Devoxx UK Impressions"
 aliases:
   - "/2018/05/20/the-state-of-spring-in-2018-devoxx-uk-impressions/"
 ShowToc: true
 TocOpen: false
----
-
-# The State of Spring in 2018 – Devoxx UK Impressions
-
-![](images/devoxx-spring.jpg)
+---![](images/devoxx-spring.jpg)
 
 Thanks to my company – [Scott Logic](https://www.scottlogic.com/) – I recently had a pleasure of attending the Devoxx UK 2018 conference. Among many interesting talks and speakers, there were quite a few Spring celebrities present. [Juergen Holler](https://twitter.com/springjuergen) (Father of Spring), [Josh Long](https://twitter.com/starbuxman) and [Mark Heckler](https://twitter.com/MkHeck) were all there. Here are my impressions from the conference.
 

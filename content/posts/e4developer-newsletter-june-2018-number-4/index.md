@@ -1,21 +1,17 @@
 ---
-title: "E4developer Newsletter – June 2018 – Number 4 | E4developer"
+title: "E4developer Newsletter – June 2018 – Number 4"
 date: 2018-06-05T00:00:00Z
 draft: false
 description: "Thank you for reading my newsletter. In the last month, I wrote on Java, Microservices and creating amazing teams- as expected! I also wrote my first funny post…"
 categories: ["Newsletter"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "E4developer Newsletter – June 2018 – Number 4 | E4developer"
+  alt: "E4developer Newsletter – June 2018 – Number 4"
 aliases:
   - "/2018/06/05/e4developer-newsletter-june-2018-number-4/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer Newsletter – June 2018 – Number 4
-
-Thank you for reading my newsletter. In the last month, I wrote on Java, Microservices and creating amazing teams- as expected! I also wrote my first funny post – [How to write horrible Java]({{< ref "/posts/how-to-write-horrible-java" >}}) that was warmly received. Check it out!
+---Thank you for reading my newsletter. In the last month, I wrote on Java, Microservices and creating amazing teams- as expected! I also wrote my first funny post – [How to write horrible Java]({{< ref "/posts/how-to-write-horrible-java" >}}) that was warmly received. Check it out!
 
 I continue my fascination with Java Microframeworks ecosystem in [The Rise of Java Microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}). If you have not heard about them before, definitely give it a read.
 

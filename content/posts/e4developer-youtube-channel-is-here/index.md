@@ -1,21 +1,17 @@
 ---
-title: "E4developer YouTube channel is here! | E4developer"
+title: "E4developer YouTube channel is here!"
 date: 2018-07-17T00:00:00Z
 draft: false
 description: "Half a year after creating this blog I felt that there was something missing… I enjoy sharing my passion for the JVM ecosystem and software development with You…"
 categories: ["Personal", "Public speaking"]
 cover:
   image: "images/e4youtube.jpg"
-  alt: "E4developer YouTube channel is here! | E4developer"
+  alt: "E4developer YouTube channel is here!"
 aliases:
   - "/2018/07/17/e4developer-youtube-channel-is-here/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer YouTube channel is here!
-
-![](images/e4youtube.jpg)
+---![](images/e4youtube.jpg)
 
 Half a year after creating this blog I felt that there was something missing… I enjoy sharing my passion for the JVM ecosystem and software development with You, my dear readers, but I could never talk to You. I decided to change it and give YouTube a try. You can follow my efforts on the brand new [E4developer YouTube channel](https://www.youtube.com/channel/UCct_XHqdxXSYLZl7MfiDAAA)!
 

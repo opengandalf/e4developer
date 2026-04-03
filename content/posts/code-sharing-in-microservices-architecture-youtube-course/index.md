@@ -1,21 +1,17 @@
 ---
-title: "Code Sharing in Microservices Architecture - YouTube Course | E4developer"
+title: "Code Sharing in Microservices Architecture - YouTube Course"
 date: 2019-06-21T00:00:00Z
 draft: false
 description: "I am very excited to share with you my mini video course on “Code Sharing in Microservices Architecture”. The course consist of 5 videos: This is the first time…"
 categories: ["Architecture", "Microservices", "Videos"]
 cover:
   image: "images/code-sharing-video-course.jpg"
-  alt: "Code Sharing in Microservices Architecture - YouTube Course | E4developer"
+  alt: "Code Sharing in Microservices Architecture - YouTube Course"
 aliases:
   - "/2019/06/21/code-sharing-in-microservices-architecture-youtube-course/"
 ShowToc: true
 TocOpen: false
----
-
-# Code Sharing in Microservices Architecture – YouTube Course
-
-![](images/code-sharing-video-course.jpg)
+---![](images/code-sharing-video-course.jpg)
 
 I am very excited to share with you my mini video course on “Code Sharing in Microservices Architecture”.
 

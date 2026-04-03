@@ -1,21 +1,17 @@
 ---
-title: "Spring Cloud Data Flow - Use Cases | E4developer"
+title: "Spring Cloud Data Flow - Use Cases"
 date: 2018-02-28T00:00:00Z
 draft: false
 description: "Spring Cloud Data Flow can be used for many things- orchestrating event streams, batch processing, data analytics and more. In this article I look at that and examples of different companies using Spring Cloud Data Flow in production."
 categories: ["Architecture", "Orchestration", "Spring Cloud", "Spring Cloud Data Flow"]
 cover:
   image: "images/s1p-logo.png"
-  alt: "Spring Cloud Data Flow - Use Cases | E4developer"
+  alt: "Spring Cloud Data Flow - Use Cases"
 aliases:
   - "/2018/02/28/spring-cloud-data-flow-use-cases/"
 ShowToc: true
 TocOpen: false
----
-
-# Spring Cloud Data Flow – Use Cases
-
-![](images/s1p-logo.png)
+---![](images/s1p-logo.png)
 
 I have recently spent quite a lot of time playing with Spring Cloud Data Flow (SCDF). It is an amazing platform that can be used for many things. Talking about it with some of my colleagues I realized that not everyone knows what are the common use cases. Thinking about it further I realized that I don’t know the full scope of capabilities and business problems that it can solve! In this article I look at different uses for Spring Cloud Data Flow based on what the platform offers and actual stories from companies using it in production. The examples come from [Spring One Platform 2017](https://springoneplatform.io/2017) conference.
 

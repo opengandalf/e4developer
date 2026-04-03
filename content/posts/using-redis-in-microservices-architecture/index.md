@@ -1,21 +1,17 @@
 ---
-title: "Using Redis in Microservices Architecture | E4developer"
+title: "Using Redis in Microservices Architecture"
 date: 2018-08-03T00:00:00Z
 draft: false
 description: "In this article, we will look closer at a fascinating open source project. Meet Redis! You may be familiar with Redis already, in that case…"
 categories: ["Architecture", "Choreography", "Microservices", "Spring Boot"]
 cover:
   image: "images/redis-microservices.jpg"
-  alt: "Using Redis in Microservices Architecture | E4developer"
+  alt: "Using Redis in Microservices Architecture"
 aliases:
   - "/2018/08/03/using-redis-in-microservices-architecture/"
 ShowToc: true
 TocOpen: false
----
-
-# Using Redis in Microservices Architecture
-
-![](images/redis-microservices.jpg)
+---![](images/redis-microservices.jpg)
 
 In this article, we will look closer at a fascinating open source project. Meet Redis! You may be familiar with Redis already, in that case, you may be interested in the different use cases it has for microservices architecture. Read on to see how this “*in-memory data structure store, database, cache, and message broker”* can make your system better!
 

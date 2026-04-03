@@ -1,21 +1,17 @@
 ---
-title: "E4developer Newsletter - February 2018 - Number 1 | E4developer"
+title: "E4developer Newsletter - February 2018 - Number 1"
 date: 2018-03-01T00:00:00Z
 draft: false
 description: "Newsletter focusing on Microservices, JVM, Building Teams and other exciting technical stuff that I write on e4developer. You can join our mailing list and receive it to your inbox."
 categories: ["Newsletter"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "E4developer Newsletter - February 2018 - Number 1 | E4developer"
+  alt: "E4developer Newsletter - February 2018 - Number 1"
 aliases:
   - "/2018/03/01/e4developer-newsletter-february-2018-number-1/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer Newsletter – February 2018 – Number 1
-
-As part of me running this blog, I have decided to create a mailing list and a semi regular newsletter. This is the first edition of that newsletter. If you would like to join it and receive the content to your email, you can **[sign up here](https://www.e4developer.com/newsletter/).**
+---As part of me running this blog, I have decided to create a mailing list and a semi regular newsletter. This is the first edition of that newsletter. If you would like to join it and receive the content to your email, you can **[sign up here](https://www.e4developer.com/newsletter/).**
 
 I have started this blog on the 13th January 2018, hoping to share my passion, knowledge and experience with the like minded people online. The first blog post: **[Starting a blog – why?]({{< ref "/posts/starting-a-blog-why" >}})** gives a bit more insights. So far this journey has been amazing.
 

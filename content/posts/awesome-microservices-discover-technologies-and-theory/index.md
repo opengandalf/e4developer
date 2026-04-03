@@ -1,21 +1,17 @@
 ---
-title: "“Awesome Microservices” - discover technologies and theory | E4developer"
+title: "“Awesome Microservices” - discover technologies and theory"
 date: 2018-07-15T00:00:00Z
 draft: false
 description: "Wouldn’t it be nice if someone would gather all the best resources, projects, technologies and everything else related to microservices? Yes, it would!"
 categories: ["Microservices"]
 cover:
   image: "images/awesome.jpg"
-  alt: "“Awesome Microservices” - discover technologies and theory | E4developer"
+  alt: "“Awesome Microservices” - discover technologies and theory"
 aliases:
   - "/2018/07/15/awesome-microservices-discover-technologies-and-theory/"
 ShowToc: true
 TocOpen: false
----
-
-# “Awesome Microservices” – discover technologies and theory
-
-![](images/awesome.jpg)
+---![](images/awesome.jpg)
 
 Wouldn’t it be nice if someone would gather all the best resources, projects, technologies and everything else related to microservices? Yes, it would! The good news is- someone (many people) already did. Let me introduce you to [awesome-microservices](https://github.com/mfornos/awesome-microservices)!
 

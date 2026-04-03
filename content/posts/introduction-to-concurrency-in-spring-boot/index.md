@@ -1,21 +1,17 @@
 ---
-title: "Introduction to Concurrency in Spring Boot | E4developer"
+title: "Introduction to Concurrency in Spring Boot"
 date: 2018-03-30T00:00:00Z
 draft: false
 description: "When building services with Spring Boot we have to deal with concurrency. There is this misconception that because of using Servlets and getting a new Thread…"
 categories: ["Microservices", "Spring Boot"]
 cover:
   image: "images/trains.jpg"
-  alt: "Introduction to Concurrency in Spring Boot | E4developer"
+  alt: "Introduction to Concurrency in Spring Boot"
 aliases:
   - "/2018/03/30/introduction-to-concurrency-in-spring-boot/"
 ShowToc: true
 TocOpen: false
----
-
-# Introduction to Concurrency in Spring Boot
-
-![](images/trains.jpg)
+---![](images/trains.jpg)
 
 When building services with Spring Boot we have to deal with concurrency. There is this misconception that because of using Servlets and getting a new Thread allocated per request there is no need to think about concurrency. In this article, I will give some practical advice on dealing with multi-threading in Spring Boot and how to avoid problems it can create.
 

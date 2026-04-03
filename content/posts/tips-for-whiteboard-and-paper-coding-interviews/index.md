@@ -1,21 +1,17 @@
 ---
-title: "Tips for “whiteboard” and “paper” coding interviews | E4developer"
+title: "Tips for “whiteboard” and “paper” coding interviews"
 date: 2018-09-02T00:00:00Z
 draft: false
 description: "In my career as a software developer, I have interviewed over 100 people. Most of these interviews were face to face interview involving coding on paper or a…"
 categories: ["Career"]
 cover:
   image: "images/paper-coding.jpg"
-  alt: "Tips for “whiteboard” and “paper” coding interviews | E4developer"
+  alt: "Tips for “whiteboard” and “paper” coding interviews"
 aliases:
   - "/2018/09/02/tips-for-whiteboard-and-paper-coding-interviews/"
 ShowToc: true
 TocOpen: false
----
-
-# Tips for “whiteboard” and “paper” coding interviews
-
-![](images/paper-coding.jpg)
+---![](images/paper-coding.jpg)
 
 In my career as a software developer, I have interviewed over 100 people. Most of these interviews were face to face interview involving coding on paper or a white-board. In this article, I want to give you practical advice on how to approach these interviews.
 

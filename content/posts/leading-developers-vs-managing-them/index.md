@@ -1,21 +1,17 @@
 ---
-title: "Leading developers vs managing them | E4developer"
+title: "Leading developers vs managing them"
 date: 2018-10-21T00:00:00Z
 draft: false
 description: "Words like leadership and management are used often when discussing software projects. While they may sound similar, they are quite different and are often (but…"
 categories: ["Building teams", "Career"]
 cover:
   image: "images/leadership-word.jpg"
-  alt: "Leading developers vs managing them | E4developer"
+  alt: "Leading developers vs managing them"
 aliases:
   - "/2018/10/21/leading-developers-vs-managing-them/"
 ShowToc: true
 TocOpen: false
----
-
-# Leading developers vs managing them
-
-![](images/leadership-word.jpg)
+---![](images/leadership-word.jpg)
 
 Words like leadership and management are used often when discussing software projects. While they may sound similar, they are quite different and are often (but not always) performed by separate people. In this article, I will look closer at these two terms and explain why one is more difficult than the other.
 

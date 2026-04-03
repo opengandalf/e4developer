@@ -1,21 +1,17 @@
 ---
-title: "Discovering “Clean Architecture” with Uncle Bob | E4developer"
+title: "Discovering “Clean Architecture” with Uncle Bob"
 date: 2018-07-14T00:00:00Z
 draft: false
 description: "Recently I have been taking a bit of a step back from microservices and trying to look at systems architecture from a more general perspective."
 categories: ["Architecture", "Books"]
 cover:
   image: "images/the-clean-architecture.jpg"
-  alt: "Discovering “Clean Architecture” with Uncle Bob | E4developer"
+  alt: "Discovering “Clean Architecture” with Uncle Bob"
 aliases:
   - "/2018/07/14/discovering-clean-architecture-with-uncle-bob/"
 ShowToc: true
 TocOpen: false
----
-
-# Discovering “Clean Architecture” with Uncle Bob
-
-![](images/the-clean-architecture.jpg)
+---![](images/the-clean-architecture.jpg)
 
 Recently I have been taking a bit of a step back from microservices and trying to look at systems architecture from a more general perspective. With that mindset, I have picked up [*“Clean Architecture” (Amazon)*](https://www.amazon.com/gp/product/0134494164/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134494164&linkCode=as2&tag=e4developer01-20&linkId=e4b2982b894b1cb4cabeeab9dd4c783c) by the “*Legendary Craftsman”* (that’s probably the publisher’s enthusiasm!) Robert C. Martin “Uncle Bob”. What follows is my thoughts and overall review of the book.
 

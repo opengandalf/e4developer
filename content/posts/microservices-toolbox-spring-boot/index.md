@@ -1,21 +1,17 @@
 ---
-title: "Microservices Toolbox: Spring Boot | E4developer"
+title: "Microservices Toolbox: Spring Boot"
 date: 2018-01-16T00:00:00Z
 draft: false
 description: "High level introduction to Spring Boot and its popularity. Spring Boot Hello World example and a list of features that make it so successful."
 categories: ["Microservices", "Spring Boot"]
 cover:
   image: "images/spring-boot.png"
-  alt: "Microservices Toolbox: Spring Boot | E4developer"
+  alt: "Microservices Toolbox: Spring Boot"
 aliases:
   - "/2018/01/16/microservices-toolbox-spring-boot/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices Toolbox: Spring Boot
-
-This is beginning of the series of blog posts where I will introduce and explain different tools and frameworks that are useful in microservices development. It is difficult to start such a series without introducing Spring Boot!
+---This is beginning of the series of blog posts where I will introduce and explain different tools and frameworks that are useful in microservices development. It is difficult to start such a series without introducing Spring Boot!
 
 ![](images/spring-boot.png)
 

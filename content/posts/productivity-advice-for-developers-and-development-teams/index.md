@@ -1,21 +1,17 @@
 ---
-title: "Productivity advice for developers and development teams | E4developer"
+title: "Productivity advice for developers and development teams"
 date: 2018-04-08T00:00:00Z
 draft: false
 description: "Getting work done effectively and efficiently is a goal of most software development teams. On a personal level, being able to get a productive day at work can…"
 categories: ["Building teams", "Career"]
 cover:
   image: "images/management-matrix.png"
-  alt: "Productivity advice for developers and development teams | E4developer"
+  alt: "Productivity advice for developers and development teams"
 aliases:
   - "/2018/04/08/productivity-advice-for-developers-and-development-teams/"
 ShowToc: true
 TocOpen: false
----
-
-# Productivity advice for developers and development teams
-
-![](images/management-matrix.png)
+---![](images/management-matrix.png)
 
 Getting work done effectively and efficiently is a goal of most software development teams. On a personal level, being able to get a productive day at work can also be immensely satisfying. In this article, I will share with you my advice on how to be much more productive. This advice is inspired by “The 7 Habits of Highly Effective People” – a book that made a big impact on me.
 

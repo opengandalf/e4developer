@@ -1,21 +1,17 @@
 ---
-title: "Getting Reactive with Spring Boot 2.0 and Reactor | E4developer"
+title: "Getting Reactive with Spring Boot 2.0 and Reactor"
 date: 2018-04-11T00:00:00Z
 draft: false
 description: "Reactive programming is gaining a rapid popularity in the JVM community. With Java 9 natively embracing the Reactive Streams and Spring Boot 2.0…"
 categories: ["Reactive", "Spring Boot"]
 cover:
   image: "images/reactor-spring.png"
-  alt: "Getting Reactive with Spring Boot 2.0 and Reactor | E4developer"
+  alt: "Getting Reactive with Spring Boot 2.0 and Reactor"
 aliases:
   - "/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/"
 ShowToc: true
 TocOpen: false
----
-
-# Getting Reactive with Spring Boot 2.0 and Reactor
-
-![](images/reactor-spring.png)
+---![](images/reactor-spring.png)
 
 Reactive programming is gaining a rapid popularity in the JVM community. With [Java 9 natively embracing the Reactive Streams]({{< ref "/posts/reactive-streams-in-java-introducing-the-new-spi" >}}) and Spring Boot 2.0 including the WebFlux, it is hard to argue with this statement. Spring uses Reactor for its own reactive support and WebFlux relies on that support. In this article, I will show you how to get into reactive programming with Reactor and Spring Boot 2.0.
 

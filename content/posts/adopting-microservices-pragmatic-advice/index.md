@@ -1,21 +1,17 @@
 ---
-title: "Adopting Microservices - Pragmatic Advice | E4developer"
+title: "Adopting Microservices - Pragmatic Advice"
 date: 2018-05-25T00:00:00Z
 draft: false
 description: "Your company wants to adopt microservices. You are either really happy or terrified. A change like this can be great for those wanting to learn and improve…"
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/practical.jpg"
-  alt: "Adopting Microservices - Pragmatic Advice | E4developer"
+  alt: "Adopting Microservices - Pragmatic Advice"
 aliases:
   - "/2018/05/25/adopting-microservices-pragmatic-advice/"
 ShowToc: true
 TocOpen: false
----
-
-# Adopting Microservices – Pragmatic Advice
-
-![](images/practical.jpg)
+---![](images/practical.jpg)
 
 Your company wants to adopt microservices. You are either really happy or terrified. A change like this can be great for those wanting to learn and improve their systems, but it does not come without its perils. If you want to be successful you will have to be pragmatic…
 

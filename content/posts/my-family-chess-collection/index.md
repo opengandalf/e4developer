@@ -1,21 +1,17 @@
 ---
-title: "My Family Chess Collection | E4developer"
+title: "My Family Chess Collection"
 date: 2018-07-29T00:00:00Z
 draft: false
 description: "You may know that playing chess is my passion. The name of this website- E4developer comes from the chess move I start my games with – e4."
 categories: ["Chess", "Personal"]
 cover:
   image: "images/chess-collection.jpg"
-  alt: "My Family Chess Collection | E4developer"
+  alt: "My Family Chess Collection"
 aliases:
   - "/2018/07/29/my-family-chess-collection/"
 ShowToc: true
 TocOpen: false
----
-
-# My Family Chess Collection
-
-![](images/chess-collection.jpg)
+---![](images/chess-collection.jpg)
 
 You may know that playing chess is my passion. The name of this website- *E4developer* comes from the chess move I start my games with – e4.
 

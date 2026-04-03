@@ -1,21 +1,17 @@
 ---
-title: "Microservices Definition | E4developer"
+title: "Microservices Definition"
 date: 2018-07-02T00:00:00Z
 draft: false
 description: "Are you really building microservices? What are microservices? There seems to be a constant disagreement on what constitutes microservices systems and what…"
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/definition.jpg"
-  alt: "Microservices Definition | E4developer"
+  alt: "Microservices Definition"
 aliases:
   - "/2018/07/02/microservices-definition/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices Definition
-
-![](images/definition.jpg)
+---![](images/definition.jpg)
 
 Are you really building microservices? What are microservices? There seems to be a constant disagreement on what constitutes microservices systems and what simply makes a “distributed monolith”. In this article, I will go back to basics and look at what’s at the core of what microservices really are.
 

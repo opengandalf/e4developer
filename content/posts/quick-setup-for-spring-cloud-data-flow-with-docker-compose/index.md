@@ -1,21 +1,17 @@
 ---
-title: "Quick setup for Spring Cloud Data Flow with Docker Compose | E4developer"
+title: "Quick setup for Spring Cloud Data Flow with Docker Compose"
 date: 2018-05-02T00:00:00Z
 draft: false
 description: "Spring Cloud Data Flow requires quite a few dependencies in order to run it. In this blog post, I will show you Docker Compose tool and how it can be used to…"
 categories: ["DevOps", "Microservices", "Spring Cloud", "Spring Cloud Data Flow"]
 cover:
   image: "images/docker-dataflow.jpg"
-  alt: "Quick setup for Spring Cloud Data Flow with Docker Compose | E4developer"
+  alt: "Quick setup for Spring Cloud Data Flow with Docker Compose"
 aliases:
   - "/2018/05/02/quick-setup-for-spring-cloud-data-flow-with-docker-compose/"
 ShowToc: true
 TocOpen: false
----
-
-# Quick setup for Spring Cloud Data Flow with Docker Compose
-
-![](images/docker-dataflow.jpg)
+---![](images/docker-dataflow.jpg)
 
 Spring Cloud Data Flow requires quite a few dependencies in order to run it. In this blog post, I will show you Docker Compose tool and how it can be used to make that setup easy.
 

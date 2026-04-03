@@ -1,21 +1,17 @@
 ---
-title: "Microservices - Why Do You Need A Service Mesh? | E4developer"
+title: "Microservices - Why Do You Need A Service Mesh?"
 date: 2019-05-15T00:00:00Z
 draft: false
 description: "Working for consultancy, I already had a chance to build microservice based systems in large financial organisations as well as public sector ones."
 categories: ["DevOps", "Microservices"]
 cover:
   image: "images/service-mesh.jpg"
-  alt: "Microservices - Why Do You Need A Service Mesh? | E4developer"
+  alt: "Microservices - Why Do You Need A Service Mesh?"
 aliases:
   - "/2019/05/15/microservices-why-do-you-need-a-service-mesh/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices – Why Do You Need A Service Mesh?
-
-![](images/service-mesh.jpg)
+---![](images/service-mesh.jpg)
 
 Working for consultancy, I already had a chance to build microservice based systems in large financial organisations as well as public sector ones. When sharing my experience with other developers, there is one topic that often comes up- many people wished that they had a service mesh from the start! In this article, I will explain what a service mesh is and why is it so useful!
 

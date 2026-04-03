@@ -1,21 +1,17 @@
 ---
-title: "Journey to DevOps - Talk at the DevOps Roundabout | E4developer"
+title: "Journey to DevOps - Talk at the DevOps Roundabout"
 date: 2019-10-03T00:00:00Z
 draft: false
 description: "On the 24th of September 2019, I had an opportunity to speak at the very first DevOps Roundabout meetup in London. You can watch my talk on YouTube."
 categories: ["Building teams", "DevOps", "Public speaking", "Videos"]
 cover:
   image: "images/devopsroundabout.jpg"
-  alt: "Journey to DevOps - Talk at the DevOps Roundabout | E4developer"
+  alt: "Journey to DevOps - Talk at the DevOps Roundabout"
 aliases:
   - "/2019/10/03/journey-to-devops-talk-at-the-devops-roundabout/"
 ShowToc: true
 TocOpen: false
----
-
-# Journey to DevOps – Talk at the DevOps Roundabout
-
-![](images/devopsroundabout.jpg)
+---![](images/devopsroundabout.jpg)
 
 On the 24th of September 2019, I had an opportunity to speak at the very first [DevOps Roundabout](https://www.meetup.com/The-DevOps-Roundabout/) meetup in London. You can [watch my talk on YouTube](https://www.youtube.com/watch?v=EGTMkZkPhF8).
 

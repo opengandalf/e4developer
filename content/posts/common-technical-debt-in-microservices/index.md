@@ -1,21 +1,17 @@
 ---
-title: "Common Technical Debt in Microservices | E4developer"
+title: "Common Technical Debt in Microservices"
 date: 2018-02-11T00:00:00Z
 draft: false
 description: "Common causes of technical debt in Microservices together with practical solutions. See how bad configuration, coupled services and more can affect you."
 categories: ["Microservices"]
 cover:
   image: "images/old-machine.jpg"
-  alt: "Common Technical Debt in Microservices | E4developer"
+  alt: "Common Technical Debt in Microservices"
 aliases:
   - "/2018/02/11/common-technical-debt-in-microservices/"
 ShowToc: true
 TocOpen: false
----
-
-# Common Technical Debt in Microservices
-
-![](images/old-machine.jpg)
+---![](images/old-machine.jpg)
 
 Working for a consultancy I have the opportunity to talk to large number of software developers across multiple different projects. That gives me an opportunity to see what works and what common problems different organizations are facing. In this article I will show the most common mistakes in microservices that cause technical debt. I suggest what you could be doing instead.
 

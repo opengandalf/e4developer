@@ -1,21 +1,17 @@
 ---
-title: "E4developer Newsletter - May 2018 - Number 3 | E4developer"
+title: "E4developer Newsletter - May 2018 - Number 3"
 date: 2018-05-07T00:00:00Z
 draft: false
 description: "In the last month, I spent a lot of time writing about Reactive Spring Boot. I believe that Reactive Microservices are only going to grow in popularity…"
 categories: ["Newsletter"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "E4developer Newsletter - May 2018 - Number 3 | E4developer"
+  alt: "E4developer Newsletter - May 2018 - Number 3"
 aliases:
   - "/2018/05/07/e4developer-newsletter-may-2018-number-3/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer Newsletter – May 2018 – Number 3
-
-In the last month, I spent a lot of time writing about Reactive Spring Boot. I believe that Reactive Microservices are only going to grow in popularity, so I really recommend you to get to know them!
+---In the last month, I spent a lot of time writing about Reactive Spring Boot. I believe that Reactive Microservices are only going to grow in popularity, so I really recommend you to get to know them!
 
 Beyond that, you can see some other interesting technologies like Javalin and Spring Data being showcased. These can help you with making your microservices architecture even more robust and easy to work with.
 

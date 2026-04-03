@@ -1,21 +1,17 @@
 ---
-title: "E4developer Newsletter – July 2018 – Number 5 | E4developer"
+title: "E4developer Newsletter – July 2018 – Number 5"
 date: 2018-07-21T00:00:00Z
 draft: false
 description: "Thank you for reading my newsletter. I have some exciting news to share with you! I have started E4developer YouTube Channel! You can visit and subscribe now."
 categories: ["Newsletter"]
 cover:
   image: "images/cropped-e4-dev-twitter.png"
-  alt: "E4developer Newsletter – July 2018 – Number 5 | E4developer"
+  alt: "E4developer Newsletter – July 2018 – Number 5"
 aliases:
   - "/2018/07/21/e4developer-newsletter-july-2018-number-5/"
 ShowToc: true
 TocOpen: false
----
-
-# E4developer Newsletter – July 2018 – Number 5
-
-Thank you for reading my newsletter. I have some exciting news to share with you!
+---Thank you for reading my newsletter. I have some exciting news to share with you!
 
 I have started [E4developer YouTube Channel](https://e4developer.us17.list-manage.com/track/click?u=97fa615b3733782df577bfa18&id=17264dbf18&e=3dd8e42692)! You can visit and subscribe now. I posted a couple videos already, I recommend the [Microservices Explained – Orchestration vs Choreography](https://e4developer.us17.list-manage.com/track/click?u=97fa615b3733782df577bfa18&id=5a3a571b40&e=3dd8e42692) where I explain the key differences between the two. There is much more to come, as I explain in [this article](https://e4developer.us17.list-manage.com/track/click?u=97fa615b3733782df577bfa18&id=2fe0b3a0df&e=3dd8e42692). Please give me some feedback.
 

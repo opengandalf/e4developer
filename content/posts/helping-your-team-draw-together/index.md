@@ -1,21 +1,17 @@
 ---
-title: "Helping your team - Draw together! | E4developer"
+title: "Helping your team - Draw together!"
 date: 2018-01-13T00:00:00Z
 draft: false
 description: "Drawing together is a powerful tool that may improve any software team capability. Practical advice on getting started. Learn how and why!"
 categories: ["Building teams"]
 cover:
   image: "images/cropped-whiteboard-drawing.jpg"
-  alt: "Helping your team - Draw together! | E4developer"
+  alt: "Helping your team - Draw together!"
 aliases:
   - "/2018/01/13/helping-your-team-draw-together/"
 ShowToc: true
 TocOpen: false
----
-
-# Helping your team – Draw together!
-
-I love working as a part of a great software development team. Thanks to my job, I also have a chance to lead such teams. In this series of blog posts titled *Helping your team*I would like to explore different ideas and techniques to make sure that the team you are part of is performing at its best!
+---I love working as a part of a great software development team. Thanks to my job, I also have a chance to lead such teams. In this series of blog posts titled *Helping your team*I would like to explore different ideas and techniques to make sure that the team you are part of is performing at its best!
 
 Before going into specific topic, it is important to realize that you do not have to be a team lead or a senior member of the team to incite change! Introducing good ideas and championing best practices can be done by anyone. As a lead, this is your responsibility.
 

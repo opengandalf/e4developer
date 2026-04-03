@@ -1,21 +1,17 @@
 ---
-title: "Microservices and cross cutting concerns | E4developer"
+title: "Microservices and cross cutting concerns"
 date: 2018-09-09T00:00:00Z
 draft: false
 description: "When thinking about microservices, we mostly imagine autonomous teams working on independent services. Despite all that independence, things such as log…"
 categories: ["Architecture", "Microservices"]
 cover:
   image: "images/technical-forum.jpg"
-  alt: "Microservices and cross cutting concerns | E4developer"
+  alt: "Microservices and cross cutting concerns"
 aliases:
   - "/2018/09/09/microservices-and-cross-cutting-concerns/"
 ShowToc: true
 TocOpen: false
----
-
-# Microservices and cross cutting concerns
-
-![](images/technical-forum.jpg)
+---![](images/technical-forum.jpg)
 
 When thinking about microservices, we mostly imagine autonomous teams working on independent services. Despite all that independence, things such as log aggregation and security benefit from a system level thinking. In this article, I will discuss these concerns and give my advice on how to approach them.
 
