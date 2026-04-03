@@ -536,7 +536,7 @@ article.first-entry .entry-cover img {
 }
 
 article.first-entry .entry-header h2 {
-  font-size: 1.2rem;
+  font-size: inherit;
 }
 
 /* ========================================
