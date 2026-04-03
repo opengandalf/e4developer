@@ -430,7 +430,9 @@ blockquote {
 }
 
 .sidebar-projects a {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
   padding: 0.6rem 0.75rem;
   background: var(--tertiary);
   border: 1px solid var(--border);
@@ -442,6 +444,21 @@ blockquote {
 .sidebar-projects a:hover {
   border-color: var(--accent);
   transform: translateY(-1px);
+}
+
+.project-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border: none !important;
+  margin: 0 !important;
+}
+
+.project-icon-svg {
+  width: 36px;
+  height: 36px;
 }
 
 .sidebar-projects strong {
