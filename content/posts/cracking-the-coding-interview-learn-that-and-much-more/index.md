@@ -68,7 +68,7 @@ The book has about 80 pages dedicated to these topics, so the treatment goes int
 
 ## Advanced topics
 
-Last time I was looking for the job was 3 years ago. Despite that, I still occasionally use the book! I enjoy [practicing competitive programming with HackerRank](https://www.e4developer.com/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/). Some of the more difficult questions require advanced algorithmic knowledge… Surprise, surprise- in the Additional Review Problems section, *“Cracking the Coding Interview”* has you covered here!
+Last time I was looking for the job was 3 years ago. Despite that, I still occasionally use the book! I enjoy [practicing competitive programming with HackerRank]({{< ref "/posts/keeping-your-coding-skills-sharp-with-hackerrank" >}}). Some of the more difficult questions require advanced algorithmic knowledge… Surprise, surprise- in the Additional Review Problems section, *“Cracking the Coding Interview”* has you covered here!
 
 The book does not cover everything and if you really need an in-depth Algorithmic handbook, there is always *Introduction to Algorithms*by MIT Press… The difference is that the *Introduction*is over 1200 pages long and not an easy read.
 

@@ -79,7 +79,7 @@ One thing that I really enjoyed in the book was the **Chapter 34: The Missing Ch
 
 Uncle Bob is clear in his writing- the Database is a detail, the Web is a detail, even Frameworks are details. This may sound crazy, as it is both a statement and advice. It is very easy for your framework of choice to define the architecture.
 
-This is something that I have been thinking about a lot recently. I have written about [the rise of Microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/) and [the quest for simplicity in microservices](https://www.e4developer.com/2018/07/08/the-quest-for-simplicity-in-java-microservices/), as too often I have seen frameworks overshadowing the real architectures. This book makes it very clear (in a very funny way) that you should be very careful when committing to *“marrying”* a framework *“for better or for worse, in sickness and in health…”*.
+This is something that I have been thinking about a lot recently. I have written about [the rise of Microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}) and [the quest for simplicity in microservices]({{< ref "/posts/the-quest-for-simplicity-in-java-microservices" >}}), as too often I have seen frameworks overshadowing the real architectures. This book makes it very clear (in a very funny way) that you should be very careful when committing to *“marrying”* a framework *“for better or for worse, in sickness and in health…”*.
 
 ## What is architecturally significant?
 

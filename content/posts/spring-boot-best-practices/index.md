@@ -19,7 +19,7 @@ TocOpen: false
 
 Spring Boot is the most popular Java framework for developing microservices. In this article, I will share with you the best practices for working with Spring Boot that I have gathered by using it in professional development since 2016. I base these on my personal experience and writings of recognized Spring Boot experts.
 
-In this article, I focus on practices specific to Spring Boot (most of the time, also applicable to Spring projects). If you want to learn about the Java best practices, I recommend *“Effective Java”* which I [review in a separate article](https://www.e4developer.com/2018/05/09/effective-java-microservices-require-effective-java/).
+In this article, I focus on practices specific to Spring Boot (most of the time, also applicable to Spring projects). If you want to learn about the Java best practices, I recommend *“Effective Java”* which I [review in a separate article]({{< ref "/posts/effective-java-microservices-require-effective-java" >}}).
 
 The following best practices are listed in no particular order.
 
@@ -102,7 +102,7 @@ You could decide to go with a 1-to-1 mapping between Controllers and Services. T
 
 ## Make your database a detail – abstract it  from the core logic
 
-I used to be unsure of how to best treat database interaction in Spring Boot. After [reading “Clean Architecture”](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) by Robert C. Martin, it is much clearer to me.
+I used to be unsure of how to best treat database interaction in Spring Boot. After [reading “Clean Architecture”]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin, it is much clearer to me.
 
 You want your database logic abstracted away from the Service. Ideally, you don’t want a Service to know what database it is talking to. Have some abstractions that encapsulate the persistence for your Objects.
 
@@ -122,11 +122,11 @@ One way to keep your business logic free from Spring Boot code is to rely on Con
 
 ## Be familiar with the concurrency model
 
-One of the most popular articles I ever wrote is *[“Introduction to Concurrency in Spring Boot”](https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/)*. I believe the reason for this is that this area is often misunderstood and ignored. With that, comes problems.
+One of the most popular articles I ever wrote is *[“Introduction to Concurrency in Spring Boot”]({{< ref "/posts/introduction-to-concurrency-in-spring-boot" >}})*. I believe the reason for this is that this area is often misunderstood and ignored. With that, comes problems.
 
 In Spring Boot- Controllers and Services are by default Singletons. That introduces possible concurrency problems if you are not careful. You are also usually dealing with a limited thread-pool. Familiarise yourself with these concepts.
 
-If you are using the new WebFlux style of Spring Boot applications, I have explained how that works in [“Spring’s WebFlux / Reactor Parallelism and Backpressure”](https://www.e4developer.com/2018/04/28/springs-webflux-reactor-parallelism-and-backpressure/).
+If you are using the new WebFlux style of Spring Boot applications, I have explained how that works in [“Spring’s WebFlux / Reactor Parallelism and Backpressure”]({{< ref "/posts/springs-webflux-reactor-parallelism-and-backpressure" >}}).
 
 ## Externalise and mature your configuration management
 

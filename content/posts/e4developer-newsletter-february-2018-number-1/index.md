@@ -17,44 +17,44 @@ TocOpen: false
 
 As part of me running this blog, I have decided to create a mailing list and a semi regular newsletter. This is the first edition of that newsletter. If you would like to join it and receive the content to your email, you can **[sign up here](https://www.e4developer.com/newsletter/).**
 
-I have started this blog on the 13th January 2018, hoping to share my passion, knowledge and experience with the like minded people online. The first blog post: **[Starting a blog – why?](https://www.e4developer.com/2018/01/13/starting-a-blog-why/)** gives a bit more insights. So far this journey has been amazing.
+I have started this blog on the 13th January 2018, hoping to share my passion, knowledge and experience with the like minded people online. The first blog post: **[Starting a blog – why?]({{< ref "/posts/starting-a-blog-why" >}})** gives a bit more insights. So far this journey has been amazing.
 
 # New Articles
 
-**On Team Building:**[Helping your team – Draw together!](https://www.e4developer.com/2018/01/13/helping-your-team-draw-together/)  
-[Helping your team – Start using pull request](https://www.e4developer.com/2018/01/15/helping-your-team-start-using-pull-request/)  
-[Building services requires building teams](https://www.e4developer.com/2018/02/20/building-services-requires-building-teams/)
+**On Team Building:**[Helping your team – Draw together!]({{< ref "/posts/helping-your-team-draw-together" >}})  
+[Helping your team – Start using pull request]({{< ref "/posts/helping-your-team-start-using-pull-request" >}})  
+[Building services requires building teams]({{< ref "/posts/building-services-requires-building-teams" >}})
 
 **On Spring Cloud:**  
-[Spring Cloud – Blueprint for Successful Microservices](https://www.e4developer.com/2018/01/22/spring-cloud-blueprint-for-successful-microservices/)
+[Spring Cloud – Blueprint for Successful Microservices]({{< ref "/posts/spring-cloud-blueprint-for-successful-microservices" >}})
 
 **On Microservices in general:**  
-[Starting with Microservices: Read “Building Microservices”](https://www.e4developer.com/2018/01/24/starting-with-microservices-read-building-microservices/)  
-[Java Enterprise and Microservices – meet Microprofile!](https://www.e4developer.com/2018/01/21/java-enterprise-and-microservices-meet-microprofile/)  
-[Microservices Toolbox – Docker](https://www.e4developer.com/2018/01/18/microservices-toolbox-docker/)  
-[Microservices Toolbox: Spring Boot](https://www.e4developer.com/2018/01/16/microservices-toolbox-spring-boot/)  
-[Microservices – Five benefits from the developer perspective](https://www.e4developer.com/2018/01/14/microservices-five-benefits-from-the-developer-perspective/)  
-[What you need to know about Spring Boot 2.0 (RC1)](https://www.e4developer.com/2018/01/31/what-you-need-to-know-about-spring-boot-2-0-rc1/)  
-[The business case for Microservices](https://www.e4developer.com/2018/02/03/the-business-case-for-microservices/)  
-[Common Technical Debt in Microservices](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/)  
-[Application of GRASP to Microservices](https://www.e4developer.com/2018/02/13/application-of-grasp-to-microservices/)  
-[HATEOAS – a simple explanation](https://www.e4developer.com/2018/02/16/hateoas-simple-explanation/)
+[Starting with Microservices: Read “Building Microservices”]({{< ref "/posts/starting-with-microservices-read-building-microservices" >}})  
+[Java Enterprise and Microservices – meet Microprofile!]({{< ref "/posts/java-enterprise-and-microservices-meet-microprofile" >}})  
+[Microservices Toolbox – Docker]({{< ref "/posts/microservices-toolbox-docker" >}})  
+[Microservices Toolbox: Spring Boot]({{< ref "/posts/microservices-toolbox-spring-boot" >}})  
+[Microservices – Five benefits from the developer perspective]({{< ref "/posts/microservices-five-benefits-from-the-developer-perspective" >}})  
+[What you need to know about Spring Boot 2.0 (RC1)]({{< ref "/posts/what-you-need-to-know-about-spring-boot-2-0-rc1" >}})  
+[The business case for Microservices]({{< ref "/posts/the-business-case-for-microservices" >}})  
+[Common Technical Debt in Microservices]({{< ref "/posts/common-technical-debt-in-microservices" >}})  
+[Application of GRASP to Microservices]({{< ref "/posts/application-of-grasp-to-microservices" >}})  
+[HATEOAS – a simple explanation]({{< ref "/posts/hateoas-simple-explanation" >}})
 
 **On Career:**  
-[Seven Essential Skills for Microservices Developers](https://www.e4developer.com/2018/01/25/seven-essential-skills-for-microservices-developers/)
+[Seven Essential Skills for Microservices Developers]({{< ref "/posts/seven-essential-skills-for-microservices-developers" >}})
 
 **On Choreography with RabbitMQ**  
-[Setting up RabbitMQ with Spring Cloud Stream](https://www.e4developer.com/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/)  
-[Handling bad messages with RabbitMQ and Spring Cloud Stream](https://www.e4developer.com/2018/02/05/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/)  
-[Tracing messages in Choreography with Sleuth and Zipkin](https://www.e4developer.com/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/)
+[Setting up RabbitMQ with Spring Cloud Stream]({{< ref "/posts/setting-up-rabbitmq-with-spring-cloud-stream" >}})  
+[Handling bad messages with RabbitMQ and Spring Cloud Stream]({{< ref "/posts/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream" >}})  
+[Tracing messages in Choreography with Sleuth and Zipkin]({{< ref "/posts/tracing-messages-in-choreography-with-sleuth-and-zipkin" >}})
 
 **On Spring Cloud Data Flow:**  
-[Getting Started with Spring Cloud Data Flow](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/)  
-[Spring Cloud Data Flow – Making Custom Apps and Using Shell](https://www.e4developer.com/2018/02/23/spring-cloud-data-flow-making-custom-apps-and-shell/)  
-[Spring Cloud Data Flow – Use Cases](https://www.e4developer.com/2018/02/28/spring-cloud-data-flow-use-cases/)
+[Getting Started with Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}})  
+[Spring Cloud Data Flow – Making Custom Apps and Using Shell]({{< ref "/posts/spring-cloud-data-flow-making-custom-apps-and-shell" >}})  
+[Spring Cloud Data Flow – Use Cases]({{< ref "/posts/spring-cloud-data-flow-use-cases" >}})
 
 **My Public Speaking:**  
-[Practical Choreography with Spring Cloud – Presentation](https://www.e4developer.com/2018/02/20/practical-choreography-with-spring-cloud-presentation/)
+[Practical Choreography with Spring Cloud – Presentation]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}})
 
 # Big News
 

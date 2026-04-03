@@ -19,7 +19,7 @@ TocOpen: false
 
 Spring Cloud Data Flow requires quite a few dependencies in order to run it. In this blog post, I will show you Docker Compose tool and how it can be used to make that setup easy.
 
-I have written an [introduction to Spring Cloud Data Flow](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/) where in order to run the Data Flow server, you need to have 3 other Docker containers running.
+I have written an [introduction to Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}) where in order to run the Data Flow server, you need to have 3 other Docker containers running.
 
 This is not that bad, but imagine if you had to have more dependencies? Or if you want to have that process easily replicable? Sharing that setup with other developers on the team? You can see that it would be good to have a better way of doing this…
 

@@ -39,7 +39,7 @@ There are of course many more differences and features, but this article is not 
 When you need to! It really boils down to that. We have identified some core missing features and if you really need them- go for it. Let me give you some examples where frameworks like Spring shine:
 
 - When you are building a large application. Ok, let’s say the dreaded word- monolith. These large applications don’t have to be ugly. Frameworks like Spring can make you build something maintainable.
-- When you need a specific capability that the framework provides. If you want to use [Spring Data](https://www.e4developer.com/2018/05/05/spring-data-microservices-data-companion/) or Spring Security for example. Or you want to make use of multiple capabilities provided by [Spring Cloud](https://www.e4developer.com/2018/01/22/spring-cloud-blueprint-for-successful-microservices/).
+- When you need a specific capability that the framework provides. If you want to use [Spring Data]({{< ref "/posts/spring-data-microservices-data-companion" >}}) or Spring Security for example. Or you want to make use of multiple capabilities provided by [Spring Cloud]({{< ref "/posts/spring-cloud-blueprint-for-successful-microservices" >}}).
 - This may sound controversial, but I think we should lean towards these most popular solutions when working on somebody’s else systems. If you are a consultant (like myself), it is easier to leave your client with a mainstream framework, than a bespoke solution.
 
 I think these are the three main cases for using a fully featured framework. To summarise:
@@ -52,7 +52,7 @@ There is one more thing though…
 
 ## How to use frameworks smartly?
 
-If you decided to use a fully featured framework, do it smartly. I realized the importance of this after reading [Clean Architecture](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) by Robert C. Martin. *Uncle Bob* writes a very memorable thing there:
+If you decided to use a fully featured framework, do it smartly. I realized the importance of this after reading [Clean Architecture]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin. *Uncle Bob* writes a very memorable thing there:
 
 > “Don’t marry the framework”
 >
@@ -65,10 +65,10 @@ Marrying the framework means that you will become inseparable from the framework
 How to integrate with a framework smartly? Here is some advice:
 
 - Separate your business logic from the framework code as much as possible. It is ideal to have most of the business logic be free of the framework code. This way you can always re-use it.
-- When using things such as database integration, etc. consider following the [Clean Architecture](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) advice. Separate this code with a layer of abstraction.
+- When using things such as database integration, etc. consider following the [Clean Architecture]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) advice. Separate this code with a layer of abstraction.
 - Make use of [the Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) to abstract away the framework code.
 
-I really think that [Clean Architecture](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) hits the nail on the head here:
+I really think that [Clean Architecture]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) hits the nail on the head here:
 
 ![](images/cleanarchitecture.jpg)
 
@@ -76,6 +76,6 @@ To use the framework well, to avoid marrying it- strive to keep your *Use Cases*
 
 ## Summary
 
-I promote [microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/) a lot. That does not mean that they are always the right tool for the job. There are situations where a fully featured framework like Spring may be a better tool to solve your problem.
+I promote [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}) a lot. That does not mean that they are always the right tool for the job. There are situations where a fully featured framework like Spring may be a better tool to solve your problem.
 
 If you use frameworks smartly, you may get all the benefits and avoid most of the drawbacks of tight-coupling with the framework. When designing software systems- always think what tool will work best for your use case.

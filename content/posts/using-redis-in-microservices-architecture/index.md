@@ -31,7 +31,7 @@ Redis is also an open source project- that’s great news! We will be able to ge
 
 ## Redis and Docker
 
-As with most things these days, I really recommend that you use Docker for playing with Redis. If you have never used Docker before I wrote a [short intro](https://www.e4developer.com/2018/01/18/microservices-toolbox-docker/).
+As with most things these days, I really recommend that you use Docker for playing with Redis. If you have never used Docker before I wrote a [short intro]({{< ref "/posts/microservices-toolbox-docker" >}}).
 
 I have used Redis version 4.0.8 in this article. If you don’t care about which version of Redis you run, but you want the latest, you can start the container with the following command:
 
@@ -152,7 +152,7 @@ public class NoteController {
 
 ```
 
-Now you can save and retrieve `Notes` using GET and POST requests! We made use of [Spring Data here that I looked at before](https://www.e4developer.com/2018/05/05/spring-data-microservices-data-companion/).
+Now you can save and retrieve `Notes` using GET and POST requests! We made use of [Spring Data here that I looked at before]({{< ref "/posts/spring-data-microservices-data-companion" >}}).
 
 If you want to work more closely with Redis and Spring, you should familiarize yourself with the [Spring Data Redis documentation](https://docs.spring.io/spring-data/redis/docs/2.1.0.M3/reference/html/).
 

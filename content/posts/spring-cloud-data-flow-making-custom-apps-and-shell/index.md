@@ -17,9 +17,9 @@ TocOpen: false
 
 ![](images/Spring-Cloud-Data-Flow-Shell.png)
 
-Last week I wrote about getting Started with [Spring Cloud Data Flow](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/). This week I want to show you a few more things that you can do with this amazing platform. In this article I will show you how to make your own Apps that can be part of Data Flow Streams and how to use the Data Flow Shell to control the platform.
+Last week I wrote about getting Started with [Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}). This week I want to show you a few more things that you can do with this amazing platform. In this article I will show you how to make your own Apps that can be part of Data Flow Streams and how to use the Data Flow Shell to control the platform.
 
-I assume here that you know how to get you Data Flow up and running and you are familiar with the basics of the platform. If not- don’t worry! Check out my [Getting Started with Spring Cloud Data Flow](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/) article to learn the basics.
+I assume here that you know how to get you Data Flow up and running and you are familiar with the basics of the platform. If not- don’t worry! Check out my [Getting Started with Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}) article to learn the basics.
 
 ### Introducing Spring Cloud Data Flow Shell
 

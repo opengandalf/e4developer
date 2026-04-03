@@ -29,9 +29,9 @@ The good news is- you can practice and prepare for them, which will make these k
 
 First of all- don’t assume that you can cheat these interviews by some tricks. The best thing you can do is spend some hours actually practising interview style questions on a computer.
 
-I have written an article about [keeping you coding skills sharp with HackerRank](https://www.e4developer.com/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/). I consider it a great approach and something that you should definitely do before attending a whiteboard or paper-based interview.
+I have written an article about [keeping you coding skills sharp with HackerRank]({{< ref "/posts/keeping-your-coding-skills-sharp-with-hackerrank" >}}). I consider it a great approach and something that you should definitely do before attending a whiteboard or paper-based interview.
 
-If you feel that you may need to prepare even more, or you are interviewing for a company famous for very difficult whiteboard interviews, I strongly recommend you to have a look at [“Cracking the Coding Interview” which I reviewed](https://www.e4developer.com/2018/06/24/cracking-the-coding-interview-learn-that-and-much-more/) some time ago.
+If you feel that you may need to prepare even more, or you are interviewing for a company famous for very difficult whiteboard interviews, I strongly recommend you to have a look at [“Cracking the Coding Interview” which I reviewed]({{< ref "/posts/cracking-the-coding-interview-learn-that-and-much-more" >}}) some time ago.
 
 ## Practice coding interview question on paper or a whiteboard
 

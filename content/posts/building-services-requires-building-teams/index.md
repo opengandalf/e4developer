@@ -50,7 +50,7 @@ To achieve independence and general success in your microservices development, e
 
 ### Can teams manage more than one service?
 
-To be clear- each team can own multiple services. Once work is mostly finished on a given microservice, there is nothing stopping a team from taking ownership of another one. It is actually expected and completely normal for one team to own multiple microservices. The challenge for the team is keeping the microservices independent from each other. This is a technical topic that I explore in a [dedicated blog post](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/).
+To be clear- each team can own multiple services. Once work is mostly finished on a given microservice, there is nothing stopping a team from taking ownership of another one. It is actually expected and completely normal for one team to own multiple microservices. The challenge for the team is keeping the microservices independent from each other. This is a technical topic that I explore in a [dedicated blog post]({{< ref "/posts/common-technical-debt-in-microservices" >}}).
 
 ### DevOps is a requirement, not an option
 

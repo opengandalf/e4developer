@@ -39,7 +39,7 @@ Regardless of how you look at the problem, it makes little sense to make separat
 
 Another thing that benefits from a system level thinking and consolidated strategy is dealing with logs. Having the ability to see a request journey through multiple different microservices is an extremely useful debugging tool.
 
-I wrote a  whole article about [Tracing messages in Choreography with Sleuth and Zipkin](https://www.e4developer.com/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/) if you would like to know more about this topic.
+I wrote a  whole article about [Tracing messages in Choreography with Sleuth and Zipkin]({{< ref "/posts/tracing-messages-in-choreography-with-sleuth-and-zipkin" >}}) if you would like to know more about this topic.
 
 In general, a tool like ELK stack (Elasticsearch, Logstash, Kibana) is invaluable once your microservices move from development into production.
 

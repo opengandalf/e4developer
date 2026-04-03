@@ -19,7 +19,7 @@ TocOpen: false
 
 Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community. I visit Reddit daily- you can learn a lot from people there and have some interesting discussion. In this article, I will tell you how I use Reddit and why I consider it so valuable.
 
-Reddit is not the only *social media* that I use for learning about technology. I have previously written about [using Twitter for staying up to with the Java world](https://www.e4developer.com/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/).
+Reddit is not the only *social media* that I use for learning about technology. I have previously written about [using Twitter for staying up to with the Java world]({{< ref "/posts/how-to-stay-up-to-date-with-java-and-tech-use-twitter" >}}).
 
 Reddit is different than Twitter. While Twitter is all about individuals, Reddit is all about communities.
 

@@ -25,7 +25,7 @@ Before going into use cases lets just make sure that we understand what Spring C
 >
 > Pipelines consist of [Spring Boot](https://projects.spring.io/spring-boot/) apps, built using the [Spring Cloud Stream](https://cloud.spring.io/spring-cloud-stream/) or [Spring Cloud Task](https://cloud.spring.io/spring-cloud-task/) microservice frameworks. This makes Spring Cloud Data Flow suitable for a range of data processing use cases, from import/export to event streaming and predictive analytics.
 
-Really, I could not be more concise and precise here. If you are curious about familiarizing yourself more with the Data Flow I wrote a [Getting Started article](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/) on this blog. With the basics established, we can look at what such a powerful platform can be used for.
+Really, I could not be more concise and precise here. If you are curious about familiarizing yourself more with the Data Flow I wrote a [Getting Started article]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}) on this blog. With the basics established, we can look at what such a powerful platform can be used for.
 
 ## What can Spring Cloud Data Flow be used for?
 

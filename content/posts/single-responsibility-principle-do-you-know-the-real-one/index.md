@@ -27,7 +27,7 @@ Single Responsibility Principle (SRP), as defined by Robert C. Martin states:
 
 This is very different from the “a class should do only one thing” version.
 
-In one of his later books ([“Clean Architecture”, reviewed here](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/)) Robert C. Martin goes even further, clarifying his intent behind this principle:
+In one of his later books ([“Clean Architecture”, reviewed here]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}})) Robert C. Martin goes even further, clarifying his intent behind this principle:
 
 > “A module should be responsible to one, and only one, actor.”
 >

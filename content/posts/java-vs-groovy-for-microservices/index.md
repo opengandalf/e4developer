@@ -109,7 +109,7 @@ I don’t like to criticize frameworks, especially ones that have been around as
 
 However, I don’t consider Grails a good choice for microservices architecture. Why? Because it is too complex. Spring Boot is an already complex framework and Grails builds on top of it.
 
-I wrote about [“The Quest for Simplicity in Java Microservices”](https://www.e4developer.com/2018/07/08/the-quest-for-simplicity-in-java-microservices/) and I don’t think Grails really makes the cut here. If you want something simple, well suited for microservices, I would either go with a *“naked”* Spring Boot (possibly even using Groovy) or go with Micronaut if you like the Grails style of development.
+I wrote about [“The Quest for Simplicity in Java Microservices”]({{< ref "/posts/the-quest-for-simplicity-in-java-microservices" >}}) and I don’t think Grails really makes the cut here. If you want something simple, well suited for microservices, I would either go with a *“naked”* Spring Boot (possibly even using Groovy) or go with Micronaut if you like the Grails style of development.
 
 I am not saying that it is impossible to develop microservices with Grails- I have done it myself! I am merely suggesting, that there are frameworks that provide a better experience. Micronaut is being developed by people involved in Grails, so to some extent- I am not alone in that opinion.
 

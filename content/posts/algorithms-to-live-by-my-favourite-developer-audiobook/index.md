@@ -17,11 +17,11 @@ TocOpen: false
 
 ![](images/algorithms-book.jpg)
 
-Today I want to share with you a review of the most exciting book I have listened to so far –*“Algorithms to Live By: The Computer Science of Human Decisions”* by Brian Christian and Tom Griffiths*.* I have already mentioned it on this blog [when simulating the secretary problem](https://www.e4developer.com/2018/09/09/simulating-the-secretary-problem-with-java/). This is just an example of many fascinating problems this book talks about. Continue reading to find out why it makes such an amazing listening experience.
+Today I want to share with you a review of the most exciting book I have listened to so far –*“Algorithms to Live By: The Computer Science of Human Decisions”* by Brian Christian and Tom Griffiths*.* I have already mentioned it on this blog [when simulating the secretary problem]({{< ref "/posts/simulating-the-secretary-problem-with-java" >}}). This is just an example of many fascinating problems this book talks about. Continue reading to find out why it makes such an amazing listening experience.
 
 ## What makes a good AudioBook for developers
 
-You may be surprised by the title of this article. After all, what is a “Developer Audiobook”? I love listening to audiobooks, I consider them [my secret weapon](https://www.e4developer.com/2018/09/14/audiobooks-a-secret-weapon-of-a-busy-software-developer/). Most audiobooks are not really about code, frameworks or algorithms. They talk about all the other important things. I was looking for something more… computationally stimulating?
+You may be surprised by the title of this article. After all, what is a “Developer Audiobook”? I love listening to audiobooks, I consider them [my secret weapon]({{< ref "/posts/audiobooks-a-secret-weapon-of-a-busy-software-developer" >}}). Most audiobooks are not really about code, frameworks or algorithms. They talk about all the other important things. I was looking for something more… computationally stimulating?
 
 Anyway, I was wondering if there are any books that talk about algorithms, mathematics, but do it in such a way that you can listen to that rather than read and follow pseudocode. That search led me to *“Algorithms to Live By”.*
 
@@ -58,7 +58,7 @@ This is where the book really succeeds and leaves a lasting impression. You star
 
 After I finished listening to the book I felt like this is just the beginning. Thanks to the book and the new perspective, I was very curious to start testing things and see if I can understand human behaviour deeper.
 
-I wrote that article on [simulating the secretary problem](https://www.e4developer.com/2018/09/09/simulating-the-secretary-problem-with-java/) (which may give you a good taste of what the book is like) as the first experiment inspired by the book. I promised you it won’t be the last you will see on this blog.
+I wrote that article on [simulating the secretary problem]({{< ref "/posts/simulating-the-secretary-problem-with-java" >}}) (which may give you a good taste of what the book is like) as the first experiment inspired by the book. I promised you it won’t be the last you will see on this blog.
 
 The fact that we are developers gives us sort of special power. Many of the problems from the book are very challenging mathematically to prove and reason about… They are also fairly easy to simulate and observe different solutions empirically. As developers, we have the power that many mathematicians who originally looked at these issues would be sure to envy us.
 

@@ -53,7 +53,7 @@ When going for Microservices Architecture you may achieve different levels of ma
 
 ## Sam Newman and “Principles of Microservices”
 
-Another person that greatly contributed to the popularity of microservices is Sam Newman. His book “Building Microservices” ([I reviewed it here](https://www.e4developer.com/2018/01/24/starting-with-microservices-read-building-microservices/)) is one of the most popular on the topic.
+Another person that greatly contributed to the popularity of microservices is Sam Newman. His book “Building Microservices” ([I reviewed it here]({{< ref "/posts/starting-with-microservices-read-building-microservices" >}})) is one of the most popular on the topic.
 
 Rather than focus on the book, I would want to bring an absolutely phenomenal talk about Microservices delivered by Sam, titled “Principles of Microservices”. Wonders of the Internet and generosity of the NDC Conferences, you can watch the talk in its entirety here… And believe me, it is worth it!
 
@@ -84,7 +84,7 @@ Do you notice anything? The Microservices Principles here are very similar to th
 
 The answer to this question is simple. *Are you attempting to build small and autonomous services that are modelled around business domains?*If you answer yes, then you are working with microservices.
 
-You would think that’s a great news… Yes, it is great in some ways, but that also means that you are attempting something really difficult. Make sure that you review the **Principles of Microservices** as presented by Sam Newman and avoid [Common Microservices Tech Debt](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/).
+You would think that’s a great news… Yes, it is great in some ways, but that also means that you are attempting something really difficult. Make sure that you review the **Principles of Microservices** as presented by Sam Newman and avoid [Common Microservices Tech Debt]({{< ref "/posts/common-technical-debt-in-microservices" >}}).
 
 People will always argue about what makes a Microservices Architecture. I would advise everyone to focus on what makes a good Microservcies Architecture. You can start with principles, but since they were only formulated in 2015, there is still a lot of room for change in the future.
 

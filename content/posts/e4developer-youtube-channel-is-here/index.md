@@ -29,7 +29,7 @@ One thing to mention here- I have no experience in any video production, so this
 
 ## What videos can you expect on my channel?
 
-I will start with a series titled ***“Microservices Explained”*** where I take a microservices related topic and give it less-than-10-minutes explanation. I have started with the microservices definition itself (based on my [earlier article](https://www.e4developer.com/2018/07/02/microservices-definition/)):
+I will start with a series titled ***“Microservices Explained”*** where I take a microservices related topic and give it less-than-10-minutes explanation. I have started with the microservices definition itself (based on my [earlier article]({{< ref "/posts/microservices-definition" >}})):
 
 This is my first ever attempt at making a video. I hope you enjoy it.
 

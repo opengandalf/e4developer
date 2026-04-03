@@ -56,7 +56,7 @@ If you adopt microservices with the idea of getting everything right from the st
 
 - Move away from Spring to Spring Boot
 - If you are not a Spring user, try a microframework like [Javalin](https://javalin.io/) or [Micronaut](http://micronaut.io/)
-- If you are considering Choreography- do not go all in from the start. I gave a [talk on that topic](https://www.e4developer.com/2018/02/20/practical-choreography-with-spring-cloud-presentation/).
+- If you are considering Choreography- do not go all in from the start. I gave a [talk on that topic]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}}).
 - Focus on your DevOps capability- it can be seen as a prerequisite for success with full-scale microservices approach. I write more about it in this [blog post for Scott Logic](https://blog.scottlogic.com/2018/04/30/devops-as-a-key-to-success-with-microservices-approach.html).
 - If you don’t want to go all in with DevOps- focus on a solid Continous Integration pipeline, this is what will give you most value.
 - For cloud integration- adopt some technologies from the Spring Cloud suite
@@ -77,7 +77,7 @@ There is no need to remove everything that you have currently and replace it wit
 
 ![](images/danger.jpg)
 
-Despite the best intentions, you may fall into one of the common traps of microservices. This is not an easy approach, so you should familiarise yourself with [Common Technical Debt in Microservices](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/).
+Despite the best intentions, you may fall into one of the common traps of microservices. This is not an easy approach, so you should familiarise yourself with [Common Technical Debt in Microservices]({{< ref "/posts/common-technical-debt-in-microservices" >}}).
 
 For details, you can read the original article, but it summarises as:
 
@@ -89,7 +89,7 @@ For details, you can read the original article, but it summarises as:
 - Poorly implemented APIs for Orchestration
 - Avoiding Choreography at all cost
 
-There are also potential problems with specific technologies that you may choose. Make sure you do your homework and chose your tech smart. After all, [microservices is the architecture of choices](https://www.e4developer.com/2018/04/18/microservices-the-architecture-of-choices/).
+There are also potential problems with specific technologies that you may choose. Make sure you do your homework and chose your tech smart. After all, [microservices is the architecture of choices]({{< ref "/posts/microservices-the-architecture-of-choices" >}}).
 
 ## Summary
 

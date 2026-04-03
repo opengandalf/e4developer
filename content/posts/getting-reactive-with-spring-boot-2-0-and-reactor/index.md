@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/reactor-spring.png)
 
-Reactive programming is gaining a rapid popularity in the JVM community. With [Java 9 natively embracing the Reactive Streams](https://www.e4developer.com/2018/04/04/reactive-streams-in-java-introducing-the-new-spi/) and Spring Boot 2.0 including the WebFlux, it is hard to argue with this statement. Spring uses Reactor for its own reactive support and WebFlux relies on that support. In this article, I will show you how to get into reactive programming with Reactor and Spring Boot 2.0.
+Reactive programming is gaining a rapid popularity in the JVM community. With [Java 9 natively embracing the Reactive Streams]({{< ref "/posts/reactive-streams-in-java-introducing-the-new-spi" >}}) and Spring Boot 2.0 including the WebFlux, it is hard to argue with this statement. Spring uses Reactor for its own reactive support and WebFlux relies on that support. In this article, I will show you how to get into reactive programming with Reactor and Spring Boot 2.0.
 
 ### What is Reactor?
 
@@ -28,7 +28,7 @@ Project Reactor is quite well described by the tagline on their [official page]
 
 To re-phrase, it is a library for building reactive applications on the JVM that is based on the [Reactive Streams Specification](http://www.reactive-streams.org/).
 
-I have recently blogged about the [Reactive Streams native SPI support in Java 9](https://www.e4developer.com/2018/04/04/reactive-streams-in-java-introducing-the-new-spi/) and as of the time of writing, Reactor does not use that yet. Since the SPI is quite new, I hope Reactor will switch to it in the near future.
+I have recently blogged about the [Reactive Streams native SPI support in Java 9]({{< ref "/posts/reactive-streams-in-java-introducing-the-new-spi" >}}) and as of the time of writing, Reactor does not use that yet. Since the SPI is quite new, I hope Reactor will switch to it in the near future.
 
 ### Core ideas behind Reactor
 

@@ -35,7 +35,7 @@ I wrote my master thesis about sentiment analysis in text and this tool basicall
 
 I mentioned the price- at the time of writing, you get 50,000 queries for free (a month) and after that, it is $0.0001 per unit of text!
 
-There are many fascinating uses of this service and I am planning on using it with Reddit (hence my [Reddit API authorization article](https://www.e4developer.com/2018/11/04/reddit-api-authentication-with-java-spring/)) and after that, to look at this blog sentiment. Who knows- maybe we discover something interesting!
+There are many fascinating uses of this service and I am planning on using it with Reddit (hence my [Reddit API authorization article]({{< ref "/posts/reddit-api-authentication-with-java-spring" >}})) and after that, to look at this blog sentiment. Who knows- maybe we discover something interesting!
 
 ![](images/amazon-comprehend.png)
 
@@ -90,4 +90,4 @@ For me, Comprehend, Rekognition and Transcribe are the most interesting *“Mach
 
 The power is in your hands. Developers can’t claim that the “true machine learning” is outside of their reach as individuals. I am very excited with the power that AWS gives developers (as well as Azure and Google offer in their respective clouds).
 
-You can use these services without the need to go fully on the cloud. However, if you want to get some advice on [How to learn AWS](https://www.e4developer.com/2018/10/20/how-to-learn-aws/), you can read my other [article](https://www.e4developer.com/2018/10/20/how-to-learn-aws/).
+You can use these services without the need to go fully on the cloud. However, if you want to get some advice on [How to learn AWS]({{< ref "/posts/how-to-learn-aws" >}}), you can read my other [article]({{< ref "/posts/how-to-learn-aws" >}}).

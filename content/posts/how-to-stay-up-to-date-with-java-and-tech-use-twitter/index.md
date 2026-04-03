@@ -85,7 +85,7 @@ If you are new to Twitter, it may be a bit daunting to start. I will give you a 
 
 [@simona\_cotin](https://twitter.com/simona_cotin) – *Cloud Developer Advocate @Microsoft – It is worth knowing what Microsoft is up to in the cloud.* **Simona will keep you up to date on that!**
 
-[@samnewman](https://twitter.com/samnewman) – *Independent techie consultant focusing on Microservices, cloud and CD. Wrote Building Microservices. May contain cricket, NRL and board game references.* – **Author of [Building Microservices](https://www.e4developer.com/2018/01/24/starting-with-microservices-read-building-microservices/), an authority on microservices architecture.**
+[@samnewman](https://twitter.com/samnewman) – *Independent techie consultant focusing on Microservices, cloud and CD. Wrote Building Microservices. May contain cricket, NRL and board game references.* – **Author of [Building Microservices]({{< ref "/posts/starting-with-microservices-read-building-microservices" >}}), an authority on microservices architecture.**
 
 [@trisha\_gee](https://twitter.com/trisha_gee) – *Coder/blogger/speaker, working for JetBrains. Human. More or less.* – **Great content, JetBrains, Java, development related.**
 

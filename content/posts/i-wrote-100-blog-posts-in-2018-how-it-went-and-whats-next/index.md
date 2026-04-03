@@ -21,9 +21,9 @@ I wanted to write 2 blog posts a week in 2018, which would result in at least 10
 
 ## Beginning of the blog
 
-I have started this blog in January with a short, a bit vague [explanation of why](https://www.e4developer.com/2018/01/13/starting-a-blog-why/). After publishing that first blog post, I quickly came up with an idea of writing at least twice a week- I had plenty to say!
+I have started this blog in January with a short, a bit vague [explanation of why]({{< ref "/posts/starting-a-blog-why" >}}). After publishing that first blog post, I quickly came up with an idea of writing at least twice a week- I had plenty to say!
 
-My first blog posts were not very good. The first article that I was really happy with was [Setting up RabbitMQ with Spring Cloud Stream](https://www.e4developer.com/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/). Highly technical, but also informative. From that moment I started to feel like I know what I am doing…
+My first blog posts were not very good. The first article that I was really happy with was [Setting up RabbitMQ with Spring Cloud Stream]({{< ref "/posts/setting-up-rabbitmq-with-spring-cloud-stream" >}}). Highly technical, but also informative. From that moment I started to feel like I know what I am doing…
 
 Since everyone loves a stat, here are the first three months of my blogs traffic:
 
@@ -37,21 +37,21 @@ Some of my blog posts turned out to be very popular. You can see an automaticall
 
 And here are the clickable links:
 
-- [Introduction to Concurrency in Spring Boot](https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/) – something I like to talk about and that I always wanted to write. Turns out that plenty of people are interested as well!
-- [Spring Boot – Best Practices](https://www.e4developer.com/2018/08/06/spring-boot-best-practices/) – one of my personal favorites! I am very glad that the authors of the Spring framework contributed as well!
-- [How to write horrible Java](https://www.e4developer.com/2018/05/13/how-to-write-horrible-java/) – kind of a joke blog posts. Mostly popular because of social sharing. Read it for a laugh!
-- [The rise of Java Microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/) – if you never heard of them, check it out!
-- [Getting Started with Kafka in Spring Boot](https://www.e4developer.com/2018/05/21/getting-started-with-kafka-in-spring-boot/) – I am a bit surprised that this one is so popular! I guess Kafka is difficult and popular!
-- [Should I Learn Java in 2018](https://www.e4developer.com/2018/06/09/should-i-learn-java-in-2018/) – spoiler- yes you should!
+- [Introduction to Concurrency in Spring Boot]({{< ref "/posts/introduction-to-concurrency-in-spring-boot" >}}) – something I like to talk about and that I always wanted to write. Turns out that plenty of people are interested as well!
+- [Spring Boot – Best Practices]({{< ref "/posts/spring-boot-best-practices" >}}) – one of my personal favorites! I am very glad that the authors of the Spring framework contributed as well!
+- [How to write horrible Java]({{< ref "/posts/how-to-write-horrible-java" >}}) – kind of a joke blog posts. Mostly popular because of social sharing. Read it for a laugh!
+- [The rise of Java Microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}) – if you never heard of them, check it out!
+- [Getting Started with Kafka in Spring Boot]({{< ref "/posts/getting-started-with-kafka-in-spring-boot" >}}) – I am a bit surprised that this one is so popular! I guess Kafka is difficult and popular!
+- [Should I Learn Java in 2018]({{< ref "/posts/should-i-learn-java-in-2018" >}}) – spoiler- yes you should!
 
 ## Highlights of my favourite blog posts
 
 Some of the blog posts that I wrote did not become so popular, but I still really like them. Here is a short list of a few other articles that I am really happy with:
 
-- [Java surprises – Unexpected behaviours and features](https://www.e4developer.com/2018/10/28/java-surprises-unexpected-behaviours-and-features/) – I love that article. If you think you know everything about Java, check this out! Quite a few extra trivias and fun features!
-- [HATEOAS – a simple explanation](https://www.e4developer.com/2018/02/16/hateoas-simple-explanation/) – the first article that I wrote that got any sort of notice! What a great feeling, and not a bad article!
-- [Spring’s WebFlux / Reactor Parallelism and Backpressure](https://www.e4developer.com/2018/04/28/springs-webflux-reactor-parallelism-and-backpressure/) – difficult topic explained well I believe.
-- [The Quest for Simplicity in Java Microservices](https://www.e4developer.com/2018/07/08/the-quest-for-simplicity-in-java-microservices/) – Simplicity is a virtue
+- [Java surprises – Unexpected behaviours and features]({{< ref "/posts/java-surprises-unexpected-behaviours-and-features" >}}) – I love that article. If you think you know everything about Java, check this out! Quite a few extra trivias and fun features!
+- [HATEOAS – a simple explanation]({{< ref "/posts/hateoas-simple-explanation" >}}) – the first article that I wrote that got any sort of notice! What a great feeling, and not a bad article!
+- [Spring’s WebFlux / Reactor Parallelism and Backpressure]({{< ref "/posts/springs-webflux-reactor-parallelism-and-backpressure" >}}) – difficult topic explained well I believe.
+- [The Quest for Simplicity in Java Microservices]({{< ref "/posts/the-quest-for-simplicity-in-java-microservices" >}}) – Simplicity is a virtue
 
 There are many more articles that I really enjoyed writing, but these are somehow very memorable. I wonder what kind of titles I will be listing in December 2019!
 
@@ -87,7 +87,7 @@ Most bloggers at some point would like to make some pocket money from their blog
 
 **Amazon Affiliate** – Here, I can promote things that I actually bought myself and I feel good about recommending them to others. You can find links to books under book reviews. At the moment this generates minimal amount of money (you can imagine the scale of commission on a few books a month…)
 
-**PluralSight Affiliate** – I am a huge fan of PluralSight (I wrote an [article about learning with PluralSight](https://www.e4developer.com/2018/08/12/learning-java-spring-microservices-with-pluralsight/)) and a long-term subscriber, so it seemed like a perfect thing to promote on my blog. I think I must have hit on something here, as this is the only method here that actually sort of works. £20-40 a month is not a fortune, but it’s a nice tip!
+**PluralSight Affiliate** – I am a huge fan of PluralSight (I wrote an [article about learning with PluralSight]({{< ref "/posts/learning-java-spring-microservices-with-pluralsight" >}})) and a long-term subscriber, so it seemed like a perfect thing to promote on my blog. I think I must have hit on something here, as this is the only method here that actually sort of works. £20-40 a month is not a fortune, but it’s a nice tip!
 
 ## Current readership
 

@@ -78,4 +78,4 @@ Is it ever a good idea to completely stop working on new features to work on som
 
 ## Summary
 
-I hope this article will make you reflect a bit more on the subtleties of managing tech debt in your project. If you like to discuss it, you can [catch me on twitter](https://twitter.com/e4developer). If you would like to read more about tech debt, I also wrote an article about[Common Technical Debt in Microservices](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/).
+I hope this article will make you reflect a bit more on the subtleties of managing tech debt in your project. If you like to discuss it, you can [catch me on twitter](https://twitter.com/e4developer). If you would like to read more about tech debt, I also wrote an article about[Common Technical Debt in Microservices]({{< ref "/posts/common-technical-debt-in-microservices" >}}).

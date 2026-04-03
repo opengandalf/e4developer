@@ -70,8 +70,8 @@ With the high-level knowledge of multiple topics, you will be less likely to mak
 I have explained what you should know, so it is only fair to provide some ideas on how to foster this knowledge:
 
 - **Read blogs/newsletters** – it is worth having a list of blogs that you follow to stay informed. Some of them provide interesting newsletters. I can recommend: <https://www.baeldung.com/java-web-weekly> and <https://info.jetbrains.com/Java-Annotated-Subscription.html>
-- **Stay up to date with twitter** – I welcome you to follow me @e4developer, but even better- read [“How to stay up to date with Java and Tech? Use Twitter!”](https://www.e4developer.com/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/)
-- **Use Reddit** – I find Reddit a good place to get a quick update on what’s how in the world of software development. Again, you can find more details here – [Reddit – the Java goldmine](https://www.e4developer.com/2018/08/05/reddit-the-java-goldmine/)
+- **Stay up to date with twitter** – I welcome you to follow me @e4developer, but even better- read [“How to stay up to date with Java and Tech? Use Twitter!”]({{< ref "/posts/how-to-stay-up-to-date-with-java-and-tech-use-twitter" >}})
+- **Use Reddit** – I find Reddit a good place to get a quick update on what’s how in the world of software development. Again, you can find more details here – [Reddit – the Java goldmine]({{< ref "/posts/reddit-the-java-goldmine" >}})
 - **Stay curious** – if you hear a concept being mentioned that you have no clue about- look it up. You will learn a lot as long as you are surrounded by others trying to build great software.
 
 ## Summary

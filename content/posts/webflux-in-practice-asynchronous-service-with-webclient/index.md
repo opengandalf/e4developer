@@ -40,7 +40,7 @@ I will be using WebFlux and `2.0.2.RELEASE` release of Spring Boot. In order t
 
 ```
 
-Make sure not to include the *spring-boot-starter-web* as this will clash with WebFlux. If this is all completely new to you I recommend reading first [Getting Reactive with Spring Boot 2.0 and Reactor](https://www.e4developer.com/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/).
+Make sure not to include the *spring-boot-starter-web* as this will clash with WebFlux. If this is all completely new to you I recommend reading first [Getting Reactive with Spring Boot 2.0 and Reactor]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}}).
 
 These are all the dependencies that you need. Pretty simple right?
 

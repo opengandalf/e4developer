@@ -52,7 +52,7 @@ Let’s have a quick look at the Amazon Developer Account and how intuitive it l
 
 Everything is done with the help of friendly user interfaces. On top of that, there are multiple example skills available for you to try on.
 
-Once you configure your skill in the developer account, you should create an accompanying Lambda function (in AWS) that will service the skill. You don’t need to know much about AWS, as the tutorials explain all that you really need to know, but it can be very helpful. I have written an article about [how to learn AWS](https://www.e4developer.com/2018/10/20/how-to-learn-aws/) if you are interested.
+Once you configure your skill in the developer account, you should create an accompanying Lambda function (in AWS) that will service the skill. You don’t need to know much about AWS, as the tutorials explain all that you really need to know, but it can be very helpful. I have written an article about [how to learn AWS]({{< ref "/posts/how-to-learn-aws" >}}) if you are interested.
 
 ## Developing Alexa Skills – a great way of learning serverless computing
 

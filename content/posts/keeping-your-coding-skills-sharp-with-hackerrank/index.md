@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/hackerrank.png)
 
-I have recently gave a talk about being a [lead developer in consultancy](https://www.e4developer.com/2018/03/16/being-a-lead-developer-on-the-road-presentation/). I have stressed there the importance of learning in the role of a software consultant. Beyond that, it is good to stay “in shape” when it comes to algorithmic coding. You never know when it may be important- a difficult problem at work or a short notice interview. Let me introduce you to one of my all-time favourite “tools”. Ladies and Gentlemen- [HackerRank](https://www.hackerrank.com/)!
+I have recently gave a talk about being a [lead developer in consultancy]({{< ref "/posts/being-a-lead-developer-on-the-road-presentation" >}}). I have stressed there the importance of learning in the role of a software consultant. Beyond that, it is good to stay “in shape” when it comes to algorithmic coding. You never know when it may be important- a difficult problem at work or a short notice interview. Let me introduce you to one of my all-time favourite “tools”. Ladies and Gentlemen- [HackerRank](https://www.hackerrank.com/)!
 
 In this article I want to share with you ideas on how I use HackerRank to stay “in shape” when it comes to coding. Before we do that, for motivation, a quote from an ancient Greek poet Archilochus:
 

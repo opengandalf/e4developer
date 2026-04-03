@@ -25,7 +25,7 @@ Every project is different, but we can use some characteristics with which we ca
 
 One of the main selling points of Spring Boot is its use for microservices architectures. I will agree here- I have used Spring Boot to implement the microservices architecture in production for large enterprise and it works well.
 
-What I would point out though, is that many companies keen on using Spring Boot, sort of miss the trick by not looking at Spring Cloud. I previously wrote about [Spring Cloud as a Blueprint for Microservices Architecture](https://www.e4developer.com/2018/01/22/spring-cloud-blueprint-for-successful-microservices/) – I really think this is a good way to think about it. If you are already thinking about using Spring Boot and implementing microservices – check out Spring Cloud and what it has to offer.
+What I would point out though, is that many companies keen on using Spring Boot, sort of miss the trick by not looking at Spring Cloud. I previously wrote about [Spring Cloud as a Blueprint for Microservices Architecture]({{< ref "/posts/spring-cloud-blueprint-for-successful-microservices" >}}) – I really think this is a good way to think about it. If you are already thinking about using Spring Boot and implementing microservices – check out Spring Cloud and what it has to offer.
 
 Is Spring Boot a good choice for microservices architecture? **Definitely yes!**
 
@@ -59,7 +59,7 @@ I had a pleasure working on Spring Boot project with a number of developers who 
 
 I actually found Spring Boot to be one of the most beginner friendly serverside frameworks out there. Perhaps this is one of the reasons for its wild popularity?
 
-If you looking for a good place to start learning Spring Boot I can recommend [Pluralsight](https://www.e4developer.com/pluralsight) for its courses (I wrote an [article about learning with Pluralsight](https://www.e4developer.com/2018/08/12/learning-java-spring-microservices-with-pluralsight/) and I am an affiliate) and the amazing collection of [official Spring guides](https://spring.io/guides).
+If you looking for a good place to start learning Spring Boot I can recommend [Pluralsight](https://www.e4developer.com/pluralsight) for its courses (I wrote an [article about learning with Pluralsight]({{< ref "/posts/learning-java-spring-microservices-with-pluralsight" >}}) and I am an affiliate) and the amazing collection of [official Spring guides](https://spring.io/guides).
 
 Is Spring Boot a viable choice for teams with no Spring experience? **Definitely yes!**
 
@@ -71,7 +71,7 @@ What if you don’t think you need all the features that Spring Boot offers. You
 
 Here you have a choice- Spring Boot is still great for basic REST APIs, but you could give a chance to microframeworks like [Javalin](https://javalin.io/) and [Spark Java](http://sparkjava.com/).
 
-I have elaborated much more on that point in [The Quest for Simplicity in Java Microservices](https://www.e4developer.com/2018/07/08/the-quest-for-simplicity-in-java-microservices/).
+I have elaborated much more on that point in [The Quest for Simplicity in Java Microservices]({{< ref "/posts/the-quest-for-simplicity-in-java-microservices" >}}).
 
 Is Spring Boot viable choice for simple REST APIs? **Definitely yes, but also check out microframeworks!**
 
@@ -81,4 +81,4 @@ Is Spring Boot viable choice for simple REST APIs? **Definitely yes, but also ch
 
 It seems that Spring Boot is a great choice for most modern serverside development. Is that really a surprise? Spring Boot is incredibly popular for a reason!
 
-Before you pick Spring Boot though, make sure that you are not falling for the *“If all you have is a hammer, everything looks like a nail”* trap and use the right tool for the job. Especially when going serverless or trying to write something [“simple”](https://www.e4developer.com/2018/07/08/the-quest-for-simplicity-in-java-microservices/).
+Before you pick Spring Boot though, make sure that you are not falling for the *“If all you have is a hammer, everything looks like a nail”* trap and use the right tool for the job. Especially when going serverless or trying to write something [“simple”]({{< ref "/posts/the-quest-for-simplicity-in-java-microservices" >}}).

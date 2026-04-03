@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/java-reddit-oauth-api.jpg)
 
-I am a [big fan of Reddit](https://www.e4developer.com/2018/08/05/reddit-the-java-goldmine/). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.
+I am a [big fan of Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.
 
 ## Public read-only API with JSON
 
@@ -159,4 +159,4 @@ And here is the outcome in the browser:
 
 ## What is next?
 
-This is the first step in my exploration of the Reddit API. I have been recently [learning a lot about AWS](https://www.e4developer.com/2018/10/20/how-to-learn-aws/) and I discovered a service called [Amazon Comprehend](https://aws.amazon.com/comprehend/). It is a fascinating Sentiment Analysis API that I am planning to use with Reddit! Stay tuned for more!
+This is the first step in my exploration of the Reddit API. I have been recently [learning a lot about AWS]({{< ref "/posts/how-to-learn-aws" >}}) and I discovered a service called [Amazon Comprehend](https://aws.amazon.com/comprehend/). It is a fascinating Sentiment Analysis API that I am planning to use with Reddit! Stay tuned for more!

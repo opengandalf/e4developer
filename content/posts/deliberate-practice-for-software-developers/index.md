@@ -67,7 +67,7 @@ Completing different coding challenges is close to as pure deliberate practice a
 
 If you don’t know how to get started with coding challenges, don’t worry. There range from very simple to near impossible, so I am sure you can find some that will match your level.
 
-I have written an article about [Keeping your skills sharp with HackerRank](https://www.e4developer.com/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/) if this topic interests you.
+I have written an article about [Keeping your skills sharp with HackerRank]({{< ref "/posts/keeping-your-coding-skills-sharp-with-hackerrank" >}}) if this topic interests you.
 
 ## Learn a new language, framework, technique etc.
 

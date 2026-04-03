@@ -17,9 +17,9 @@ TocOpen: false
 
 ![](images/spring-cloud-learning.png)
 
-I have recently spoken at a meetup about [Practical Choreography with Spring Cloud Stream](https://www.e4developer.com/2018/02/20/practical-choreography-with-spring-cloud-presentation/). It was a great event where I was asked many questions after the talk. One question got me thinking: *“What book about Spring Cloud do you recommend?”*which as it turns out boils down to *“How do you learn Spring Cloud?”.* I heard that question posed a few times before in different ways. Here, I will give you my answer on what I think is the best way of learning Spring Cloud.
+I have recently spoken at a meetup about [Practical Choreography with Spring Cloud Stream]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}}). It was a great event where I was asked many questions after the talk. One question got me thinking: *“What book about Spring Cloud do you recommend?”*which as it turns out boils down to *“How do you learn Spring Cloud?”.* I heard that question posed a few times before in different ways. Here, I will give you my answer on what I think is the best way of learning Spring Cloud.
 
-With Spring Cloud being probably the hottest framework on JVM for integrating microservices, the interest in it is growing. Most people interested in the microservices are already familiar with Spring Boot. If you haven’t heard of it before, check out my [Spring Boot introduction](https://www.e4developer.com/2018/01/16/microservices-toolbox-spring-boot/) blog post, and definitely see the [official site](https://projects.spring.io/spring-boot/)– it has some very good *Getting Started Guides*.
+With Spring Cloud being probably the hottest framework on JVM for integrating microservices, the interest in it is growing. Most people interested in the microservices are already familiar with Spring Boot. If you haven’t heard of it before, check out my [Spring Boot introduction]({{< ref "/posts/microservices-toolbox-spring-boot" >}}) blog post, and definitely see the [official site](https://projects.spring.io/spring-boot/)– it has some very good *Getting Started Guides*.
 
 With that out of the way, let’s look at learning Spring Cloud!
 
@@ -51,7 +51,7 @@ The first thing to do when trying to learn something so big and diverse is under
 
 Wow! This is a lot to take in! Clearly, the number of different projects here means that you can’t learn it by simply going through them one by one with a hope of understanding or mastering Spring Cloud by the end of it.
 
-So, what is the best strategy for learning such an extensive framework (or a [microservice blueprint](https://www.e4developer.com/2018/01/22/spring-cloud-blueprint-for-successful-microservices/), as I describe it in another article)? I think the most sensible ways of learning is understanding what you would like to use Spring Cloud for. Setting yourself a learning goal.
+So, what is the best strategy for learning such an extensive framework (or a [microservice blueprint]({{< ref "/posts/spring-cloud-blueprint-for-successful-microservices" >}}), as I describe it in another article)? I think the most sensible ways of learning is understanding what you would like to use Spring Cloud for. Setting yourself a learning goal.
 
 ### Goal Oriented Learning
 

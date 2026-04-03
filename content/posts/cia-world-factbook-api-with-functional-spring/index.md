@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/world-factbook.jpg)
 
-I have recently been very interested in [microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/). One thing notably missing from that article is Spring in the context of a microframework. You may be surprised, but it is possible to write very lightweight APIs with Functional Spring. In this article, I will show you how, by turning [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) into a REST API.
+I have recently been very interested in [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}). One thing notably missing from that article is Spring in the context of a microframework. You may be surprised, but it is possible to write very lightweight APIs with Functional Spring. In this article, I will show you how, by turning [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) into a REST API.
 
 So what is Functional Spring? [Functional Web Framework](https://spring.io/blog/2016/09/22/new-in-spring-5-functional-web-framework) was introduced in Spring 5 and lets you build a very lightweight REST API without much of the *Spring Magic*. Sounds perfect!
 
@@ -72,7 +72,7 @@ public static void main(String[] args) throws InterruptedException, FileNotFound
 
 ```
 
-This code is relatively easy to understand, although looks quite alien to many Spring developers. The *HttpServer* object is more similar to what we commonly find in [microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/). Just compare it to a Javalin *HelloWorld*.
+This code is relatively easy to understand, although looks quite alien to many Spring developers. The *HttpServer* object is more similar to what we commonly find in [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}). Just compare it to a Javalin *HelloWorld*.
 
 ```
 
@@ -171,6 +171,6 @@ The API is quite a low level and it requires some basic understanding of how the
 
 CIA World Factbook is a fascinating resource that can be used for many creative purposes. I would like to see how a similar API could be expanded with GraphQL to make a genuinely useful service.
 
-This blog post was partially inspired by <http://blog.alexnesterov.com/post/spring-your-next-microframework/> and <https://spring.io/blog/2016/09/22/new-in-spring-5-functional-web-framework> when looking what Spring has to offer in the [microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/) space.
+This blog post was partially inspired by <http://blog.alexnesterov.com/post/spring-your-next-microframework/> and <https://spring.io/blog/2016/09/22/new-in-spring-5-functional-web-framework> when looking what Spring has to offer in the [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}) space.
 
 The code for this article is [available on GitHub](https://github.com/bjedrzejewski/functional-cia-world-factbook). Let me know in the comments if you have some interesting idea for use of either Spring Functional Web Framework or the CIA World Factbook.

@@ -77,7 +77,7 @@ Let’s look at more specific aspects of leadership that can be difficult to get
 
 ## How to motivate?
 
-Motivating people is a fascinating topic. I have written an article titled [Secrets to Highly Motivated and Happy Software Teams](https://www.e4developer.com/2018/06/04/secrets-to-highly-motivated-and-happy-software-teams/) and if you want the details, go ahead and read it. The short version is here.
+Motivating people is a fascinating topic. I have written an article titled [Secrets to Highly Motivated and Happy Software Teams]({{< ref "/posts/secrets-to-highly-motivated-and-happy-software-teams" >}}) and if you want the details, go ahead and read it. The short version is here.
 
 Motivation is all about giving people three things:
 
@@ -119,7 +119,7 @@ The best solution is working towards a trust-based relationship between the deli
 
 On the subject of leadership I recommend checking out:
 
-- [Secrets to Highly Motivated and Happy Software Teams](https://www.e4developer.com/2018/06/04/secrets-to-highly-motivated-and-happy-software-teams/)
+- [Secrets to Highly Motivated and Happy Software Teams]({{< ref "/posts/secrets-to-highly-motivated-and-happy-software-teams" >}})
 - [Soft Skills for Software Developer](https://blog.scottlogic.com/2018/01/13/soft-skills-for-software-developers.html) – my article on Scott Logic blog
 - [Leaders Eat Last (Amazon)](https://amzn.to/2q3lHmf) – the book
 - [Drive: The Surprising Truth About What Motivates Us (Amazon)](https://amzn.to/2PLCh5j) – the book

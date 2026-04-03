@@ -72,7 +72,7 @@ In this case, you make al three calls without waiting for completion and assumin
 
 The idea of asynchronous and reactive microservices is interesting in itself. I recommend checking out:
 
-- **The [reactive section of this blog](https://www.e4developer.com/category/reactive/), especially [Getting Reactive with Spring Boot 2.0 and Reactor](https://www.e4developer.com/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/)**
+- **The [reactive section of this blog](https://www.e4developer.com/category/reactive/), especially [Getting Reactive with Spring Boot 2.0 and Reactor]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}})**
 - [The reactive manifesto](https://www.reactivemanifesto.org/)
 - [Spring Boot 2 and WebFlux](https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html)
 - [Project Reactor](https://projectreactor.io/) by Pivotal

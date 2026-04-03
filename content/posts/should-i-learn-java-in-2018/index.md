@@ -70,7 +70,7 @@ This concern has some merit as if you already are working on NodeJS using JavaSc
 
 Java Enterprise Edition became quite infamous for its use of XML for bean configuration… That stained Java reputation as a nasty language to write code in for years to come. This is no longer true.
 
-I have written about [The Rise of Java Microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/) recently. These days writing a Java service can be incredibly trivial. Let’s look at “Hello World” written in [Spark Java](http://sparkjava.com/):
+I have written about [The Rise of Java Microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}) recently. These days writing a Java service can be incredibly trivial. Let’s look at “Hello World” written in [Spark Java](http://sparkjava.com/):
 
 ```
 

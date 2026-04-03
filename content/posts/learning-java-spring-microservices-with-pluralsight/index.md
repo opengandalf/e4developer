@@ -71,6 +71,6 @@ As they say, the proof is in the pudding, so let me give you some of my favourit
 
 ## Summary
 
-There are many ways to keep up to date with tech. I have written about [Twitter](https://www.e4developer.com/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/) and [Reddit](https://www.e4developer.com/2018/08/05/reddit-the-java-goldmine/) before. If you think you may enjoy high-quality video content with the ability to test your progress, [give Pluralsight a (free) try](https://www.e4developer.com/ps-a-free-trial)!
+There are many ways to keep up to date with tech. I have written about [Twitter]({{< ref "/posts/how-to-stay-up-to-date-with-java-and-tech-use-twitter" >}}) and [Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}) before. If you think you may enjoy high-quality video content with the ability to test your progress, [give Pluralsight a (free) try](https://www.e4developer.com/ps-a-free-trial)!
 
 I am confident sharing this with you as I a Pluralsight user myself and can vouch for the quality of the courses out there!

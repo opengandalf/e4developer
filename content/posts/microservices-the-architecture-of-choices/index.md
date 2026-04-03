@@ -37,7 +37,7 @@ Word of caution- if you are considering a technology, make sure that you are cho
 
 With the idea of learning what is possible, it is crucial to keep an open mind. We developers love to get religious about technology. I don’t think it is a road that gets us far.
 
-I have written previously about the [importance of being humble as a software developer](https://www.e4developer.com/2018/04/01/the-importance-of-being-humble-as-a-software-developer/). In short- on more than one occasion I dismissed a better solution because I just assumed that I know better. I try to be more open-minded these days.
+I have written previously about the [importance of being humble as a software developer]({{< ref "/posts/the-importance-of-being-humble-as-a-software-developer" >}}). In short- on more than one occasion I dismissed a better solution because I just assumed that I know better. I try to be more open-minded these days.
 
 With microservices still being relatively new, people are constantly challenging the status quo and bringing new ideas to the table. Listen to them, you may find a better solution to your problem. Use your choices.
 
@@ -45,7 +45,7 @@ With microservices still being relatively new, people are constantly challenging
 
 There are many choices how to do something right- there are multiple ways to success. **There are also sure ways that will lead you and your projects towards failure**.
 
-Coming from other architecture styles, we are prone to committing similar mistakes. I have written a list of [common technical debt in microservices](https://www.e4developer.com/2018/02/11/common-technical-debt-in-microservices/) based on my previous experience (one of the benefits of being a consultant!).
+Coming from other architecture styles, we are prone to committing similar mistakes. I have written a list of [common technical debt in microservices]({{< ref "/posts/common-technical-debt-in-microservices" >}}) based on my previous experience (one of the benefits of being a consultant!).
 
 Whenever working on a distinct part of your architecture, make sure you familiarise yourself with common pitfalls and best practices. There is often more agreement here than it is with specific choices of technology.
 
@@ -77,7 +77,7 @@ With a knowledge that no decision is forever, you can choose something that work
 
 You don’t have to make all the choices. After all, this architecture style is not completely new. You can model your architecture based on successful implementations and microservices blueprints.
 
-I am a big fan of the Spring ecosystem which provides such blueprint in the form of the Spring Cloud offering. I have reviewed [Spring Cloud in the context of a blueprint on this blog](https://www.e4developer.com/2018/01/22/spring-cloud-blueprint-for-successful-microservices/).
+I am a big fan of the Spring ecosystem which provides such blueprint in the form of the Spring Cloud offering. I have reviewed [Spring Cloud in the context of a blueprint on this blog]({{< ref "/posts/spring-cloud-blueprint-for-successful-microservices" >}}).
 
 If you are building a system based on a framework, check what others did, plenty of companies, including the *microservices famous* Netflix are quite open about their journey with microservices. You can model your choices around other’s successes.
 

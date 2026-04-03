@@ -158,7 +158,7 @@ Here I may break away from these physics rants and actually end with a super lof
 
 If you see people starting to believe it and happily live within their bubbles, try to bring some common understanding and maybe together you can go back at working towards the same goal.
 
-[I recommend the Phoenix Project](https://www.e4developer.com/2018/03/24/the-phoenix-project-a-key-to-understanding-devops/) as a good book that explores this journey towards common understanding and working together.
+[I recommend the Phoenix Project]({{< ref "/posts/the-phoenix-project-a-key-to-understanding-devops" >}}) as a good book that explores this journey towards common understanding and working together.
 
 ## Summary
 

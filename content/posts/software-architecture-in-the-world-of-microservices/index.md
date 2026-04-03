@@ -36,7 +36,7 @@ What makes the architecture of microservices systems more difficult to talk abou
 - Rapid change
 - Many choices at every step
 
-I have even written an article describing [microservices as the architecture of choices](https://www.e4developer.com/2018/04/18/microservices-the-architecture-of-choices/).
+I have even written an article describing [microservices as the architecture of choices]({{< ref "/posts/microservices-the-architecture-of-choices" >}}).
 
 With the number of choices at every step, it is clear to me that you can’t just trust your luck and not think about these things. Also, with the rapid pace of development, it is equally clear that you should stay away from [TOGAF](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework) and similar ideas. (In my humble opinion, you should stay away from TOGAF anyway, but that is for another article).
 

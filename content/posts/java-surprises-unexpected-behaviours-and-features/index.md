@@ -76,7 +76,7 @@ Imaging, you could even write unit tests and all is good, as long as you are not
 
 This should not come as a surprise, but with reflection, you can override final values (most of the time) and access private fields… But not always.
 
-When writing my [How to write horrible Java](https://www.e4developer.com/2018/05/13/how-to-write-horrible-java/) I found a case where overwriting final values does not work as expected. Constants in Java, when final will get inlined and even though your code will seem to have worked- no value will change. Magic (check [my article](https://www.e4developer.com/2018/05/13/how-to-write-horrible-java/) for details and this [Stack Overflow answer](https://stackoverflow.com/questions/1615163/modifying-final-fields-in-java/2107976#2107976)).
+When writing my [How to write horrible Java]({{< ref "/posts/how-to-write-horrible-java" >}}) I found a case where overwriting final values does not work as expected. Constants in Java, when final will get inlined and even though your code will seem to have worked- no value will change. Magic (check [my article]({{< ref "/posts/how-to-write-horrible-java" >}}) for details and this [Stack Overflow answer](https://stackoverflow.com/questions/1615163/modifying-final-fields-in-java/2107976#2107976)).
 
 Here is the code for overwriting finals if you insist:
 

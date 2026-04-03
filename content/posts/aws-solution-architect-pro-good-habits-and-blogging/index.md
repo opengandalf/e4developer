@@ -17,9 +17,9 @@ TocOpen: false
 
 I have been posting a little bit less recently. In some ways, it is easier to write two blog posts a week than one blog post once in a while. I have recently read the book titled “Atomic Habit” that motivated me to fix this state of affairs!
 
-As you might know, I have written over 100 blog posts in 2018 as a sort of personal challenge. It was not easy, but it was immensely satisfying! You can check out my [summary post](https://www.e4developer.com/2018/12/15/i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next/) about this.
+As you might know, I have written over 100 blog posts in 2018 as a sort of personal challenge. It was not easy, but it was immensely satisfying! You can check out my [summary post]({{< ref "/posts/i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next" >}}) about this.
 
-In 2019 I wanted to focus more on building things, [experiment with video](https://www.e4developer.com/2019/06/21/code-sharing-in-microservices-architecture-youtube-course/) and maybe [learn more programming languages](https://www.e4developer.com/2019/06/16/you-should-learn-multiple-programming-languages/). I planned to reduce my blogging to about once a week, but I didn’t plan to hold myself accountable… And here is the issue- I have lost a good habit!
+In 2019 I wanted to focus more on building things, [experiment with video]({{< ref "/posts/code-sharing-in-microservices-architecture-youtube-course" >}}) and maybe [learn more programming languages]({{< ref "/posts/you-should-learn-multiple-programming-languages" >}}). I planned to reduce my blogging to about once a week, but I didn’t plan to hold myself accountable… And here is the issue- I have lost a good habit!
 
 “Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones” by James Clear is a really interesting book that made it clear to me what I was doing wrong. I was spending too much time planning things and too little time doing things. This includes blogging. I don’t want to summarise the whole book for you, but definitely give it a read or check it out on Audible.
 

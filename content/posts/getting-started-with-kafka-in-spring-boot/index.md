@@ -21,7 +21,7 @@ Kafka seems to only be gaining in popularity. A few years ago you could mostly s
 
 ## Installing Kafka on your machine
 
-One common barrier to entry for people to *hack around* on their machines with Kafka is how tricky the installation can be. For that very reason, I have written [*“How to easily run Kafka with Docker for development”*](https://www.e4developer.com/2018/05/20/how-to-easily-run-kafka-with-docker-for-development/)– I think you will find it especially useful if you are on Windows!
+One common barrier to entry for people to *hack around* on their machines with Kafka is how tricky the installation can be. For that very reason, I have written [*“How to easily run Kafka with Docker for development”*]({{< ref "/posts/how-to-easily-run-kafka-with-docker-for-development" >}})– I think you will find it especially useful if you are on Windows!
 
 If you are running macOS or Linux, you can still follow the aforementioned tutorial, but you could also run Kafka and Zookeeper without Docker. To do that I recommend [Confluent.io](https://www.confluent.io/) platform and their [Quick Start tutorial](https://docs.confluent.io/current/quickstart/cos-quickstart.html).
 
@@ -92,7 +92,7 @@ In the previous section, we looked at the direct integration between Spring Boot
 
 This Spring Cloud Stream and Kafka integration is described very well in the [Kafka Streams and Spring Cloud Stream](https://spring.io/blog/2018/04/19/kafka-streams-and-spring-cloud-stream) just recently published on the [spring.io blog](https://spring.io/blog).
 
-Another way that Kafka comes to play with Spring Cloud Stream is with Spring Cloud Data flow. This abstracts the use of Kafka nearly entirely and can be interesting if you want to build an ETL or some batch processing. I wrote an [introduction to Spring Cloud Data Flow](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/) and looked at [different use cases for this technology](https://www.e4developer.com/2018/02/28/spring-cloud-data-flow-use-cases/).
+Another way that Kafka comes to play with Spring Cloud Stream is with Spring Cloud Data flow. This abstracts the use of Kafka nearly entirely and can be interesting if you want to build an ETL or some batch processing. I wrote an [introduction to Spring Cloud Data Flow]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}}) and looked at [different use cases for this technology]({{< ref "/posts/spring-cloud-data-flow-use-cases" >}}).
 
 ## Summary
 

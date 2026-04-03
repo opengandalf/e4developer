@@ -116,13 +116,13 @@ What do you do if you want to achieve the ultimate simplicity?
 
 ![](images/javalin-logo.png)
 
-If you want to make your microservices really simple, you should look at [microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/). Or should you? Let’s look at Javalin as an example of the microframework family.
+If you want to make your microservices really simple, you should look at [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}). Or should you? Let’s look at Javalin as an example of the microframework family.
 
 So, what makes Javalin so simple? It is only about 2,000 lines of source code. It is truly a microframework. With such a streamlined code-base you can achieve real simplicity. If you have any difficulties, the source code is simple enough to understand and fix.
 
-What is the price of such simplicity? Javalin does not provide as much as Spring Boot does. You don’t have projects like *Javalin Data* ([my Spring Data introduction](https://www.e4developer.com/2018/05/05/spring-data-microservices-data-companion/)) or Javalin Data Flow ([my Spring Cloud Data flow into](https://www.e4developer.com/2018/02/18/getting-started-with-spring-cloud-data-flow/)).  You don’t even have dependency injection!
+What is the price of such simplicity? Javalin does not provide as much as Spring Boot does. You don’t have projects like *Javalin Data* ([my Spring Data introduction]({{< ref "/posts/spring-data-microservices-data-companion" >}})) or Javalin Data Flow ([my Spring Cloud Data flow into]({{< ref "/posts/getting-started-with-spring-cloud-data-flow" >}})).  You don’t even have dependency injection!
 
-Is being so lightweight problematic? This is an interesting question. These days, with Kubernetes, Service Mesh and other microservices technologies, there is less requirement for complexity in the service itself. I have written about [the rise of microframeworks](https://www.e4developer.com/2018/06/02/the-rise-of-java-microframeworks/), as I believe that we are just witnessing the beginning of this trend!
+Is being so lightweight problematic? This is an interesting question. These days, with Kubernetes, Service Mesh and other microservices technologies, there is less requirement for complexity in the service itself. I have written about [the rise of microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}), as I believe that we are just witnessing the beginning of this trend!
 
 I see the **Javalin approach to simplicity** as:
 

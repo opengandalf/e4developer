@@ -48,7 +48,7 @@ I will later show you an example of a simple JavaScript frontend that can be bui
 
 ### Why Javalin… What is Javalin anyway?
 
-Javalin is an amazing micro-framework for writing microservices. I have chosen it here as it makes writing WebSockets as easy as it gets. If you want to learn more about the framework check out the [official site](https://javalin.io) and mine [Lightweight Kotlin Microservices with Javalin blog post](https://www.e4developer.com/2018/03/22/lightweight-kotlin-microservices-with-javalin/).
+Javalin is an amazing micro-framework for writing microservices. I have chosen it here as it makes writing WebSockets as easy as it gets. If you want to learn more about the framework check out the [official site](https://javalin.io) and mine [Lightweight Kotlin Microservices with Javalin blog post]({{< ref "/posts/lightweight-kotlin-microservices-with-javalin" >}}).
 
 ### WebSockets basics with Javalin
 

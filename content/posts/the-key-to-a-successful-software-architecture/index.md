@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/the-key.jpg)
 
-Recently I have read and [reviewed *“Clean Architecture*“](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software architectures exhibit. What is this quality? It is the existence of clear boundaries and well-defined modules. If you don’t agree with me- keep reading and I am sure we will find some common understanding.
+Recently I have read and [reviewed *“Clean Architecture*“]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) by Robert C. Martin. Very entertaining book. It made me think about the main quality that good software architectures exhibit. What is this quality? It is the existence of clear boundaries and well-defined modules. If you don’t agree with me- keep reading and I am sure we will find some common understanding.
 
 ## Divide and Conquer
 
@@ -77,7 +77,7 @@ What can help us keep our options open:
 - Clear separation between components
 - Keeping the “details isolated” – database, frameworks, etc. as much as practical
 
-This is really what [Clean Architecture](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/) explains very well. Good architectures are architectures that can change and adapt.
+This is really what [Clean Architecture]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}}) explains very well. Good architectures are architectures that can change and adapt.
 
 ![](images/the-clean-architecture.jpg)
 
@@ -85,7 +85,7 @@ This is really what [Clean Architecture](https://www.e4developer.com/2018/07/14/
 
 I don’t want to give you an impression that components are only important for the Clean Architecture as described by Robert C. Martin. In fact, let’s look about some other architectures:
 
-- **Microservices** – *“Small Autonomous services that work together, modelled around a business domain”* ([definition by Sam Newman](https://www.e4developer.com/2018/07/02/microservices-definition/)) – You can see components as microservices here.
+- **Microservices** – *“Small Autonomous services that work together, modelled around a business domain”* ([definition by Sam Newman]({{< ref "/posts/microservices-definition" >}})) – You can see components as microservices here.
 - **Hexagonal Architecture** – *“Hexagonal Architecture is a form of application architecture that promotes the separation of concerns through layers of responsibility.”* ([definition from culttt.com](https://www.culttt.com/2014/12/31/hexagonal-architecture/)) – I can’t see how you can separate concerns and build laters of responsibility without components.
 - **Data, context, and interaction (DCI)** – *“The paradigm separates the domain model (data) from use cases (context) and Roles that objects play (interaction). “* (from [Wikipedia](https://en.wikipedia.org/wiki/Data,_context_and_interaction)) – Separation of different concepts is once again at the heart of the architecture.
 - **Service-oriented architecture (SOA)** – I don’t think I need a quote here. SOA has “components” (as Services) pretty much in the name.

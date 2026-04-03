@@ -17,7 +17,7 @@ TocOpen: false
 
 ![](images/cassette-audiobooks.jpg)
 
-I have blogged about [my road to productivity recently](https://www.e4developer.com/2018/09/02/my-road-to-productivity-start-finishing-and-producing/). I received a comment there from one of my readers asking me if I have a secret weapon that helped me be so productive. While I don’t have a secret weapon strictly for productivity, I realised that I have a secret weapon (or two) for learning. That weapon is simply… Audiobooks!
+I have blogged about [my road to productivity recently]({{< ref "/posts/my-road-to-productivity-start-finishing-and-producing" >}}). I received a comment there from one of my readers asking me if I have a secret weapon that helped me be so productive. While I don’t have a secret weapon strictly for productivity, I realised that I have a secret weapon (or two) for learning. That weapon is simply… Audiobooks!
 
 ## Why Audiobooks?
 
@@ -49,7 +49,7 @@ Ok, so you like the idea of listening to Audiobooks on the go, but where do you 
 
 I could go on here, there are really plenty of books that are great to listen to on the go… Not everything makes for a good audiobook though!
 
-If you want to read more code-oriented material such as “Clean Architecture” ([my review](https://www.e4developer.com/2018/07/14/discovering-clean-architecture-with-uncle-bob/)), “Effective Java” ([my review](https://www.e4developer.com/2018/05/09/effective-java-microservices-require-effective-java/)) or “Cracking the Coding Interview” ([my review](https://www.e4developer.com/2018/06/24/cracking-the-coding-interview-learn-that-and-much-more/)), Audiobook will not work well (or may not even be available).
+If you want to read more code-oriented material such as “Clean Architecture” ([my review]({{< ref "/posts/discovering-clean-architecture-with-uncle-bob" >}})), “Effective Java” ([my review]({{< ref "/posts/effective-java-microservices-require-effective-java" >}})) or “Cracking the Coding Interview” ([my review]({{< ref "/posts/cracking-the-coding-interview-learn-that-and-much-more" >}})), Audiobook will not work well (or may not even be available).
 
 So is there anything that you can do for learning programming on the go? Without a paper book or a laptop?
 
@@ -57,7 +57,7 @@ So is there anything that you can do for learning programming on the go? Without
 
 Of course, there is! The answer is with online courses. I use Pluralsight ([free trial](https://www.e4developer.com/ps-a-free-trial)) on the go and I am currently using it to refresh my JavaScrip knowledge.
 
-I have written previously about [learning programming with Pluralsight](https://www.e4developer.com/2018/08/12/learning-java-spring-microservices-with-pluralsight/) and I really recommend it! This is my second *secret productivity* *weapon*.
+I have written previously about [learning programming with Pluralsight]({{< ref "/posts/learning-java-spring-microservices-with-pluralsight" >}}) and I really recommend it! This is my second *secret productivity* *weapon*.
 
 ## Summary
 
