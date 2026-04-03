@@ -32,4 +32,4 @@ During the presentation, I gave practical advice on:
 
 Unfortunately, there is no recording of the talk, but if you would like to hear it- you can invite me to your meet-up/event. I really enjoy talking about this subject!
 
-In the meantime, you can download the presentation here: [Being a Lead Developer on the Road](https://www.e4developer.com/wp-content/uploads/2018/03/Being-a-Lead-Developer-on-the-Road.pptx)
+In the meantime, you can download the presentation here: [Being a Lead Developer on the Road](/downloads/Being-a-Lead-Developer-on-the-Road.pptx)

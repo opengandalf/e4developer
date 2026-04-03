@@ -19,4 +19,4 @@ If you are interested in the topic, if you would like to introduce choreography 
 
 {{< youtube 1rZQ4e2p-Ig >}}
 
-I have made the slides used for this talk also available. You can download the slides here: [Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx](https://www.e4developer.com/wp-content/uploads/2018/02/Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx)
+I have made the slides used for this talk also available. You can download the slides here: [Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx](/downloads/Practical-Choreography-with-Spring-Cloud-JVM-Roundabout.pptx)
