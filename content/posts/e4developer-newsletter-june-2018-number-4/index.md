@@ -9,7 +9,6 @@ cover:
   alt: "E4developer Newsletter – June 2018 – Number 4"
 aliases:
   - "/2018/06/05/e4developer-newsletter-june-2018-number-4/"
-  - "/e4developer-newsletter-june-2018-number-4/"
 ShowToc: true
 TocOpen: false
 ---Thank you for reading my newsletter. In the last month, I wrote on Java, Microservices and creating amazing teams- as expected! I also wrote my first funny post – [How to write horrible Java]({{< ref "/posts/how-to-write-horrible-java" >}}) that was warmly received. Check it out!

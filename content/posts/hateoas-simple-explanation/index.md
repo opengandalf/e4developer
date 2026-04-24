@@ -9,7 +9,6 @@ cover:
   alt: "HATEOAS - a simple explanation"
 aliases:
   - "/2018/02/16/hateoas-simple-explanation/"
-  - "/hateoas-simple-explanation/"
 ShowToc: true
 TocOpen: false
 ---HATEOAS – Hypermedia as the Engine of Application State, a name long enough to intimidate and confuse. Behind this complicated name we have a rather simple and elegant idea. In this blog post, I explain what HATEOAS is and how it can be practically used to build more stable systems.

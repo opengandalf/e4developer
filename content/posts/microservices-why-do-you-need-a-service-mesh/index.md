@@ -9,7 +9,6 @@ cover:
   alt: "Microservices - Why Do You Need A Service Mesh?"
 aliases:
   - "/2019/05/15/microservices-why-do-you-need-a-service-mesh/"
-  - "/microservices-why-do-you-need-a-service-mesh/"
 ShowToc: true
 TocOpen: false
 ---Working for consultancy, I already had a chance to build microservice based systems in large financial organisations as well as public sector ones. When sharing my experience with other developers, there is one topic that often comes up- many people wished that they had a service mesh from the start! In this article, I will explain what a service mesh is and why is it so useful!

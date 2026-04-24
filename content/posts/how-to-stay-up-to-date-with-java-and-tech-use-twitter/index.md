@@ -9,7 +9,6 @@ cover:
   alt: "How to stay up to date with Java and Tech? Use Twitter!"
 aliases:
   - "/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/"
-  - "/how-to-stay-up-to-date-with-java-and-tech-use-twitter/"
 ShowToc: true
 TocOpen: false
 ---Java, Microservices, other JVM languages… Programming, best practices, architecture… Libraries, frameworks, methodologies… I could go on for a while here. Being a passionate and up to date Software Developer is a challenge. How do you stay up to date with all this? I will let you on a well-known secret- use Twitter! Read on to find out what can Twitter help you with and how I use it to stay up to date.

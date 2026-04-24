@@ -9,7 +9,6 @@ cover:
   alt: "Reddit - the Java goldmine"
 aliases:
   - "/2018/08/05/reddit-the-java-goldmine/"
-  - "/reddit-the-java-goldmine/"
 ShowToc: true
 TocOpen: false
 ---Have you heard of Reddit? It is an amazing place on the Internet, where people share links and ideas. It has also a very active programming community. I visit Reddit daily- you can learn a lot from people there and have some interesting discussion. In this article, I will tell you how I use Reddit and why I consider it so valuable.

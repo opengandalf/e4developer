@@ -9,7 +9,6 @@ cover:
   alt: "WebFlux and servicing client requests - how does it work?"
 aliases:
   - "/2018/04/14/webflux-and-servicing-client-requests-how-does-it-work/"
-  - "/webflux-and-servicing-client-requests-how-does-it-work/"
 ShowToc: true
 TocOpen: false
 ---I have previously written about [Getting Reactive with Spring Boot 2.0 and Reactor]({{< ref "/posts/getting-reactive-with-spring-boot-2-0-and-reactor" >}}), where I have given an introduction to reactive programming in Spring Boot. In this article, I will further explore WebFlux and the ways it impacts servicing client requests- what happens when you return a Flux<>?

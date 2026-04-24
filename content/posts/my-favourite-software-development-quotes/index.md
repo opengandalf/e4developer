@@ -9,7 +9,6 @@ cover:
   alt: "My favourite Software Development Quotes"
 aliases:
   - "/2018/08/10/my-favourite-software-development-quotes/"
-  - "/my-favourite-software-development-quotes/"
 ShowToc: true
 TocOpen: false
 ---*“All problems in computer science can be solved by another level of indirection” –*David Wheeler. In this article, I look at my favourite quotes relating to software development and what we can learn from them.

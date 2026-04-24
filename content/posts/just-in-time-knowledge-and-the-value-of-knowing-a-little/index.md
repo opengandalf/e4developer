@@ -9,7 +9,6 @@ cover:
   alt: "“Just in time knowledge” and the value of knowing a little"
 aliases:
   - "/2019/02/20/just-in-time-knowledge-and-the-value-of-knowing-a-little/"
-  - "/just-in-time-knowledge-and-the-value-of-knowing-a-little/"
 ShowToc: true
 TocOpen: false
 ---To be a good software developer you need to know some things very well. You can’t get away without actually knowing your programming language of choice, or learning good software development practices. Beside mastering some skills, you should also have a large amount of general, high-level knowledge. This blog post is about this knowledge.

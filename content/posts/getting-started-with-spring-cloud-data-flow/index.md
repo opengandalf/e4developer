@@ -9,7 +9,6 @@ cover:
   alt: "Getting Started with Spring Cloud Data Flow"
 aliases:
   - "/2018/02/18/getting-started-with-spring-cloud-data-flow/"
-  - "/getting-started-with-spring-cloud-data-flow/"
 ShowToc: true
 TocOpen: false
 ---In this article, I will show you how you can get started with Spring Cloud Data Flow. Spring Cloud Data Flow is an amazing platform for building data integration and processing pipelines. It has a very user-friendly graphical dashboard where you can define your streams, making your work with data an absolute pleasure.

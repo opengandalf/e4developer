@@ -9,7 +9,6 @@ cover:
   alt: "E4developer is growing - “Start Here” and more to come"
 aliases:
   - "/2018/06/26/e4developer-is-growing-start-here-and-more-to-come/"
-  - "/e4developer-is-growing-start-here-and-more-to-come/"
 ShowToc: true
 TocOpen: false
 ---It is hard to believe (mostly for myself) that I have already written 60 articles on this blog.

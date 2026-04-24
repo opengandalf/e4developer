@@ -9,7 +9,6 @@ cover:
   alt: "Making your machine learning idea real with AWS"
 aliases:
   - "/2018/11/11/making-your-machine-learning-idea-real-with-aws/"
-  - "/making-your-machine-learning-idea-real-with-aws/"
 ShowToc: true
 TocOpen: false
 ---Machine Learning and its applications are getting more popular every day. For many developers, building a machine learning powered application seems like a daunting task- all this learning, data collection, and computing power needed! In reality, it is not as difficult as it sounds- as long as you harness *“the power of the Cloud”…*

@@ -9,7 +9,6 @@ cover:
   alt: "My favourite Design Pattern - Strategy"
 aliases:
   - "/2018/10/14/my-favourite-design-pattern-strategy/"
-  - "/my-favourite-design-pattern-strategy/"
 ShowToc: true
 TocOpen: false
 ---Among many OOP design patterns described, the one that influenced my development the most is the Strategy Pattern. In this article, I will briefly explain what the Strategy Pattern is and why it is so important.

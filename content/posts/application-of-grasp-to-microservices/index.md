@@ -9,7 +9,6 @@ cover:
   alt: "Application of GRASP to Microservices"
 aliases:
   - "/2018/02/13/application-of-grasp-to-microservices/"
-  - "/application-of-grasp-to-microservices/"
 ShowToc: true
 TocOpen: false
 ---GRASP stands for General responsibility assignment software patterns. You might have heard of it before, or you might not. Either way, you might not have thought about how these principles can potentially help when deciding your responsibilities assignments in a microservices architecture. Craig Larman in his book [Applying UML and Patterns](http://amzn.to/2EykJaH) said that the *“desert island skill”*, the most important skill to have in Object Oriented Analysis/Design would be: *“to skillfully assign responsibilities to software objects”.*I think there is some truth to this when thinking about the most important microservices skill as well. Lets look at GRASP through the prism of microservices.

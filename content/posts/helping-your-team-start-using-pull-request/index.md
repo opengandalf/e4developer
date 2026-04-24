@@ -9,7 +9,6 @@ cover:
   alt: "Helping your team - Start using pull request"
 aliases:
   - "/2018/01/15/helping-your-team-start-using-pull-request/"
-  - "/helping-your-team-start-using-pull-request/"
 ShowToc: true
 TocOpen: false
 ---For these teams already using pull requests (or merge requests as they are sometimes known), this advice seems trivial. For the teams that do not use them- it may not be so simple. Let me explain why you need and how to get started.

@@ -9,7 +9,6 @@ cover:
   alt: "Seven Essential Skills for Microservices Developers"
 aliases:
   - "/2018/01/25/seven-essential-skills-for-microservices-developers/"
-  - "/seven-essential-skills-for-microservices-developers/"
 ShowToc: true
 TocOpen: false
 ---Microservices are gaining popularity and more developers end up working with them. If you are a developer who is going to work with microservices architecture, or an employer who is looking to hire someone- what are the most important skills for microservices developer to posses? Read on to find out.

@@ -9,7 +9,6 @@ cover:
   alt: "Handling bad messages with RabbitMQ and Spring Cloud Stream"
 aliases:
   - "/2018/02/05/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/"
-  - "/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false
 ---When dealing with messaging in a distributed system, it is crucial to have a good method of handling bad messages. In complicated systems, messages that are either wrong, or general failures when consuming messages are unavoidable. See how you can deal with this problem using Dead Letter Queues, RabbitMQ and Spring Boot Cloud.

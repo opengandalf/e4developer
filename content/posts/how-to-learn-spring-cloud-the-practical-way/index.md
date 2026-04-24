@@ -9,7 +9,6 @@ cover:
   alt: "How to learn Spring Cloud - the practical way"
 aliases:
   - "/2018/03/06/how-to-learn-spring-cloud-the-practical-way/"
-  - "/how-to-learn-spring-cloud-the-practical-way/"
 ShowToc: true
 TocOpen: false
 ---I have recently spoken at a meetup about [Practical Choreography with Spring Cloud Stream]({{< ref "/posts/practical-choreography-with-spring-cloud-presentation" >}}). It was a great event where I was asked many questions after the talk. One question got me thinking: *“What book about Spring Cloud do you recommend?”*which as it turns out boils down to *“How do you learn Spring Cloud?”.* I heard that question posed a few times before in different ways. Here, I will give you my answer on what I think is the best way of learning Spring Cloud.

@@ -9,7 +9,6 @@ cover:
   alt: "Helping your team - Draw together!"
 aliases:
   - "/2018/01/13/helping-your-team-draw-together/"
-  - "/helping-your-team-draw-together/"
 ShowToc: true
 TocOpen: false
 ---I love working as a part of a great software development team. Thanks to my job, I also have a chance to lead such teams. In this series of blog posts titled *Helping your team*I would like to explore different ideas and techniques to make sure that the team you are part of is performing at its best!

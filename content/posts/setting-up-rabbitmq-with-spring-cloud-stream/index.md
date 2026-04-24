@@ -9,7 +9,6 @@ cover:
   alt: "Setting up RabbitMQ with Spring Cloud Stream"
 aliases:
   - "/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/"
-  - "/setting-up-rabbitmq-with-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false
 ---Message queues are very important and useful tools that you can utilize for your Microservices oriented architecture. Many developers are hesitant using them with the fear that they may add too much complexity and learning curve to the understanding of their system. I will show you how to make use of RabbitMQ and Spring Cloud Stream to get some basic messaging routes set-up with a very little effort!

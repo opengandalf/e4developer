@@ -9,7 +9,6 @@ cover:
   alt: "My Family Chess Collection"
 aliases:
   - "/2018/07/29/my-family-chess-collection/"
-  - "/my-family-chess-collection/"
 ShowToc: true
 TocOpen: false
 ---You may know that playing chess is my passion. The name of this website- *E4developer* comes from the chess move I start my games with – e4.

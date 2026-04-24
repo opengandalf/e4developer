@@ -9,7 +9,6 @@ cover:
   alt: "E4developer Newsletter – July 2018 – Number 5"
 aliases:
   - "/2018/07/21/e4developer-newsletter-july-2018-number-5/"
-  - "/e4developer-newsletter-july-2018-number-5/"
 ShowToc: true
 TocOpen: false
 ---Thank you for reading my newsletter. I have some exciting news to share with you!

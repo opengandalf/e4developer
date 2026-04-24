@@ -9,7 +9,6 @@ cover:
   alt: "Microservices Toolbox - Docker"
 aliases:
   - "/2018/01/18/microservices-toolbox-docker/"
-  - "/microservices-toolbox-docker/"
 ShowToc: true
 TocOpen: false
 ---If you want to get into microservices development, you will want to run multiple things on your machine. Having services, databases, message brokers etc. all working on your machine without conflicts may be very difficult. Docker solves this problem beautifully.

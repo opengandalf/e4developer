@@ -9,7 +9,6 @@ cover:
   alt: "How to be a good Scrum Master? Start with this book!"
 aliases:
   - "/2018/08/24/how-to-be-a-good-scrum-master-start-with-this-book/"
-  - "/how-to-be-a-good-scrum-master-start-with-this-book/"
 ShowToc: true
 TocOpen: false
 ---*“Scrum Mastery: From Good To Great Servant-Leadership” –*a book that I picked up recently based on it being the number one selling book about Agile Methodologies (from Amazon). I also wanted a fresh view on that role, given that I work in a Scrum team myself. Was it worth my time? Definitely!

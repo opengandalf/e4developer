@@ -9,7 +9,6 @@ cover:
   alt: "How to easily run Kafka with Docker for Development"
 aliases:
   - "/2018/05/20/how-to-easily-run-kafka-with-docker-for-development/"
-  - "/how-to-easily-run-kafka-with-docker-for-development/"
 ShowToc: true
 TocOpen: false
 ---Kafka is becoming a popular addition to microservice oriented architectures. Despite its popularity, it may be tricky to run it on your development machine- especially if you run Windows. In this short article, I will show you a simple way to run Kafka locally with Docker.

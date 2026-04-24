@@ -9,7 +9,6 @@ cover:
   alt: "Java Enterprise and Microservices - meet Microprofile!"
 aliases:
   - "/2018/01/21/java-enterprise-and-microservices-meet-microprofile/"
-  - "/java-enterprise-and-microservices-meet-microprofile/"
 ShowToc: true
 TocOpen: false
 ---It seems that just recently majority of server-side development was done  with some flavor of Enterprise Java. Who can forget J2EE, or JEE, writing all these JSP, JSF and Struts applications. It also feels that over the past few years there is less and less happening in that space. New projects are regularly picking alternative technologies and release and  the release of JEE 8 did not have the same impact as Spring Boot or Microservices in general. Microprofile is an attempt to change that. Microprofile is the Enterprise Java answer to Microservices.![](images/microprofile.png?resize=714%2C252&ssl=1)

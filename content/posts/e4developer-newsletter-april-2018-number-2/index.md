@@ -9,7 +9,6 @@ cover:
   alt: "E4developer Newsletter - April 2018 - Number 2"
 aliases:
   - "/2018/04/08/e4developer-newsletter-april-2018-number-2/"
-  - "/e4developer-newsletter-april-2018-number-2/"
 ShowToc: true
 TocOpen: false
 ---Thank you for reading my newsletter. I have sent the [previous newsletter]({{< ref "/posts/e4developer-newsletter-february-2018-number-1" >}}) on the 1st of March and I decided to send these on a monthly basis. Expect the next one in May.

@@ -9,7 +9,6 @@ cover:
   alt: "Spring Cloud - Blueprint for Successful Microservices"
 aliases:
   - "/2018/01/22/spring-cloud-blueprint-for-successful-microservices/"
-  - "/spring-cloud-blueprint-for-successful-microservices/"
 ShowToc: true
 TocOpen: false
 ---If you are interested in building Microservices in the JVM ecosystem- you have to check out Spring Cloud. Spring Cloud is a project which goal is to make Microservices architecture and patterns simple and practical to use. Spring Boot provides opinionated way of making a Microservice, Spring Cloud gives you an opinionated framework for getting your architecture around them.

@@ -9,7 +9,6 @@ cover:
   alt: "How to learn AWS"
 aliases:
   - "/2018/10/20/how-to-learn-aws/"
-  - "/how-to-learn-aws/"
 ShowToc: true
 TocOpen: false
 ---Amazon Web Services (AWS) is the most popular Cloud solution out there. More and more companies are using it every day. It makes development easier, safer, cheaper and better. Since it is becoming an expectation for backend developers to be familiar with AWS (or other Cloud solutions) I compiled here some of the best resources and ideas for learning it.

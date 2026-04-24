@@ -9,7 +9,6 @@ cover:
   alt: "Journey to DevOps - Talk at the DevOps Roundabout"
 aliases:
   - "/2019/10/03/journey-to-devops-talk-at-the-devops-roundabout/"
-  - "/journey-to-devops-talk-at-the-devops-roundabout/"
 ShowToc: true
 TocOpen: false
 ---On the 24th of September 2019, I had an opportunity to speak at the very first [DevOps Roundabout](https://www.meetup.com/The-DevOps-Roundabout/) meetup in London. You can [watch my talk on YouTube](https://www.youtube.com/watch?v=EGTMkZkPhF8).

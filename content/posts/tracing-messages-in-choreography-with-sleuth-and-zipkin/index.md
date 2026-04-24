@@ -9,7 +9,6 @@ cover:
   alt: "Tracing messages in Choreography with Sleuth and Zipkin"
 aliases:
   - "/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/"
-  - "/tracing-messages-in-choreography-with-sleuth-and-zipkin/"
 ShowToc: true
 TocOpen: false
 ---One of the challenges in building distributed system is having a good visibility of what is happening inside them. This challenge is only magnified when dealing with choreography- microservices, loosely coupled, communicating via messaging. In this article you will see how Sleuth and Zipkin help to solve that problem.

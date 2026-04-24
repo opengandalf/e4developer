@@ -9,7 +9,6 @@ cover:
   alt: "Adopting Microservices - Pragmatic Advice"
 aliases:
   - "/2018/05/25/adopting-microservices-pragmatic-advice/"
-  - "/adopting-microservices-pragmatic-advice/"
 ShowToc: true
 TocOpen: false
 ---Your company wants to adopt microservices. You are either really happy or terrified. A change like this can be great for those wanting to learn and improve their systems, but it does not come without its perils. If you want to be successful you will have to be pragmatic…
