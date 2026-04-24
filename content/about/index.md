@@ -4,6 +4,8 @@ date: 2018-01-01T00:00:00Z
 draft: false
 ShowToc: false
 hidemeta: true
+aliases:
+  - "/start-here/"
 ---
 
 <div class="about-hero">
