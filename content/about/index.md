@@ -7,6 +7,7 @@ ShowToc: false
 hidemeta: true
 aliases:
   - "/start-here/"
+  - "/author/jedrus07/"
 ---
 
 <div class="about-hero">
