@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "E4developer Newsletter - April 2018 - Number 2"
 aliases:
+  - /e4developer-newsletter-april-2018-number-2/
   - "/2018/04/08/e4developer-newsletter-april-2018-number-2/"
 ShowToc: true
 TocOpen: false

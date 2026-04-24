@@ -8,6 +8,7 @@ cover:
   image: "images/the-key.jpg"
   alt: "The Key to a Successful Software Architecture"
 aliases:
+  - /the-key-to-a-successful-software-architecture/
   - "/2018/07/21/the-key-to-a-successful-software-architecture/"
 ShowToc: true
 TocOpen: false

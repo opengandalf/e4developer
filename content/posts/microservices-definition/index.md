@@ -8,6 +8,7 @@ cover:
   image: "images/definition.jpg"
   alt: "Microservices Definition"
 aliases:
+  - /microservices-definition/
   - "/2018/07/02/microservices-definition/"
 ShowToc: true
 TocOpen: false

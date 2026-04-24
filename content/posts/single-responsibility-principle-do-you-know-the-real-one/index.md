@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Single Responsibility Principle - do you know the real one?"
 aliases:
+  - /single-responsibility-principle-do-you-know-the-real-one/
   - "/2018/10/04/single-responsibility-principle-do-you-know-the-real-one/"
 ShowToc: true
 TocOpen: false

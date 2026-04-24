@@ -8,6 +8,7 @@ cover:
   image: "images/jvm-roundabout.jpg"
   alt: "Practical Choreography with Spring Cloud - Presentation"
 aliases:
+  - /practical-choreography-with-spring-cloud-presentation/
   - "/2018/02/20/practical-choreography-with-spring-cloud-presentation/"
 ShowToc: true
 TocOpen: false

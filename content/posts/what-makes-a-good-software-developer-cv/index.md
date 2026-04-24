@@ -8,6 +8,7 @@ cover:
   image: "images/developer-cv.jpg"
   alt: "What makes a good software developer CV?"
 aliases:
+  - /what-makes-a-good-software-developer-cv/
   - "/2019/01/26/what-makes-a-good-software-developer-cv/"
 ShowToc: true
 TocOpen: false

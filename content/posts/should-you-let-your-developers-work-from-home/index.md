@@ -8,6 +8,7 @@ cover:
   image: "images/home-working.jpg"
   alt: "Should you let your developers work from home?"
 aliases:
+  - /should-you-let-your-developers-work-from-home/
   - "/2018/10/14/should-you-let-your-developers-work-from-home/"
 ShowToc: true
 TocOpen: false

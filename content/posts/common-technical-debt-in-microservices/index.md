@@ -8,6 +8,7 @@ cover:
   image: "images/old-machine.jpg"
   alt: "Common Technical Debt in Microservices"
 aliases:
+  - /common-technical-debt-in-microservices/
   - "/2018/02/11/common-technical-debt-in-microservices/"
 ShowToc: true
 TocOpen: false

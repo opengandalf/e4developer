@@ -8,6 +8,7 @@ cover:
   image: "images/cracking-the-coding-interview.jpg"
   alt: "“Cracking the Coding Interview” - learn that and much more!"
 aliases:
+  - /cracking-the-coding-interview-learn-that-and-much-more/
   - "/2018/06/24/cracking-the-coding-interview-learn-that-and-much-more/"
 ShowToc: true
 TocOpen: false

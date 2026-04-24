@@ -8,6 +8,7 @@ cover:
   image: "images/how-to-learn-aws.jpg"
   alt: "How to learn AWS"
 aliases:
+  - /how-to-learn-aws/
   - "/2018/10/20/how-to-learn-aws/"
 ShowToc: true
 TocOpen: false

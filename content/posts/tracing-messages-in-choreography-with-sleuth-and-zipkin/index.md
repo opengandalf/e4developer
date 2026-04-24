@@ -8,6 +8,7 @@ cover:
   image: "images/zipkin-cloud.png"
   alt: "Tracing messages in Choreography with Sleuth and Zipkin"
 aliases:
+  - /tracing-messages-in-choreography-with-sleuth-and-zipkin/
   - "/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/"
 ShowToc: true
 TocOpen: false

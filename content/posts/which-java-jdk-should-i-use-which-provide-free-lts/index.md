@@ -8,6 +8,7 @@ cover:
   image: "images/which-java.jpg"
   alt: "Which Java JDK should I use? Which provide free LTS?"
 aliases:
+  - /which-java-jdk-should-i-use-which-provide-free-lts/
   - "/2019/03/30/which-java-jdk-should-i-use-which-provide-free-lts/"
 ShowToc: true
 TocOpen: false

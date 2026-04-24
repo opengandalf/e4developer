@@ -8,6 +8,7 @@ cover:
   image: "images/service-mesh.jpg"
   alt: "Microservices - Why Do You Need A Service Mesh?"
 aliases:
+  - /microservices-why-do-you-need-a-service-mesh/
   - "/2019/05/15/microservices-why-do-you-need-a-service-mesh/"
 ShowToc: true
 TocOpen: false

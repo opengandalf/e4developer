@@ -8,6 +8,7 @@ cover:
   image: "images/pluralsight-logo.jpg"
   alt: "Learning Java / Spring / Microservices with Pluralsight"
 aliases:
+  - /learning-java-spring-microservices-with-pluralsight/
   - "/2018/08/12/learning-java-spring-microservices-with-pluralsight/"
 ShowToc: true
 TocOpen: false

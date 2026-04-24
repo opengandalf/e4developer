@@ -8,6 +8,7 @@ cover:
   image: "images/s1p-logo.png"
   alt: "Spring Cloud Data Flow - Use Cases"
 aliases:
+  - /spring-cloud-data-flow-use-cases/
   - "/2018/02/28/spring-cloud-data-flow-use-cases/"
 ShowToc: true
 TocOpen: false

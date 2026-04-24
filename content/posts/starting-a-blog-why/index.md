@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Starting a blog - why?"
 aliases:
+  - /starting-a-blog-why/
   - "/2018/01/13/starting-a-blog-why/"
 ShowToc: true
 TocOpen: false

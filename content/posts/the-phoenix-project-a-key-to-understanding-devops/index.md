@@ -8,6 +8,7 @@ cover:
   image: "images/phoenix-project.png"
   alt: "The Phoenix Project - a key to understanding DevOps"
 aliases:
+  - /the-phoenix-project-a-key-to-understanding-devops/
   - "/2018/03/24/the-phoenix-project-a-key-to-understanding-devops/"
 ShowToc: true
 TocOpen: false

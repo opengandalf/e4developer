@@ -8,6 +8,7 @@ cover:
   image: "images/leadership-word.jpg"
   alt: "Leading developers vs managing them"
 aliases:
+  - /leading-developers-vs-managing-them/
   - "/2018/10/21/leading-developers-vs-managing-them/"
 ShowToc: true
 TocOpen: false

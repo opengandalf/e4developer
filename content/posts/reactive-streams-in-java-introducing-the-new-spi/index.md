@@ -8,6 +8,7 @@ cover:
   image: "images/reactive-streams.png"
   alt: "Reactive Streams in Java - introducing the new SPI"
 aliases:
+  - /reactive-streams-in-java-introducing-the-new-spi/
   - "/2018/04/04/reactive-streams-in-java-introducing-the-new-spi/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/redis-microservices.jpg"
   alt: "Using Redis in Microservices Architecture"
 aliases:
+  - /using-redis-in-microservices-architecture/
   - "/2018/08/03/using-redis-in-microservices-architecture/"
 ShowToc: true
 TocOpen: false

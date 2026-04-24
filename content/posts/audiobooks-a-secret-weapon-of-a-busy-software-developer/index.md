@@ -8,6 +8,7 @@ cover:
   image: "images/cassette-audiobooks.jpg"
   alt: "Audiobooks - a secret weapon of a busy software developer"
 aliases:
+  - /audiobooks-a-secret-weapon-of-a-busy-software-developer/
   - "/2018/09/14/audiobooks-a-secret-weapon-of-a-busy-software-developer/"
 ShowToc: true
 TocOpen: false

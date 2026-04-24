@@ -8,6 +8,7 @@ cover:
   image: "images/webflux-service.png"
   alt: "WebFlux in practice - asynchronous service with WebClient"
 aliases:
+  - /webflux-in-practice-asynchronous-service-with-webclient/
   - "/2018/05/31/webflux-in-practice-asynchronous-service-with-webclient/"
 ShowToc: true
 TocOpen: false

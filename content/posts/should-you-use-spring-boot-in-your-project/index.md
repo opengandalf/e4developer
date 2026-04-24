@@ -8,6 +8,7 @@ cover:
   image: "images/should-you-use-spring-boot.jpg"
   alt: "Should you use Spring Boot in your project?"
 aliases:
+  - /should-you-use-spring-boot-in-your-project/
   - "/2018/09/24/should-you-use-spring-boot-in-your-project/"
 ShowToc: true
 TocOpen: false

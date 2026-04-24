@@ -8,6 +8,7 @@ cover:
   image: "images/spring-cloud-logo.png"
   alt: "Spring Cloud - Blueprint for Successful Microservices"
 aliases:
+  - /spring-cloud-blueprint-for-successful-microservices/
   - "/2018/01/22/spring-cloud-blueprint-for-successful-microservices/"
 ShowToc: true
 TocOpen: false

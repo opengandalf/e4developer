@@ -1,6 +1,8 @@
 ---
 title: "How I Built a D&D Combat Simulator in Three Weeks"
 date: 2026-04-23T23:00:00Z
+aliases:
+  - /how-i-built-a-dnd-combat-simulator/
 draft: false
 description: "I kept asking LLMs who would win D&D battles. They kept getting it wrong. So I built BattleCast - a grid-based 5e combat simulator with 317 monsters, 12 hero classes, and 10,000-trial Monte Carlo. It hit #1 on r/dndnext."
 categories: ["Side Projects", "AI"]

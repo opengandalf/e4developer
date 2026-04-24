@@ -8,6 +8,7 @@ cover:
   image: "images/aws-machine-learning.jpg"
   alt: "Making your machine learning idea real with AWS"
 aliases:
+  - /making-your-machine-learning-idea-real-with-aws/
   - "/2018/11/11/making-your-machine-learning-idea-real-with-aws/"
 ShowToc: true
 TocOpen: false

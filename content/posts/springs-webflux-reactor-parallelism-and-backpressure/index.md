@@ -8,6 +8,7 @@ cover:
   image: "images/pressure.jpg"
   alt: "Spring’s WebFlux / Reactor Parallelism and Backpressure"
 aliases:
+  - /springs-webflux-reactor-parallelism-and-backpressure/
   - "/2018/04/28/springs-webflux-reactor-parallelism-and-backpressure/"
 ShowToc: true
 TocOpen: false

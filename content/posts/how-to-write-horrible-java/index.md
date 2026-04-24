@@ -8,6 +8,7 @@ cover:
   image: "images/horrible-java.jpg"
   alt: "How to write horrible Java"
 aliases:
+  - /how-to-write-horrible-java/
   - "/2018/05/13/how-to-write-horrible-java/"
 ShowToc: true
 TocOpen: false

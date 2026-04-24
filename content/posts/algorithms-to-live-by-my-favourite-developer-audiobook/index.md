@@ -8,6 +8,7 @@ cover:
   image: "images/algorithms-book.jpg"
   alt: "“Algorithms to Live By” - My Favourite Developer Audiobook"
 aliases:
+  - /algorithms-to-live-by-my-favourite-developer-audiobook/
   - "/2018/10/03/algorithms-to-live-by-my-favourite-developer-audiobook/"
 ShowToc: true
 TocOpen: false

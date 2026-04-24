@@ -8,6 +8,7 @@ cover:
   image: "images/spring-boot-2-1024x277.jpg"
   alt: "What you need to know about Spring Boot 2.0 (RC1)"
 aliases:
+  - /what-you-need-to-know-about-spring-boot-2-0-rc1/
   - "/2018/01/31/what-you-need-to-know-about-spring-boot-2-0-rc1/"
 ShowToc: true
 TocOpen: false

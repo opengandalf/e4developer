@@ -8,6 +8,7 @@ cover:
   image: "images/nice-architecture.jpg"
   alt: "Technical Architects - the role, the job and the value"
 aliases:
+  - /technical-architects-the-role-the-job-and-the-value/
   - "/2018/06/30/technical-architects-the-role-the-job-and-the-value/"
 ShowToc: true
 TocOpen: false

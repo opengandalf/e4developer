@@ -8,6 +8,7 @@ cover:
   image: "images/simulating-secreatary-problem.jpg"
   alt: "Simulating the Secretary Problem with Java"
 aliases:
+  - /simulating-the-secretary-problem-with-java/
   - "/2018/09/09/simulating-the-secretary-problem-with-java/"
 ShowToc: true
 TocOpen: false

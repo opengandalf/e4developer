@@ -8,6 +8,7 @@ cover:
   image: "images/effective-java.jpg"
   alt: "Effective Java Microservices require Effective Java"
 aliases:
+  - /effective-java-microservices-require-effective-java/
   - "/2018/05/09/effective-java-microservices-require-effective-java/"
 ShowToc: true
 TocOpen: false

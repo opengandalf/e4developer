@@ -8,6 +8,7 @@ cover:
   image: "images/docker-dataflow.jpg"
   alt: "Quick setup for Spring Cloud Data Flow with Docker Compose"
 aliases:
+  - /quick-setup-for-spring-cloud-data-flow-with-docker-compose/
   - "/2018/05/02/quick-setup-for-spring-cloud-data-flow-with-docker-compose/"
 ShowToc: true
 TocOpen: false

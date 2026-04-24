@@ -8,6 +8,7 @@ cover:
   image: "images/loops.jpg"
   alt: "Please, stop writing so many “for loops” in Java!"
 aliases:
+  - /please-stop-writing-so-many-for-loops-in-java/
   - "/2018/09/15/please-stop-writing-so-many-for-loops-in-java/"
 ShowToc: true
 TocOpen: false

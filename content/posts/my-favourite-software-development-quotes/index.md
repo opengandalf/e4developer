@@ -8,6 +8,7 @@ cover:
   image: "images/programming-quotes.jpg"
   alt: "My favourite Software Development Quotes"
 aliases:
+  - /my-favourite-software-development-quotes/
   - "/2018/08/10/my-favourite-software-development-quotes/"
 ShowToc: true
 TocOpen: false

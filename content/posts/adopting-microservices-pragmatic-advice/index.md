@@ -8,6 +8,7 @@ cover:
   image: "images/practical.jpg"
   alt: "Adopting Microservices - Pragmatic Advice"
 aliases:
+  - /adopting-microservices-pragmatic-advice/
   - "/2018/05/25/adopting-microservices-pragmatic-advice/"
 ShowToc: true
 TocOpen: false

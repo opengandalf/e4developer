@@ -8,6 +8,7 @@ cover:
   image: "images/100-blog-posts.jpg"
   alt: "I wrote 100 blog posts in 2018 - how it went and what’s next?"
 aliases:
+  - /i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next/
   - "/2018/12/15/i-wrote-100-blog-posts-in-2018-how-it-went-and-whats-next/"
 ShowToc: true
 TocOpen: false

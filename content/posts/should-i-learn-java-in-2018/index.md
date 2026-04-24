@@ -8,6 +8,7 @@ cover:
   image: "images/learn-java.jpg"
   alt: "Should I Learn Java in 2018"
 aliases:
+  - /should-i-learn-java-in-2018/
   - "/2018/06/09/should-i-learn-java-in-2018/"
 ShowToc: true
 TocOpen: false

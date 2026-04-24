@@ -8,6 +8,7 @@ cover:
   image: "images/e4laptop-scaled.jpg"
   alt: "E4developer, Facebook, chess and life in 2020"
 aliases:
+  - /e4developer-facebook-chess-and-life-in-2020/
   - "/2020/05/03/e4developer-facebook-chess-and-life-in-2020/"
 ShowToc: true
 TocOpen: false

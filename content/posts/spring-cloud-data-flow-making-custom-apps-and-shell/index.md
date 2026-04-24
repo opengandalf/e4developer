@@ -8,6 +8,7 @@ cover:
   image: "images/Spring-Cloud-Data-Flow-Shell.png"
   alt: "Spring Cloud Data Flow - Making Custom Apps and Using Shell"
 aliases:
+  - /spring-cloud-data-flow-making-custom-apps-and-shell/
   - "/2018/02/23/spring-cloud-data-flow-making-custom-apps-and-shell/"
 ShowToc: true
 TocOpen: false

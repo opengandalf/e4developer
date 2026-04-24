@@ -8,6 +8,7 @@ cover:
   image: "images/rabbit-spring-cloud-1024x254.jpg"
   alt: "Setting up RabbitMQ with Spring Cloud Stream"
 aliases:
+  - /setting-up-rabbitmq-with-spring-cloud-stream/
   - "/2018/01/28/setting-up-rabbitmq-with-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false

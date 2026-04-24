@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Application of GRASP to Microservices"
 aliases:
+  - /application-of-grasp-to-microservices/
   - "/2018/02/13/application-of-grasp-to-microservices/"
 ShowToc: true
 TocOpen: false

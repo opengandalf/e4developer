@@ -8,6 +8,7 @@ cover:
   image: "images/java-surprises.jpg"
   alt: "Java surprises - Unexpected behaviours and features"
 aliases:
+  - /java-surprises-unexpected-behaviours-and-features/
   - "/2018/10/28/java-surprises-unexpected-behaviours-and-features/"
 ShowToc: true
 TocOpen: false

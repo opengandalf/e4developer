@@ -8,6 +8,7 @@ cover:
   image: "images/all-the-ops.png"
   alt: "Quick Guide to all the “Ops”"
 aliases:
+  - /quick-guide-to-all-the-ops/
   - "/2019/05/02/quick-guide-to-all-the-ops/"
 ShowToc: true
 TocOpen: false

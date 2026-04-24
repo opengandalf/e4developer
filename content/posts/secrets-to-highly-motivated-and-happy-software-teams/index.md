@@ -8,6 +8,7 @@ cover:
   image: "images/happy-teams.jpg"
   alt: "Secrets to Highly Motivated and Happy Software Teams"
 aliases:
+  - /secrets-to-highly-motivated-and-happy-software-teams/
   - "/2018/06/04/secrets-to-highly-motivated-and-happy-software-teams/"
 ShowToc: true
 TocOpen: false

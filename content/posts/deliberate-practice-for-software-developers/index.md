@@ -8,6 +8,7 @@ cover:
   image: "images/deliberate-practice.jpeg"
   alt: "Deliberate Practice for Software Developers"
 aliases:
+  - /deliberate-practice-for-software-developers/
   - "/2019/01/14/deliberate-practice-for-software-developers/"
 ShowToc: true
 TocOpen: false

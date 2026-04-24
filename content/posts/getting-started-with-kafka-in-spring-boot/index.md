@@ -8,6 +8,7 @@ cover:
   image: "images/spring-kafka-e1526944467487.jpg"
   alt: "Getting Started with Kafka in Spring Boot"
 aliases:
+  - /getting-started-with-kafka-in-spring-boot/
   - "/2018/05/21/getting-started-with-kafka-in-spring-boot/"
 ShowToc: true
 TocOpen: false

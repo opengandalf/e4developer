@@ -8,6 +8,7 @@ cover:
   image: "images/the-clean-architecture.jpg"
   alt: "Discovering “Clean Architecture” with Uncle Bob"
 aliases:
+  - /discovering-clean-architecture-with-uncle-bob/
   - "/2018/07/14/discovering-clean-architecture-with-uncle-bob/"
 ShowToc: true
 TocOpen: false

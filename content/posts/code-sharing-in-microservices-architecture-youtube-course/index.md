@@ -8,6 +8,7 @@ cover:
   image: "images/code-sharing-video-course.jpg"
   alt: "Code Sharing in Microservices Architecture - YouTube Course"
 aliases:
+  - /code-sharing-in-microservices-architecture-youtube-course/
   - "/2019/06/21/code-sharing-in-microservices-architecture-youtube-course/"
 ShowToc: true
 TocOpen: false

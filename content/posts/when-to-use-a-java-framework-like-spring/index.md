@@ -8,6 +8,7 @@ cover:
   image: "images/leaves.jpg"
   alt: "When to use a Java framework like Spring?"
 aliases:
+  - /when-to-use-a-java-framework-like-spring/
   - "/2018/07/29/when-to-use-a-java-framework-like-spring/"
 ShowToc: true
 TocOpen: false

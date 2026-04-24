@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Microservices - Five benefits from the developer perspective"
 aliases:
+  - /microservices-five-benefits-from-the-developer-perspective/
   - "/2018/01/14/microservices-five-benefits-from-the-developer-perspective/"
 ShowToc: true
 TocOpen: false

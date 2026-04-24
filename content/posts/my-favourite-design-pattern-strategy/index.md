@@ -8,6 +8,7 @@ cover:
   image: "images/strategy-pattern.png"
   alt: "My favourite Design Pattern - Strategy"
 aliases:
+  - /my-favourite-design-pattern-strategy/
   - "/2018/10/14/my-favourite-design-pattern-strategy/"
 ShowToc: true
 TocOpen: false

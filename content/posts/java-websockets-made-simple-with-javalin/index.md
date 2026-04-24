@@ -8,6 +8,7 @@ cover:
   image: "images/websockets.jpg"
   alt: "Java WebSockets made simple with Javalin"
 aliases:
+  - /java-websockets-made-simple-with-javalin/
   - "/2018/04/26/java-websockets-made-simple-with-javalin/"
 ShowToc: true
 TocOpen: false

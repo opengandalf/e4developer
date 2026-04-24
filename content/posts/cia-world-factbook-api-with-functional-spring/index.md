@@ -8,6 +8,7 @@ cover:
   image: "images/world-factbook.jpg"
   alt: "CIA World Factbook API with Functional Spring"
 aliases:
+  - /cia-world-factbook-api-with-functional-spring/
   - "/2018/06/22/cia-world-factbook-api-with-functional-spring/"
 ShowToc: true
 TocOpen: false

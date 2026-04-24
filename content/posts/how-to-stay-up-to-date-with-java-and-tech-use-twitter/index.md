@@ -8,6 +8,7 @@ cover:
   image: "images/java-twitter-profile.jpg"
   alt: "How to stay up to date with Java and Tech? Use Twitter!"
 aliases:
+  - /how-to-stay-up-to-date-with-java-and-tech-use-twitter/
   - "/2018/04/22/how-to-stay-up-to-date-with-java-and-tech-use-twitter/"
 ShowToc: true
 TocOpen: false

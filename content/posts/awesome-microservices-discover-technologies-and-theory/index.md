@@ -8,6 +8,7 @@ cover:
   image: "images/awesome.jpg"
   alt: "“Awesome Microservices” - discover technologies and theory"
 aliases:
+  - /awesome-microservices-discover-technologies-and-theory/
   - "/2018/07/15/awesome-microservices-discover-technologies-and-theory/"
 ShowToc: true
 TocOpen: false

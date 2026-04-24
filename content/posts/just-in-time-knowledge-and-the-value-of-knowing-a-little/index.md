@@ -8,6 +8,7 @@ cover:
   image: "images/just-in-time-knowledge.jpg"
   alt: "“Just in time knowledge” and the value of knowing a little"
 aliases:
+  - /just-in-time-knowledge-and-the-value-of-knowing-a-little/
   - "/2019/02/20/just-in-time-knowledge-and-the-value-of-knowing-a-little/"
 ShowToc: true
 TocOpen: false

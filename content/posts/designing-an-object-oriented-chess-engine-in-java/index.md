@@ -8,6 +8,7 @@ cover:
   image: "images/mechanical-turk.jpg"
   alt: "Designing an Object Oriented Chess Engine in Java"
 aliases:
+  - /designing-an-object-oriented-chess-engine-in-java/
   - "/2018/08/16/designing-an-object-oriented-chess-engine-in-java/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/road-to-productivity.jpg"
   alt: "My road to productivity - start finishing and producing"
 aliases:
+  - /my-road-to-productivity-start-finishing-and-producing/
   - "/2018/09/02/my-road-to-productivity-start-finishing-and-producing/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/building-microservices.jpg"
   alt: "Starting with Microservices: Read “Building Microservices”"
 aliases:
+  - /starting-with-microservices-read-building-microservices/
   - "/2018/01/24/starting-with-microservices-read-building-microservices/"
 ShowToc: true
 TocOpen: false

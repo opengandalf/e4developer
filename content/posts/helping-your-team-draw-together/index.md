@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-whiteboard-drawing.jpg"
   alt: "Helping your team - Draw together!"
 aliases:
+  - /helping-your-team-draw-together/
   - "/2018/01/13/helping-your-team-draw-together/"
 ShowToc: true
 TocOpen: false

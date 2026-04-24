@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Software architecture in the world of microservices"
 aliases:
+  - /software-architecture-in-the-world-of-microservices/
   - "/2018/12/02/software-architecture-in-the-world-of-microservices/"
 ShowToc: true
 TocOpen: false

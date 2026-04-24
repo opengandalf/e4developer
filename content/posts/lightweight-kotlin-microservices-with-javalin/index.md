@@ -8,6 +8,7 @@ cover:
   image: "images/javalin-logo.png"
   alt: "Lightweight Kotlin Microservices with Javalin"
 aliases:
+  - /lightweight-kotlin-microservices-with-javalin/
   - "/2018/03/22/lightweight-kotlin-microservices-with-javalin/"
 ShowToc: true
 TocOpen: false

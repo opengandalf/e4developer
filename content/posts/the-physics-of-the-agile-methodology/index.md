@@ -8,6 +8,7 @@ cover:
   image: "images/agile-physics.jpg"
   alt: "The Physics of the Agile Methodology"
 aliases:
+  - /the-physics-of-the-agile-methodology/
   - "/2018/09/29/the-physics-of-the-agile-methodology/"
 ShowToc: true
 TocOpen: false

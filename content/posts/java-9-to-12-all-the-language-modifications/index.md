@@ -8,6 +8,7 @@ cover:
   image: "images/java-9-12.jpg"
   alt: "Java 9 to 12 - all the language modifications"
 aliases:
+  - /java-9-to-12-all-the-language-modifications/
   - "/2019/03/26/java-9-to-12-all-the-language-modifications/"
 ShowToc: true
 TocOpen: false

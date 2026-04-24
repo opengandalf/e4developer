@@ -8,6 +8,7 @@ cover:
   image: "images/tech-debt.jpg"
   alt: "Having just the right amount of technical debt"
 aliases:
+  - /having-just-the-right-amount-of-technical-debt/
   - "/2018/11/21/having-just-the-right-amount-of-technical-debt/"
 ShowToc: true
 TocOpen: false

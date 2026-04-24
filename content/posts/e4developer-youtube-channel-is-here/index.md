@@ -8,6 +8,7 @@ cover:
   image: "images/e4youtube.jpg"
   alt: "E4developer YouTube channel is here!"
 aliases:
+  - /e4developer-youtube-channel-is-here/
   - "/2018/07/17/e4developer-youtube-channel-is-here/"
 ShowToc: true
 TocOpen: false

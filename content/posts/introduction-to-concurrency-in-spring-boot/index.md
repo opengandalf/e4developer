@@ -8,6 +8,7 @@ cover:
   image: "images/trains.jpg"
   alt: "Introduction to Concurrency in Spring Boot"
 aliases:
+  - /introduction-to-concurrency-in-spring-boot/
   - "/2018/03/30/introduction-to-concurrency-in-spring-boot/"
 ShowToc: true
 TocOpen: false

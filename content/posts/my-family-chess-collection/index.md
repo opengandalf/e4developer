@@ -8,6 +8,7 @@ cover:
   image: "images/chess-collection.jpg"
   alt: "My Family Chess Collection"
 aliases:
+  - /my-family-chess-collection/
   - "/2018/07/29/my-family-chess-collection/"
 ShowToc: true
 TocOpen: false

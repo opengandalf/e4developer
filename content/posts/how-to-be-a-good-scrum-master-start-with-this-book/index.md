@@ -8,6 +8,7 @@ cover:
   image: "images/scrum-mastery.jpg"
   alt: "How to be a good Scrum Master? Start with this book!"
 aliases:
+  - /how-to-be-a-good-scrum-master-start-with-this-book/
   - "/2018/08/24/how-to-be-a-good-scrum-master-start-with-this-book/"
 ShowToc: true
 TocOpen: false

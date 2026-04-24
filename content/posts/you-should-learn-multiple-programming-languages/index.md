@@ -8,6 +8,7 @@ cover:
   image: "images/learn-languages.jpg"
   alt: "You should learn multiple programming languages"
 aliases:
+  - /you-should-learn-multiple-programming-languages/
   - "/2019/06/16/you-should-learn-multiple-programming-languages/"
 ShowToc: true
 TocOpen: false

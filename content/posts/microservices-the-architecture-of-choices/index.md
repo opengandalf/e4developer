@@ -8,6 +8,7 @@ cover:
   image: "images/doors-choices.jpg"
   alt: "Microservices - the Architecture of Choices"
 aliases:
+  - /microservices-the-architecture-of-choices/
   - "/2018/04/18/microservices-the-architecture-of-choices/"
 ShowToc: true
 TocOpen: false

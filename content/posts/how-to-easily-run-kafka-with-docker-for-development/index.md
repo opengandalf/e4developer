@@ -8,6 +8,7 @@ cover:
   image: "images/docker-kafka.jpg"
   alt: "How to easily run Kafka with Docker for Development"
 aliases:
+  - /how-to-easily-run-kafka-with-docker-for-development/
   - "/2018/05/20/how-to-easily-run-kafka-with-docker-for-development/"
 ShowToc: true
 TocOpen: false

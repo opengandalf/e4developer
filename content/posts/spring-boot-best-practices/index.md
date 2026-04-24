@@ -8,6 +8,7 @@ cover:
   image: "images/spring-boot-best-practices.png"
   alt: "Spring Boot - Best Practices"
 aliases:
+  - /spring-boot-best-practices/
   - "/2018/08/06/spring-boot-best-practices/"
 ShowToc: true
 TocOpen: false

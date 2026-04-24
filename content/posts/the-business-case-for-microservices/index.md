@@ -8,6 +8,7 @@ cover:
   image: "images/growing-money.jpg"
   alt: "The business case for Microservices"
 aliases:
+  - /the-business-case-for-microservices/
   - "/2018/02/03/the-business-case-for-microservices/"
 ShowToc: true
 TocOpen: false

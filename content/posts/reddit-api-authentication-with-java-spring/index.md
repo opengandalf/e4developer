@@ -8,6 +8,7 @@ cover:
   image: "images/java-reddit-oauth-api.jpg"
   alt: "Reddit API Authentication with Java/Spring"
 aliases:
+  - /reddit-api-authentication-with-java-spring/
   - "/2018/11/04/reddit-api-authentication-with-java-spring/"
 ShowToc: true
 TocOpen: false

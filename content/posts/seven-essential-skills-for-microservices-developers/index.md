@@ -8,6 +8,7 @@ cover:
   image: "images/mag-seven.jpg"
   alt: "Seven Essential Skills for Microservices Developers"
 aliases:
+  - /seven-essential-skills-for-microservices-developers/
   - "/2018/01/25/seven-essential-skills-for-microservices-developers/"
 ShowToc: true
 TocOpen: false

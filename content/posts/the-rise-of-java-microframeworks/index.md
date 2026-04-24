@@ -8,6 +8,7 @@ cover:
   image: "images/microframeworks.png"
   alt: "The rise of Java Microframeworks"
 aliases:
+  - /the-rise-of-java-microframeworks/
   - "/2018/06/02/the-rise-of-java-microframeworks/"
 ShowToc: true
 TocOpen: false

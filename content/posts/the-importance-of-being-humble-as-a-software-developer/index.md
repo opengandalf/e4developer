@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "The importance of being humble as a software developer"
 aliases:
+  - /the-importance-of-being-humble-as-a-software-developer/
   - "/2018/04/01/the-importance-of-being-humble-as-a-software-developer/"
 ShowToc: true
 TocOpen: false

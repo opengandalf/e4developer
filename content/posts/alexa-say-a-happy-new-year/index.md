@@ -8,6 +8,7 @@ cover:
   image: "images/alexa-header.jpg"
   alt: "Alexa, say a Happy New Year!"
 aliases:
+  - /alexa-say-a-happy-new-year/
   - "/2019/01/04/alexa-say-a-happy-new-year/"
 ShowToc: true
 TocOpen: false

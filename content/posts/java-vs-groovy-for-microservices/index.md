@@ -8,6 +8,7 @@ cover:
   image: "images/java-vs-groovy.jpg"
   alt: "Java vs Groovy for Microservices"
 aliases:
+  - /java-vs-groovy-for-microservices/
   - "/2018/08/26/java-vs-groovy-for-microservices/"
 ShowToc: true
 TocOpen: false

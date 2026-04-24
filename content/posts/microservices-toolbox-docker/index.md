@@ -8,6 +8,7 @@ cover:
   image: "images/docker.png"
   alt: "Microservices Toolbox - Docker"
 aliases:
+  - /microservices-toolbox-docker/
   - "/2018/01/18/microservices-toolbox-docker/"
 ShowToc: true
 TocOpen: false

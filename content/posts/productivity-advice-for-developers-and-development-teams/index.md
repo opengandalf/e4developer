@@ -8,6 +8,7 @@ cover:
   image: "images/management-matrix.png"
   alt: "Productivity advice for developers and development teams"
 aliases:
+  - /productivity-advice-for-developers-and-development-teams/
   - "/2018/04/08/productivity-advice-for-developers-and-development-teams/"
 ShowToc: true
 TocOpen: false

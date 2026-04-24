@@ -8,6 +8,7 @@ cover:
   image: "images/data-flow-featured.png"
   alt: "Getting Started with Spring Cloud Data Flow"
 aliases:
+  - /getting-started-with-spring-cloud-data-flow/
   - "/2018/02/18/getting-started-with-spring-cloud-data-flow/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/devoxx-spring.jpg"
   alt: "The State of Spring in 2018 - Devoxx UK Impressions"
 aliases:
+  - /the-state-of-spring-in-2018-devoxx-uk-impressions/
   - "/2018/05/20/the-state-of-spring-in-2018-devoxx-uk-impressions/"
 ShowToc: true
 TocOpen: false

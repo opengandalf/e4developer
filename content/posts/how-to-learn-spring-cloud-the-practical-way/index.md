@@ -8,6 +8,7 @@ cover:
   image: "images/spring-cloud-learning.png"
   alt: "How to learn Spring Cloud - the practical way"
 aliases:
+  - /how-to-learn-spring-cloud-the-practical-way/
   - "/2018/03/06/how-to-learn-spring-cloud-the-practical-way/"
 ShowToc: true
 TocOpen: false

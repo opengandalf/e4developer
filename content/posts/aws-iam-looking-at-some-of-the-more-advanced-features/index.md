@@ -8,6 +8,7 @@ cover:
   image: "images/aws-iam.jpg"
   alt: "AWS IAM - Looking at some of the more advanced features"
 aliases:
+  - /aws-iam-looking-at-some-of-the-more-advanced-features/
   - "/2019/07/28/aws-iam-looking-at-some-of-the-more-advanced-features/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/reactor-spring.png"
   alt: "Getting Reactive with Spring Boot 2.0 and Reactor"
 aliases:
+  - /getting-reactive-with-spring-boot-2-0-and-reactor/
   - "/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/"
 ShowToc: true
 TocOpen: false

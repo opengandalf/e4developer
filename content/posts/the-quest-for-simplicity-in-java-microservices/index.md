@@ -8,6 +8,7 @@ cover:
   image: "images/quest.jpg"
   alt: "The Quest for Simplicity in Java Microservices"
 aliases:
+  - /the-quest-for-simplicity-in-java-microservices/
   - "/2018/07/08/the-quest-for-simplicity-in-java-microservices/"
 ShowToc: true
 TocOpen: false

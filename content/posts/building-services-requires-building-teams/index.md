@@ -8,6 +8,7 @@ cover:
   image: "images/team.jpg"
   alt: "Building services requires building teams"
 aliases:
+  - /building-services-requires-building-teams/
   - "/2018/02/20/building-services-requires-building-teams/"
 ShowToc: true
 TocOpen: false

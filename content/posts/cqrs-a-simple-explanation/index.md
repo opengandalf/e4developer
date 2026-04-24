@@ -8,6 +8,7 @@ cover:
   image: "images/cqrs-canyon.jpg"
   alt: "CQRS - a simple explanation"
 aliases:
+  - /cqrs-a-simple-explanation/
   - "/2018/03/11/cqrs-a-simple-explanation/"
 ShowToc: true
 TocOpen: false

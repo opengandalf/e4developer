@@ -8,6 +8,7 @@ cover:
   image: "images/microprofile.png"
   alt: "Java Enterprise and Microservices - meet Microprofile!"
 aliases:
+  - /java-enterprise-and-microservices-meet-microprofile/
   - "/2018/01/21/java-enterprise-and-microservices-meet-microprofile/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/pulling-line.jpg"
   alt: "Helping your team - Start using pull request"
 aliases:
+  - /helping-your-team-start-using-pull-request/
   - "/2018/01/15/helping-your-team-start-using-pull-request/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/message-in-dlq.jpg"
   alt: "Handling bad messages with RabbitMQ and Spring Cloud Stream"
 aliases:
+  - /handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/
   - "/2018/02/05/handling-bad-messages-with-rabbitmq-and-spring-cloud-stream/"
 ShowToc: true
 TocOpen: false

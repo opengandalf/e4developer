@@ -8,6 +8,7 @@ cover:
   image: "images/spring-boot.png"
   alt: "Microservices Toolbox: Spring Boot"
 aliases:
+  - /microservices-toolbox-spring-boot/
   - "/2018/01/16/microservices-toolbox-spring-boot/"
 ShowToc: true
 TocOpen: false

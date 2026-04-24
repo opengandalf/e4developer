@@ -8,6 +8,7 @@ cover:
   image: "images/lead_dev.jpg"
   alt: "Being a Lead Developer on the Road - Presentation"
 aliases:
+  - /being-a-lead-developer-on-the-road-presentation/
   - "/2018/03/16/being-a-lead-developer-on-the-road-presentation/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/degrees.jpg"
   alt: "Computer Science Degree - The Missing Pieces"
 aliases:
+  - /computer-science-degree-the-missing-pieces/
   - "/2018/06/18/computer-science-degree-the-missing-pieces/"
 ShowToc: true
 TocOpen: false

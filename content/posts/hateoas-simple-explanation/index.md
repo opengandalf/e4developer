@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "HATEOAS - a simple explanation"
 aliases:
+  - /hateoas-simple-explanation/
   - "/2018/02/16/hateoas-simple-explanation/"
 ShowToc: true
 TocOpen: false

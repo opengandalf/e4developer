@@ -8,6 +8,7 @@ cover:
   image: "images/chessboard.jpg"
   alt: "E4developer is growing - “Start Here” and more to come"
 aliases:
+  - /e4developer-is-growing-start-here-and-more-to-come/
   - "/2018/06/26/e4developer-is-growing-start-here-and-more-to-come/"
 ShowToc: true
 TocOpen: false

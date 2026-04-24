@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "AWS Solution Architect Pro, Good Habits and Blogging"
 aliases:
+  - /aws-solution-architect-pro-good-habits-and-blogging/
   - "/2019/07/21/aws-solution-architect-pro-good-habits-and-blogging/"
 ShowToc: true
 TocOpen: false

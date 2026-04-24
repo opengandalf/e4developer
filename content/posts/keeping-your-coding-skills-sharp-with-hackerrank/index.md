@@ -8,6 +8,7 @@ cover:
   image: "images/hackerrank.png"
   alt: "Keeping your coding skills sharp with HackerRank"
 aliases:
+  - /keeping-your-coding-skills-sharp-with-hackerrank/
   - "/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/"
 ShowToc: true
 TocOpen: false

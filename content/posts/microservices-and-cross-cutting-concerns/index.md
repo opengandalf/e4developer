@@ -8,6 +8,7 @@ cover:
   image: "images/technical-forum.jpg"
   alt: "Microservices and cross cutting concerns"
 aliases:
+  - /microservices-and-cross-cutting-concerns/
   - "/2018/09/09/microservices-and-cross-cutting-concerns/"
 ShowToc: true
 TocOpen: false

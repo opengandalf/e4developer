@@ -8,6 +8,7 @@ cover:
   image: "images/minimax-java.jpg"
   alt: "Implementing Minimax Algorithm in Java"
 aliases:
+  - /implementing-minimax-algorithm-in-java/
   - "/2018/09/23/implementing-minimax-algorithm-in-java/"
 ShowToc: true
 TocOpen: false

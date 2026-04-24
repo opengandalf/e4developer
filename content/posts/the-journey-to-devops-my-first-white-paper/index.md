@@ -8,6 +8,7 @@ cover:
   image: "images/journey-to-devops.jpg"
   alt: "“The Journey to DevOps” - my first white paper"
 aliases:
+  - /the-journey-to-devops-my-first-white-paper/
   - "/2019/03/26/the-journey-to-devops-my-first-white-paper/"
 ShowToc: true
 TocOpen: false

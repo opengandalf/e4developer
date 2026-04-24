@@ -8,6 +8,7 @@ cover:
   image: "images/simple-flux.png"
   alt: "WebFlux and servicing client requests - how does it work?"
 aliases:
+  - /webflux-and-servicing-client-requests-how-does-it-work/
   - "/2018/04/14/webflux-and-servicing-client-requests-how-does-it-work/"
 ShowToc: true
 TocOpen: false

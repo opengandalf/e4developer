@@ -8,6 +8,7 @@ cover:
   image: "images/devopsroundabout.jpg"
   alt: "Journey to DevOps - Talk at the DevOps Roundabout"
 aliases:
+  - /journey-to-devops-talk-at-the-devops-roundabout/
   - "/2019/10/03/journey-to-devops-talk-at-the-devops-roundabout/"
 ShowToc: true
 TocOpen: false

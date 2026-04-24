@@ -8,6 +8,7 @@ cover:
   image: "images/spring-data.jpg"
   alt: "Spring Data - Microservices Data Companion"
 aliases:
+  - /spring-data-microservices-data-companion/
   - "/2018/05/05/spring-data-microservices-data-companion/"
 ShowToc: true
 TocOpen: false

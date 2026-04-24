@@ -8,6 +8,7 @@ cover:
   image: "images/cropped-e4-dev-twitter.png"
   alt: "Introducing JSON-B with Spring Boot 2.0"
 aliases:
+  - /introducing-json-b-with-spring-boot-2-0/
   - "/2018/03/04/introducing-json-b-with-spring-boot-2-0/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/java-reddit.jpg"
   alt: "Reddit - the Java goldmine"
 aliases:
+  - /reddit-the-java-goldmine/
   - "/2018/08/05/reddit-the-java-goldmine/"
 ShowToc: true
 TocOpen: false

@@ -8,6 +8,7 @@ cover:
   image: "images/paper-coding.jpg"
   alt: "Tips for “whiteboard” and “paper” coding interviews"
 aliases:
+  - /tips-for-whiteboard-and-paper-coding-interviews/
   - "/2018/09/02/tips-for-whiteboard-and-paper-coding-interviews/"
 ShowToc: true
 TocOpen: false
