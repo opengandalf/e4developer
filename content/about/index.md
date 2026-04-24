@@ -2,6 +2,7 @@
 title: "About"
 date: 2018-01-01T00:00:00Z
 draft: false
+layout: single
 ShowToc: false
 hidemeta: true
 aliases:
