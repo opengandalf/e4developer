@@ -9,6 +9,7 @@ cover:
   alt: "Code Sharing in Microservices Architecture - YouTube Course"
 aliases:
   - "/2019/06/21/code-sharing-in-microservices-architecture-youtube-course/"
+  - "/code-sharing-in-microservices-architecture-youtube-course/"
 ShowToc: true
 TocOpen: false
 ---I am very excited to share with you my mini video course on “Code Sharing in Microservices Architecture”.

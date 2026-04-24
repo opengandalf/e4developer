@@ -9,6 +9,7 @@ cover:
   alt: "You should learn multiple programming languages"
 aliases:
   - "/2019/06/16/you-should-learn-multiple-programming-languages/"
+  - "/you-should-learn-multiple-programming-languages/"
 ShowToc: true
 TocOpen: false
 ---The first language I used to write a small program was Pascal. Since then I have worked professionally with Java, JavaScript, Groovy and a few more. Currently, I am learning a bit of Go in my spare time. In this blog post, I want to encourage you to learn a new language as well and provide you with a few ideas.

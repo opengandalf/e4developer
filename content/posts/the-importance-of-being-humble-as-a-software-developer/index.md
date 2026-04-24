@@ -9,6 +9,7 @@ cover:
   alt: "The importance of being humble as a software developer"
 aliases:
   - "/2018/04/01/the-importance-of-being-humble-as-a-software-developer/"
+  - "/the-importance-of-being-humble-as-a-software-developer/"
 ShowToc: true
 TocOpen: false
 ---I have recently been thinking about the importance of humility for software developers. I feel that the more I learn about building software the humbler I become, knowing I do not have all the answers. This attitude helped me a lot in my life as a software developer…

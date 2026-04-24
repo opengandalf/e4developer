@@ -9,6 +9,7 @@ cover:
   alt: "Implementing Minimax Algorithm in Java"
 aliases:
   - "/2018/09/23/implementing-minimax-algorithm-in-java/"
+  - "/implementing-minimax-algorithm-in-java/"
 ShowToc: true
 TocOpen: false
 ---If you want to write a program that is able to play a strategy game, there are good chances that you will be looking at a Minimax algorithm. This is especially true when it comes to games like chess, where variations of the Minimax algorithm are what is used to build the strongest chess-playing programs in existence. In this article, I will look at implementing the basic version of the Minimax algorithm with Java.

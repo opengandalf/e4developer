@@ -9,6 +9,7 @@ cover:
   alt: "Starting a blog - why?"
 aliases:
   - "/2018/01/13/starting-a-blog-why/"
+  - "/starting-a-blog-why/"
 ShowToc: true
 TocOpen: false
 ---It is 2018, January, time to decide what to do next. 2017 was an extremely eventful year for me. I became a British Citizen, bought a house and my daughter Eva was born. I don’t expect anything near that level of change in 2018, but who knows? There is one thing that I have been meaning to do for a while and it is to start my own blog. I am already writing for Scott Logic: <http://blog.scottlogic.com/bjedrzejewski/> but this one is different. It is my place to share what I like and not necessarily strictly work related.

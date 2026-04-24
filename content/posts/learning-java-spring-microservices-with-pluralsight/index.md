@@ -9,6 +9,7 @@ cover:
   alt: "Learning Java / Spring / Microservices with Pluralsight"
 aliases:
   - "/2018/08/12/learning-java-spring-microservices-with-pluralsight/"
+  - "/learning-java-spring-microservices-with-pluralsight/"
 ShowToc: true
 TocOpen: false
 ---You might have seen recently some Pluralsight promotion on my page. There are two reasons for this. Reason number one- I became a Pluralsight Affiliate and I earn by promoting [their website](https://www.e4developer.com/ps-a-free-trial). Reason number two- I use Pluralsight myself and I think it is a great place to level up your skills. In this article, I will explain why you should consider it too!

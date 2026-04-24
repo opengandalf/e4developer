@@ -9,6 +9,7 @@ cover:
   alt: "E4developer, Facebook, chess and life in 2020"
 aliases:
   - "/2020/05/03/e4developer-facebook-chess-and-life-in-2020/"
+  - "/e4developer-facebook-chess-and-life-in-2020/"
 ShowToc: true
 TocOpen: false
 ---It has been a while since I last time wrote a post here, hence I wanted to update you on what is happening with the website (why the lack of activity) and what’s new in my life. And there is plenty!

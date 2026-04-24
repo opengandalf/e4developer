@@ -9,6 +9,7 @@ cover:
   alt: "Which Java JDK should I use? Which provide free LTS?"
 aliases:
   - "/2019/03/30/which-java-jdk-should-i-use-which-provide-free-lts/"
+  - "/which-java-jdk-should-i-use-which-provide-free-lts/"
 ShowToc: true
 TocOpen: false
 ---With Oracle stopping free updates for Java 8 and effectively only maintaining free updates with the latest Java release (12 at the time of writing) a natural question arises… Which JDK should I use? This is a short article providing answers, depending on your circumstances.

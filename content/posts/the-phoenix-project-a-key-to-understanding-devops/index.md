@@ -9,6 +9,7 @@ cover:
   alt: "The Phoenix Project - a key to understanding DevOps"
 aliases:
   - "/2018/03/24/the-phoenix-project-a-key-to-understanding-devops/"
+  - "/the-phoenix-project-a-key-to-understanding-devops/"
 ShowToc: true
 TocOpen: false
 ---Every now and then you read a book that completely changes how you understand something. [“The Phoenix Project” (Amazon)](https://www.amazon.com/gp/product/1942788290/ref=as_li_tl?ie=UTF8&tag=e4developer01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1942788290&linkId=63905929a6dcbb90b2a2e97207c06361) changed how I understand DevOps and driving positive transformations in companies. Keep reading to see why I think everyone working in the software industry should read this book.

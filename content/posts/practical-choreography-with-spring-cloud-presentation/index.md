@@ -9,6 +9,7 @@ cover:
   alt: "Practical Choreography with Spring Cloud - Presentation"
 aliases:
   - "/2018/02/20/practical-choreography-with-spring-cloud-presentation/"
+  - "/practical-choreography-with-spring-cloud-presentation/"
 ShowToc: true
 TocOpen: false
 ---On the 15th February 2018 I had a pleasure to speak at [The JVM Roundabout](https://www.meetup.com/JVM-Roundabout/) Meetup in London.

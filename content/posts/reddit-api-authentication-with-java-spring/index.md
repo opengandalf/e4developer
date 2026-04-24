@@ -9,6 +9,7 @@ cover:
   alt: "Reddit API Authentication with Java/Spring"
 aliases:
   - "/2018/11/04/reddit-api-authentication-with-java-spring/"
+  - "/reddit-api-authentication-with-java-spring/"
 ShowToc: true
 TocOpen: false
 ---I am a [big fan of Reddit]({{< ref "/posts/reddit-the-java-goldmine" >}}). The platform is great for learning and sharing programming knowledge… In fact, it contains so much knowledge and opinion, that there is no chance for any single person to analyze it all. Sounds like a job for a machine? Before we get started, we need to learn how to authenticate with the Reddit API.

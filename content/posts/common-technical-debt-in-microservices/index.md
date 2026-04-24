@@ -9,6 +9,7 @@ cover:
   alt: "Common Technical Debt in Microservices"
 aliases:
   - "/2018/02/11/common-technical-debt-in-microservices/"
+  - "/common-technical-debt-in-microservices/"
 ShowToc: true
 TocOpen: false
 ---Working for a consultancy I have the opportunity to talk to large number of software developers across multiple different projects. That gives me an opportunity to see what works and what common problems different organizations are facing. In this article I will show the most common mistakes in microservices that cause technical debt. I suggest what you could be doing instead.

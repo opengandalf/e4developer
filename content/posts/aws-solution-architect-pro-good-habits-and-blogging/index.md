@@ -9,6 +9,7 @@ cover:
   alt: "AWS Solution Architect Pro, Good Habits and Blogging"
 aliases:
   - "/2019/07/21/aws-solution-architect-pro-good-habits-and-blogging/"
+  - "/aws-solution-architect-pro-good-habits-and-blogging/"
 ShowToc: true
 TocOpen: false
 ---I have been posting a little bit less recently. In some ways, it is easier to write two blog posts a week than one blog post once in a while. I have recently read the book titled “Atomic Habit” that motivated me to fix this state of affairs!

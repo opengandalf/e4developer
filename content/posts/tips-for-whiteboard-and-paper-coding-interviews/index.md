@@ -9,6 +9,7 @@ cover:
   alt: "Tips for “whiteboard” and “paper” coding interviews"
 aliases:
   - "/2018/09/02/tips-for-whiteboard-and-paper-coding-interviews/"
+  - "/tips-for-whiteboard-and-paper-coding-interviews/"
 ShowToc: true
 TocOpen: false
 ---In my career as a software developer, I have interviewed over 100 people. Most of these interviews were face to face interview involving coding on paper or a white-board. In this article, I want to give you practical advice on how to approach these interviews.

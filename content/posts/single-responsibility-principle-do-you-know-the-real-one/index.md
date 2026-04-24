@@ -9,6 +9,7 @@ cover:
   alt: "Single Responsibility Principle - do you know the real one?"
 aliases:
   - "/2018/10/04/single-responsibility-principle-do-you-know-the-real-one/"
+  - "/single-responsibility-principle-do-you-know-the-real-one/"
 ShowToc: true
 TocOpen: false
 ---Single Responsibility Principle, as defined in the very famous set of SOLID principles, is often misunderstood. When asked what it means, most developers go with- “a class should do only one thing”, or something along these lines. This is simplistic and frankly- wrong! Intrigued? Read on!

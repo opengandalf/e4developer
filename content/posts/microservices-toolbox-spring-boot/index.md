@@ -9,6 +9,7 @@ cover:
   alt: "Microservices Toolbox: Spring Boot"
 aliases:
   - "/2018/01/16/microservices-toolbox-spring-boot/"
+  - "/microservices-toolbox-spring-boot/"
 ShowToc: true
 TocOpen: false
 ---This is beginning of the series of blog posts where I will introduce and explain different tools and frameworks that are useful in microservices development. It is difficult to start such a series without introducing Spring Boot!

@@ -9,6 +9,7 @@ cover:
   alt: "How to write horrible Java"
 aliases:
   - "/2018/05/13/how-to-write-horrible-java/"
+  - "/how-to-write-horrible-java/"
 ShowToc: true
 TocOpen: false
 ---I feel horrible today. I am sick- my throat hurts, my head is not working as it should. Hence, I decided I will tell you how to write horrible Java code. If you are tired of all these beautiful patterns and best practices and you want to write something insane- read on. Maybe you like horror stories but in code- this may appeal to you!

@@ -9,6 +9,7 @@ cover:
   alt: "CQRS - a simple explanation"
 aliases:
   - "/2018/03/11/cqrs-a-simple-explanation/"
+  - "/cqrs-a-simple-explanation/"
 ShowToc: true
 TocOpen: false
 ---**Command Query Responsibility Segregation (CQRS)** is a pattern that causes quite a lot of confusion. With the popularity of microservices and the event-based programming model, it is important to know what CQRS is. In this article, I will provide you with a simple explanation.

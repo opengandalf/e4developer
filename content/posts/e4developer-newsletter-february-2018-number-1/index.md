@@ -9,6 +9,7 @@ cover:
   alt: "E4developer Newsletter - February 2018 - Number 1"
 aliases:
   - "/2018/03/01/e4developer-newsletter-february-2018-number-1/"
+  - "/e4developer-newsletter-february-2018-number-1/"
 ShowToc: true
 TocOpen: false
 ---As part of me running this blog, I have decided to create a mailing list and a semi regular newsletter. This is the first edition of that newsletter. If you would like to join it and receive the content to your email, you can **[sign up here](https://www.e4developer.com/newsletter/).**

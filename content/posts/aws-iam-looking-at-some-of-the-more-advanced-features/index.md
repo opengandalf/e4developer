@@ -9,6 +9,7 @@ cover:
   alt: "AWS IAM - Looking at some of the more advanced features"
 aliases:
   - "/2019/07/28/aws-iam-looking-at-some-of-the-more-advanced-features/"
+  - "/aws-iam-looking-at-some-of-the-more-advanced-features/"
 ShowToc: true
 TocOpen: false
 ---AWS Identity and Access Management (IAM) is one of the most important services available in AWS. Most people know that you can create user accounts and assign permissions (policies). In this blog post, I will look at a few more advanced features of the AWS IAM.

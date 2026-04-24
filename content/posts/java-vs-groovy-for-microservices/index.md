@@ -9,6 +9,7 @@ cover:
   alt: "Java vs Groovy for Microservices"
 aliases:
   - "/2018/08/26/java-vs-groovy-for-microservices/"
+  - "/java-vs-groovy-for-microservices/"
 ShowToc: true
 TocOpen: false
 ---In the past three years, I was involved in developing microservices architectures. In Java, with Spring Boot and in Groovy with Grails. Perhaps risking some outrage, I will compare my experience in Java and Groovy, Spring Boot and Grails and give my opinion on what works best.

@@ -9,6 +9,7 @@ cover:
   alt: "WebFlux in practice - asynchronous service with WebClient"
 aliases:
   - "/2018/05/31/webflux-in-practice-asynchronous-service-with-webclient/"
+  - "/webflux-in-practice-asynchronous-service-with-webclient/"
 ShowToc: true
 TocOpen: false
 ---Building reactive microservices with WebFlux is fun and easy. In this article, I will show you how to build a reactive “synonyms” service. Making asynchronous API calls with WebClient is likely the most common scenario for a real-life reactive microservice.

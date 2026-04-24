@@ -9,6 +9,7 @@ cover:
   alt: "Keeping your coding skills sharp with HackerRank"
 aliases:
   - "/2018/03/17/keeping-your-coding-skills-sharp-with-hackerrank/"
+  - "/keeping-your-coding-skills-sharp-with-hackerrank/"
 ShowToc: true
 TocOpen: false
 ---I have recently gave a talk about being a [lead developer in consultancy]({{< ref "/posts/being-a-lead-developer-on-the-road-presentation" >}}). I have stressed there the importance of learning in the role of a software consultant. Beyond that, it is good to stay “in shape” when it comes to algorithmic coding. You never know when it may be important- a difficult problem at work or a short notice interview. Let me introduce you to one of my all-time favourite “tools”. Ladies and Gentlemen- [HackerRank](https://www.hackerrank.com/)!

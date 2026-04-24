@@ -9,6 +9,7 @@ cover:
   alt: "Java 9 to 12 - all the language modifications"
 aliases:
   - "/2019/03/26/java-9-to-12-all-the-language-modifications/"
+  - "/java-9-to-12-all-the-language-modifications/"
 ShowToc: true
 TocOpen: false
 ---We have all had quite a lot of time to get familiar with Java 8 and all the amazing features that it provided us with. Since then quite a lot have happened, with the release of Java 9, 10, 11 and this month 12 it is hard to stay on top of all the language changes happening! In here I will **focus exclusively on the changes to the language** leaving library changes to other writers.

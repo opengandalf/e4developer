@@ -9,6 +9,7 @@ cover:
   alt: "Introducing JSON-B with Spring Boot 2.0"
 aliases:
   - "/2018/03/04/introducing-json-b-with-spring-boot-2-0/"
+  - "/introducing-json-b-with-spring-boot-2-0/"
 ShowToc: true
 TocOpen: false
 ---JSON Binding (JSON-B) is the new Java EE specification for converting JSON messages to Java Objects and back. JSON is used everywhere and so far we had two main ways of dealing with JSON conversion in Java- using either Jackson or GSON. With the introduction of JSON-B, we have a standard way of handling this conversion. In this article, we will see how Spring Boot 2.0 supports JSON-B, how easy it is to use it and how does it compare with the other options.

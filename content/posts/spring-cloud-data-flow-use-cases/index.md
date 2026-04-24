@@ -9,6 +9,7 @@ cover:
   alt: "Spring Cloud Data Flow - Use Cases"
 aliases:
   - "/2018/02/28/spring-cloud-data-flow-use-cases/"
+  - "/spring-cloud-data-flow-use-cases/"
 ShowToc: true
 TocOpen: false
 ---I have recently spent quite a lot of time playing with Spring Cloud Data Flow (SCDF). It is an amazing platform that can be used for many things. Talking about it with some of my colleagues I realized that not everyone knows what are the common use cases. Thinking about it further I realized that I don’t know the full scope of capabilities and business problems that it can solve! In this article I look at different uses for Spring Cloud Data Flow based on what the platform offers and actual stories from companies using it in production. The examples come from [Spring One Platform 2017](https://springoneplatform.io/2017) conference.

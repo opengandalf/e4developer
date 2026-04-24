@@ -9,6 +9,7 @@ cover:
   alt: "Please, stop writing so many “for loops” in Java!"
 aliases:
   - "/2018/09/15/please-stop-writing-so-many-for-loops-in-java/"
+  - "/please-stop-writing-so-many-for-loops-in-java/"
 ShowToc: true
 TocOpen: false
 ---In this blog post, I want to take you back to basics and talk about Java *for loops*. To be honest, I am writing this blog post partially for myself, as this is something that I am myself too often guilty of. Since Java 8, we don’t have to write so many *for loops* in Java! I hope this blog post will make your code nicer to read and quicker to write.

@@ -9,6 +9,7 @@ cover:
   alt: "E4developer Newsletter - May 2018 - Number 3"
 aliases:
   - "/2018/05/07/e4developer-newsletter-may-2018-number-3/"
+  - "/e4developer-newsletter-may-2018-number-3/"
 ShowToc: true
 TocOpen: false
 ---In the last month, I spent a lot of time writing about Reactive Spring Boot. I believe that Reactive Microservices are only going to grow in popularity, so I really recommend you to get to know them!

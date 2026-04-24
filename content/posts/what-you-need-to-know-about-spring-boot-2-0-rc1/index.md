@@ -9,6 +9,7 @@ cover:
   alt: "What you need to know about Spring Boot 2.0 (RC1)"
 aliases:
   - "/2018/01/31/what-you-need-to-know-about-spring-boot-2-0-rc1/"
+  - "/what-you-need-to-know-about-spring-boot-2-0-rc1/"
 ShowToc: true
 TocOpen: false
 ---With Spring Boot 2.0 release just around the corner (at the time of writing we have RC1) it is important to see what changes it brings. Even if you are not planning to migrate shortly, it is good to see what is new in this biggest Spring Boot release since the 1.0 version. In this blog post I won’t go through every detail, but cover the most important things.![](images/spring-boot-2-1024x277.jpg)

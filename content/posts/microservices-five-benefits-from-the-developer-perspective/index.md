@@ -9,6 +9,7 @@ cover:
   alt: "Microservices - Five benefits from the developer perspective"
 aliases:
   - "/2018/01/14/microservices-five-benefits-from-the-developer-perspective/"
+  - "/microservices-five-benefits-from-the-developer-perspective/"
 ShowToc: true
 TocOpen: false
 ---I have started this blog to share my technical insight and passion with the wider development community. I would not be true to myself if I did not start by explaining why I enjoy working with microservices.

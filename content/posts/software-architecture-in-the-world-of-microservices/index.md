@@ -9,6 +9,7 @@ cover:
   alt: "Software architecture in the world of microservices"
 aliases:
   - "/2018/12/02/software-architecture-in-the-world-of-microservices/"
+  - "/software-architecture-in-the-world-of-microservices/"
 ShowToc: true
 TocOpen: false
 ---The topic of software architecture comes up often when discussing microservices. Many newcomers to microservices are not sure how to handle discussing architecture and how to make decisions. Should they bring the more traditional role of the software architect, or should everyone just do what they think makes sense? In this article, I will give you my answers to these questions and share some additional advice.

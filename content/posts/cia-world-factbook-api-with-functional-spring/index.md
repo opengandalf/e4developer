@@ -9,6 +9,7 @@ cover:
   alt: "CIA World Factbook API with Functional Spring"
 aliases:
   - "/2018/06/22/cia-world-factbook-api-with-functional-spring/"
+  - "/cia-world-factbook-api-with-functional-spring/"
 ShowToc: true
 TocOpen: false
 ---I have recently been very interested in [microframeworks]({{< ref "/posts/the-rise-of-java-microframeworks" >}}). One thing notably missing from that article is Spring in the context of a microframework. You may be surprised, but it is possible to write very lightweight APIs with Functional Spring. In this article, I will show you how, by turning [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) into a REST API.

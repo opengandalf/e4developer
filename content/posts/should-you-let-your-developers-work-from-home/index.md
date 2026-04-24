@@ -9,6 +9,7 @@ cover:
   alt: "Should you let your developers work from home?"
 aliases:
   - "/2018/10/14/should-you-let-your-developers-work-from-home/"
+  - "/should-you-let-your-developers-work-from-home/"
 ShowToc: true
 TocOpen: false
 ---It seems that everyone wants to work remotely these days. Why wouldn’t they? There are some obvious benefits, such as reduced commute and working from the comfort of your own home. What is the impact on the team though? In this blog post, I focus on the impact on the team rather than individual benefits.
